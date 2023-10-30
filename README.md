@@ -5,7 +5,7 @@
 </p>
  
 
-- 👨‍💻 I'm on a journey to master Cloud Technologies and DevOps. I'm a tech enthusiast and an aspiring cloud engineer.
+- 👨‍💻 I'm on a journey to master Cloud Technologies and DevOps. I'm a tech enthusiast and an aspiring Cloud/DevOps Engineer.
 - 👯 I'm eager to team up on fascinating projects. Be it Cloud or DevOps!
 - 💬 Ask me about Bash or AWS, or just want to talk football? Feel free to reach out.
 - ⚡ I love wacthing anime a lot and also Christopher Nolan Movies. If you need a recommendation, I've got you covered!
