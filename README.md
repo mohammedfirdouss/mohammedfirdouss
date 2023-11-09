@@ -14,11 +14,9 @@
 
 ## GitHub Stats
 
-![Mohammed Firdous's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firdous2307&show_icons=true&theme=transparent)
+| ![Mohammed Firdous's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firdous2307&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firdous2307) |
+| --- | --- |
 
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firdous2307)
 
 ## 📫 Connect with Me
 
