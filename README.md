@@ -17,6 +17,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Firdous2307&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Firdous2307&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Mohammed Firdous's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Firdous2307&hide_border=true&theme=high-contrast)](https://github.com/Firdous2307/github-readme-activity-graph)
+
+
+
 
 
 ## 🌐 Socials:
