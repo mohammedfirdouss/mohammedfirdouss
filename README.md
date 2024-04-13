@@ -5,11 +5,10 @@
 </p>
  
 # 💫 About Me:
-<br> Firdous is a Cloud Engineer with over one year of hands-on experience in AWS and also he is an open-source enthusiast.<br>He believes that open-source is the best way to gain work experience and contribute to communities. <br><br><br>👯 I'm eager to team up on fascinating projects. Be it Cloud or DevOps!<br>💬 Ask me about Bash, Docker or AWS, or just want to talk football? Feel free to reach out.<br>
+<br> Firdous is a Junior Cloud Engineer with 1+ years' expertise in AWS infrastructure, Docker, Linux, Python, and so much more. Specializing in automation and cost-effective solutions, committed to open-source collaboration and driving efficiency in cloud environments.<br>
 
 # Personal Interests:
-<br>**Psychological Books:** I love delving into psychological literature, exploring the complexities of the human mind and behavior.<br>**Football:** When not coding, you'll find me discussing football strategies and cheering for my favorite team(**Manchester United**)<br><br> I love watching anime a lot and also Christopher Nolan Movies. If you need a recommendation, I've got you covered!<br>My Pronouns? He/Him 😄
-
+<br>**Psychological Books:** I love delving into psychological literature, exploring the complexities of the human mind and behavior.<br>**Football:** When not coding, you'll find me discussing football strategies and cheering for my favorite team(**Manchester United**)<br>
 
 
 # 📊 GitHub Stats:
