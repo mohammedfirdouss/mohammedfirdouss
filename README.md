@@ -8,7 +8,7 @@
 <br> Firdous is an aspiring Cloud DevOps Engineer with 1+ years' expertise in AWS infrastructure, Docker, Linux, Python, and so much more. Specializing in automation and cost-effective solutions, committed to open-source collaboration and driving efficiency in cloud environments.<br>
 
 # Personal Interests:
-<br>**Psychological Books:** I love delving into psychological literature, exploring the complexities of the human mind and behavior.<br>**Football:** When not coding, you'll find me discussing football strategies and cheering for my favorite team(**Manchester United**)<br>
+**Football:** When not coding, you'll find me discussing football strategies and cheering for my favorite team(**Manchester United**)<br>
 
 
 # 📊 GitHub Stats:
