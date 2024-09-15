@@ -5,7 +5,7 @@
 </p>
  
 # 💫 About Me:
-<br> Firdous is a Cloud DevOps Engineer with 1+ years' expertise in AWS infrastructure, Docker, Linux, Python, and so much more. Specializing in automation and cost-effective solutions, committed to open-source collaboration and driving efficiency in cloud environments.<br>
+<br> Firdous is a Cloud DevOps Engineer with over a year in AWS infrastructure, I specialize in automation, cost-effective solutions, and scalable serverless solutions. I’m committed to open-source technologies and optimizing cloud performance. Through project-based learning, I've gained expertise in AWS, Docker, Linux, Networking, Python, CI/CD,Terraform and much more.</br>
 
 # Personal Interests:
 **Football:** When not coding, you'll find me discussing football strategies and cheering for my favorite team(**Manchester United**)<br>
