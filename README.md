@@ -12,8 +12,8 @@
 
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
+!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Firdous2307&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Firdous2307&theme=dark&hide_border=false)<br/>
