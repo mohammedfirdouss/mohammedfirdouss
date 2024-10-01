@@ -13,16 +13,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/ac15916084ee4ddea4391f049384cee954c5131d)
-2. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/a4fb1add0420fbee9584008a9109aebeff8a6875)
-3. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/523c37c8a16679c355a16fe76eeff7dce56fe188)
-4. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/e063a8f1645d9909609c79bb3366e836863ba791)
-5. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/97a785590b444cd16c2c2778b8f7da58b90990c2)
-6. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/17edd822229435e4112e3974aa4d5b1228f60d10)
-7. 🔔 Watching [morethancertified/mtc-terraform](https://github.com/morethancertified/mtc-terraform)
-8. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/971f307f3d883d2b95db55352ddeb1865a23d549)
-9. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/d3d2ec8351ef144863becaf88b92c6549657c237)
-10. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/8fc0636918828134ce533505ef0d7f9307d98702)
+1. ⭐ Starred [hivenetes/ai-ml-bootstrapper](https://github.com/hivenetes/ai-ml-bootstrapper)
+2. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/8453030e3a05faec382623547c81e08137e4f0e7)
+3. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/ac15916084ee4ddea4391f049384cee954c5131d)
+4. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/a4fb1add0420fbee9584008a9109aebeff8a6875)
+5. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/523c37c8a16679c355a16fe76eeff7dce56fe188)
+6. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/e063a8f1645d9909609c79bb3366e836863ba791)
+7. 📝 Committed to [Firdous2307/Firdous2307](https://github.com/Firdous2307/Firdous2307/commit/97a785590b444cd16c2c2778b8f7da58b90990c2)
+8. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/17edd822229435e4112e3974aa4d5b1228f60d10)
+9. 🔔 Watching [morethancertified/mtc-terraform](https://github.com/morethancertified/mtc-terraform)
+10. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/971f307f3d883d2b95db55352ddeb1865a23d549)
 <!--END_SECTION:activity--># 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Firdous2307&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Firdous2307&theme=dark&hide_border=false)<br/>
