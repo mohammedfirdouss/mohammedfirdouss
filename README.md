@@ -11,28 +11,8 @@
 **Football:** When not coding, you'll find me discussing football strategies and cheering for my favorite team(**Manchester United**)<br>
 
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
-name: Update README
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Update this repo's README with recent activity
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-  steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.CHECKING_GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Specify a custom commit message"
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Firdous2307&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
