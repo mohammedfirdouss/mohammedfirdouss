@@ -13,16 +13,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/3a2badcb93d145ff69cc284e013eefa092efcea1)
-2. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/fa38c03e31353886448a2b295ace18c2f49649c3)
-3. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/17f3b3002080fc2ec16cab0cb833ebaf797ec963)
-4. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/b169a589a39d2da36b12d8f1c97d94bab2397f66)
-5. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/f229157a43c94e0472aed1e6c4f74d5da4d96161)
-6. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/372a17ad7aca52c65550927d0b294ae1d838494c)
-7. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/f1d7616e0823f13e6a3894d4af3ba8e346fe4d43)
-8. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/be0fd2003c0e9bfd17277e6a28464a09ec55b015)
-9. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/6b04672e8497fdd8bc7eab2b518d825e376a4f8f)
-10. ⭐ Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+1. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/310b7c6dd06f12ca7e9aa5374f7068d0df8839a9)
+2. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/9c0998a13abb412509dc2c7cb2d4c5c4f89049f3)
+3. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/efb848e2c736b7586a093a5adccf0916c73ef304)
+4. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/cdb682d88a23d08019491f47e34af034e3b1526c)
+5. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/bf34d2bdfc5d95f49982496a915c2fe26b1e3d3d)
+6. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/0d8090a8e26af2c4d9dfd59c480250f4aaa9da03)
+7. ➕ Created a new branch [`update-ci-workflow`](https://github.com/Firdous2307/go-task-timer/tree/update-ci-workflow) in [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer)
+8. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/3a2badcb93d145ff69cc284e013eefa092efcea1)
+9. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/fa38c03e31353886448a2b295ace18c2f49649c3)
+10. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/17f3b3002080fc2ec16cab0cb833ebaf797ec963)
 <!--END_SECTION:activity--># 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Firdous2307&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Firdous2307&theme=dark&hide_border=false)<br/>
