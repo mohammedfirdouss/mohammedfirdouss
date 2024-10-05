@@ -1,19 +1,17 @@
-# .github/workflows/update-activity.yml:
-
-name: Update GitHub Activity
+name: Update README
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # Runs every 30 minutes
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  update-activity:
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
     steps:
       - uses: actions/checkout@v4
-      - name: Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
-        with:
-          GITHUB_USERNAME: "Firdous2307"
-          GITHUB_TOKEN: ${{ secrets.PRIV_GITHUB_TOKEN }} # Ensure this matches the secret name in repository settings
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PRIV_GITHUB_TOKEN }}
