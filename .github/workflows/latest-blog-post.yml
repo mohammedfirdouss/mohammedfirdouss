@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
+        env:
+          GH_TOKEN: ${{ secrets.PRIV_GITHUB_TOKEN }}
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://medium.com/feed/@mohammedfirdousaraoye"
