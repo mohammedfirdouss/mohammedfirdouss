@@ -24,10 +24,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/dd773170fc2bafda03c22654837f82eddcbaeb1e)
-2. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/ad1d7f8ae8327b28d39d0ff896e407fe3b486c7e)
-3. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/fb35b7a6ab71852152f2ad139049ba5a8f9a93b5)
-4. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/d78ca40d4c47090a6fa992402bf3ca49c2104e13)
+1. 🗣 Commented on [#2](https://github.com/OpenElements/hedera-solo-action/issues/2#issuecomment-2395561656) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
+2. 🎉 Merged PR [#1](https://github.com/Firdous2307/go-task-timer/pull/1) in [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer)
+3. 💪 Opened PR [#1](https://github.com/Firdous2307/go-task-timer/pull/1) in [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer)
+4. 🗣 Commented on [#4](https://github.com/OpenElements/hedera-solo-action/issues/4#issuecomment-2388981014) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
 5. 🔀 Merged [PR #1](https://github.com/Firdous2307/go-task-timer/pull/1) in [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer)
 6. 📥 Opened [PR #1](https://github.com/Firdous2307/go-task-timer/pull/1) in [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer)
 7. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/e3983af976fa305c13cd050c3a0db6696823b86b)
