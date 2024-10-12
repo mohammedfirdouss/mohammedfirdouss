@@ -24,11 +24,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/OpenElements/hedera-solo-action/pull/8#issuecomment-2406995238) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
-2. 🗣 Commented on [#8](https://github.com/OpenElements/hedera-solo-action/pull/8#issuecomment-2400902396) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
-3. 💪 Opened PR [#8](https://github.com/OpenElements/hedera-solo-action/pull/8) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
-4. 🗣 Commented on [#1081](https://github.com/hashgraph/hedera-sdk-go/issues/1081#issuecomment-2398252287) in [hashgraph/hedera-sdk-go](https://github.com/hashgraph/hedera-sdk-go)
-5. 🗣 Commented on [#2](https://github.com/OpenElements/hedera-solo-action/issues/2#issuecomment-2395561656) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
+1. 🗣 Commented on [#8](https://github.com/OpenElements/hedera-solo-action/pull/8#issuecomment-2408179472) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
+2. 🗣 Commented on [#8](https://github.com/OpenElements/hedera-solo-action/pull/8#issuecomment-2406995238) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
+3. 🗣 Commented on [#8](https://github.com/OpenElements/hedera-solo-action/pull/8#issuecomment-2400902396) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
+4. 💪 Opened PR [#8](https://github.com/OpenElements/hedera-solo-action/pull/8) in [OpenElements/hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
+5. 🗣 Commented on [#1081](https://github.com/hashgraph/hedera-sdk-go/issues/1081#issuecomment-2398252287) in [hashgraph/hedera-sdk-go](https://github.com/hashgraph/hedera-sdk-go)
 6. 📥 Opened [PR #1](https://github.com/Firdous2307/go-task-timer/pull/1) in [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer)
 7. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/e3983af976fa305c13cd050c3a0db6696823b86b)
 8. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/310b7c6dd06f12ca7e9aa5374f7068d0df8839a9)
