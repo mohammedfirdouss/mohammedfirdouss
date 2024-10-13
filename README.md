@@ -24,11 +24,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/open-sauced/pizza-cli/issues/206#issuecomment-2409101994) in [open-sauced/pizza-cli](https://github.com/open-sauced/pizza-cli)
-2. 🗣 Commented on [#80](https://github.com/Storia-AI/sage/issues/80#issuecomment-2409048154) in [Storia-AI/sage](https://github.com/Storia-AI/sage)
-3. 🗣 Commented on [#7](https://github.com/mlsanigeria/speak-to-docs/issues/7#issuecomment-2409042813) in [mlsanigeria/speak-to-docs](https://github.com/mlsanigeria/speak-to-docs)
-4. 🗣 Commented on [#723](https://github.com/collective/icalendar/issues/723#issuecomment-2409039645) in [collective/icalendar](https://github.com/collective/icalendar)
-5. 🗣 Commented on [#726](https://github.com/collective/icalendar/issues/726#issuecomment-2409039163) in [collective/icalendar](https://github.com/collective/icalendar)
+1. 🗣 Commented on [#723](https://github.com/collective/icalendar/issues/723#issuecomment-2409129587) in [collective/icalendar](https://github.com/collective/icalendar)
+2. 🗣 Commented on [#729](https://github.com/collective/icalendar/pull/729#issuecomment-2409124833) in [collective/icalendar](https://github.com/collective/icalendar)
+3. 🗣 Commented on [#726](https://github.com/collective/icalendar/issues/726#issuecomment-2409121764) in [collective/icalendar](https://github.com/collective/icalendar)
+4. 💪 Opened PR [#729](https://github.com/collective/icalendar/pull/729) in [collective/icalendar](https://github.com/collective/icalendar)
+5. 🗣 Commented on [#723](https://github.com/collective/icalendar/issues/723#issuecomment-2409116201) in [collective/icalendar](https://github.com/collective/icalendar)
 6. 📥 Opened [PR #1](https://github.com/Firdous2307/go-task-timer/pull/1) in [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer)
 7. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/e3983af976fa305c13cd050c3a0db6696823b86b)
 8. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/310b7c6dd06f12ca7e9aa5374f7068d0df8839a9)
