@@ -24,11 +24,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/mlsanigeria/speak-to-docs/pull/31#issuecomment-2416398251) in [mlsanigeria/speak-to-docs](https://github.com/mlsanigeria/speak-to-docs)
-2. 🗣 Commented on [#730](https://github.com/collective/icalendar/pull/730#issuecomment-2415263166) in [collective/icalendar](https://github.com/collective/icalendar)
-3. 🗣 Commented on [#730](https://github.com/collective/icalendar/pull/730#issuecomment-2415256765) in [collective/icalendar](https://github.com/collective/icalendar)
-4. 🗣 Commented on [#39626](https://github.com/hashicorp/terraform-provider-aws/issues/39626#issuecomment-2415231913) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-5. 🗣 Commented on [#729](https://github.com/collective/icalendar/pull/729#issuecomment-2415218551) in [collective/icalendar](https://github.com/collective/icalendar)
+1. 🗣 Commented on [#729](https://github.com/collective/icalendar/pull/729#issuecomment-2416515923) in [collective/icalendar](https://github.com/collective/icalendar)
+2. 🗣 Commented on [#730](https://github.com/collective/icalendar/pull/730#issuecomment-2416513316) in [collective/icalendar](https://github.com/collective/icalendar)
+3. 🗣 Commented on [#31](https://github.com/mlsanigeria/speak-to-docs/pull/31#issuecomment-2416398251) in [mlsanigeria/speak-to-docs](https://github.com/mlsanigeria/speak-to-docs)
+4. 🗣 Commented on [#730](https://github.com/collective/icalendar/pull/730#issuecomment-2415263166) in [collective/icalendar](https://github.com/collective/icalendar)
+5. 🗣 Commented on [#730](https://github.com/collective/icalendar/pull/730#issuecomment-2415256765) in [collective/icalendar](https://github.com/collective/icalendar)
 6. 📥 Opened [PR #1](https://github.com/Firdous2307/go-task-timer/pull/1) in [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer)
 7. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/e3983af976fa305c13cd050c3a0db6696823b86b)
 8. 📝 Committed to [Firdous2307/go-task-timer](https://github.com/Firdous2307/go-task-timer/commit/310b7c6dd06f12ca7e9aa5374f7068d0df8839a9)
