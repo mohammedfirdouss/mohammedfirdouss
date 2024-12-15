@@ -5,7 +5,7 @@
 </p>
  
 # 💫 About Me:
-<br> Firdous is a Cloud DevOps Engineer with practical experience in AWS, Docker, Linux, Networking, Python, Bash, CI/CD, and Terraform. My focus is on scalable serverless solutions, automation, and cost optimization, and I’m always looking to enhance cloud performance through open-source and cloud-native technologies.</br>
+<br> <br> Firdous is an AWS Cloud Engineer with practical experience in AWS, Docker, Linux, Networking, Python, Bash, CI/CD, Terraform, and DevOps practices. My focus is on scalable serverless solutions, automation, cost optimization, and implementing robust DevOps pipelines. I’m dedicated to enhancing cloud performance and reliability through open-source, cloud-native technologies.</br>
 
 
 
