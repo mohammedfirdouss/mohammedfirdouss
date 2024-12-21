@@ -5,7 +5,7 @@
 </p>
  
 # 💫 About Me:
-<br>Firdous is an AWS Cloud Engineer specializing in building scalable serverless architectures and automating cloud solutions to boost efficiency and reduce costs. With practical experience in AWS, Docker, Linux, Networking, Python, Bash, Terraform, and DevOps practices, I am passionate about leveraging cloud-native technologies and open-source collaboration to enhance cloud performance and reliability.</br>
+<br> I am an AWS Cloud Engineer specializing in building scalable serverless architectures and automating cloud solutions to boost efficiency and reduce costs. With practical experience in AWS, Docker, Linux, Networking, Python, Bash, Terraform, and implementing DevOps practices. I am interested in leveraging cloud-native and open-source technologies to enhance cloud performance and reliability.</br>
 
 
 
