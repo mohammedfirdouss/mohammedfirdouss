@@ -22,18 +22,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### :zap: Recent Activity
+### ✨ My Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4191](https://github.com/open-sauced/app/pull/4191#issuecomment-2471748919) in [open-sauced/app](https://github.com/open-sauced/app)
 2. 💪 Opened PR [#4191](https://github.com/open-sauced/app/pull/4191) in [open-sauced/app](https://github.com/open-sauced/app)
 3. 🗣 Commented on [#4165](https://github.com/open-sauced/app/pull/4165#issuecomment-2471664399) in [open-sauced/app](https://github.com/open-sauced/app)
 4. ❌ Closed PR [#4165](https://github.com/open-sauced/app/pull/4165) in [open-sauced/app](https://github.com/open-sauced/app)
 5. 🗣 Commented on [#781](https://github.com/hashgraph/hedera-docs/issues/781#issuecomment-2444751070) in [hashgraph/hedera-docs](https://github.com/hashgraph/hedera-docs)
-6. 📥 Opened [PR #1](https://github.com/mohammedfirdouss/go-task-timer/pull/1) in [mohammedfirdouss/go-task-timer](https://github.com/Firdous2307/go-task-timer)
-7. 📝 Committed to [mohammedfirdouss/go-task-timer](https://github.com/mohammedfirdouss/go-task-timer/commit/e3983af976fa305c13cd050c3a0db6696823b86b)
-8. 📝 Committed to [mohammedfirdouss/go-task-timer](https://github.com/mohammedfirdouss/go-task-timer/commit/310b7c6dd06f12ca7e9aa5374f7068d0df8839a9)
-9. 📝 Committed to [mohammedfirdouss/go-task-timer](https://github.com/mohammedfirdouss/go-task-timer/commit/9c0998a13abb412509dc2c7cb2d4c5c4f89049f3)
-10. 📝 Committed to [mohammedfirdouss/go-task-timer](https://github.com/mohammedfirdouss/go-task-timer/commit/efb848e2c736b7586a093a5adccf0916c73ef304)
 <!--END_SECTION:activity-->
 
 # 💻 Tech Stack:
