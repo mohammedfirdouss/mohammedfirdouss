@@ -4,12 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=mohammedfirdouss&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedfirdouss" />
 </p>
  
-# 💫 About Me:
+# 💫 About Me
 <br> I am an AWS Cloud Engineer specializing in building scalable serverless architectures and automating cloud solutions to boost efficiency and reduce costs. With practical experience in AWS, Docker, Linux, Networking, Python, Bash, Terraform, and implementing DevOps practices. I am interested in leveraging cloud-native and open-source technologies to enhance cloud performance and reliability.</br>
 
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedfirdousaraoye) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohammedfirdousaraoye) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamfirdouss) 
 
 
@@ -37,8 +37,7 @@
 5. 🗣 Commented on [#781](https://github.com/hashgraph/hedera-docs/issues/781#issuecomment-2444751070) in [hashgraph/hedera-docs](https://github.com/hashgraph/hedera-docs)
 <!--END_SECTION:activity-->
 
-# 💻 Tech Stack:
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
