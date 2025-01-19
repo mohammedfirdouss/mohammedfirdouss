@@ -28,7 +28,8 @@
 - [Explain set-upstream for stacks in forks](https://gitlab.com/gitlab-org/cli/-/merge_requests/1723)
 
 
-## ✨ My Recent Activity
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4191](https://github.com/open-sauced/app/pull/4191#issuecomment-2471748919) in [open-sauced/app](https://github.com/open-sauced/app)
 2. 💪 Opened PR [#4191](https://github.com/open-sauced/app/pull/4191) in [open-sauced/app](https://github.com/open-sauced/app)
