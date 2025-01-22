@@ -31,11 +31,6 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4191](https://github.com/open-sauced/app/pull/4191#issuecomment-2471748919) in [open-sauced/app](https://github.com/open-sauced/app)
-2. 💪 Opened PR [#4191](https://github.com/open-sauced/app/pull/4191) in [open-sauced/app](https://github.com/open-sauced/app)
-3. 🗣 Commented on [#4165](https://github.com/open-sauced/app/pull/4165#issuecomment-2471664399) in [open-sauced/app](https://github.com/open-sauced/app)
-4. ❌ Closed PR [#4165](https://github.com/open-sauced/app/pull/4165) in [open-sauced/app](https://github.com/open-sauced/app)
-5. 🗣 Commented on [#781](https://github.com/hashgraph/hedera-docs/issues/781#issuecomment-2444751070) in [hashgraph/hedera-docs](https://github.com/hashgraph/hedera-docs)
 <!--END_SECTION:activity-->
 
 ## 💻 Tech Stack
