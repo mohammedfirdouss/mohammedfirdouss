@@ -2,7 +2,7 @@ name: Update Blog Posts
 
 on:
   schedule:
-        - cron: '0 */5 * * *' # Runs every 5 hours
+        - cron: '0 0,12 * * *' # Runs twice daily at midnight and noon UTC
   workflow_dispatch:
 
 jobs:
@@ -15,5 +15,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PRIV_GITHUB_TOKEN }}
         with:
-          # comma-separated list of RSS feed urls
           feed_list: "https://medium.com/feed/@mohammedfirdousaraoye"
