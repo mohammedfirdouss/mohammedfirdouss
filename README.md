@@ -31,6 +31,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/mohammedfirdouss/greeting-app/issues/1) in [mohammedfirdouss/greeting-app](https://github.com/mohammedfirdouss/greeting-app)
 <!--END_SECTION:activity-->
 
 ## 💻 Tech Stack
