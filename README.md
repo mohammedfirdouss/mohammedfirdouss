@@ -31,7 +31,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/mohammedfirdouss/serverless-notes-app/issues/3) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
+1. 🔒 Closed issue [#3](https://github.com/mohammedfirdouss/serverless-notes-app/issues/3) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
 <!--END_SECTION:activity-->
 
 ## 💻 Tech Stack
