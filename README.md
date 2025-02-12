@@ -1,11 +1,7 @@
-# Hi there, I'm Mohammed Firdous! 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohammedfirdouss&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedfirdouss" />
-</p>
- 
-## 💫 About Me
-<br> I am an AWS Cloud Engineer interested in building scalable serverless architectures and automating cloud solutions to boost efficiency and reduce costs. With practical experience in AWS, Docker, Linux, Networking, Python, Bash, Terraform, and implementing DevOps practices. I am interested in cloud-native and open-source technologies to enhance cloud performance and reliability.</br>
+<h1 align="center">Hi 👋, I'm Mohammed Firdous</h1>
+<h3 align="center"><br> I am an AWS Cloud Engineer interested in building scalable serverless architectures and automating cloud solutions to boost efficiency and reduce costs. With practical experience in AWS, Docker, Linux, Networking, Python, Bash, Terraform, and implementing DevOps practices. 
+  
+  I am interested in cloud-native and open-source technologies to enhance cloud performance and reliability.</br></h3>
 
 
 
@@ -40,8 +36,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Networking](https://img.shields.io/badge/Networking-%23000000.svg?style=for-the-badge&logo=networking&logoColor=white) 
 ![Open Source Contributor](https://img.shields.io/badge/Open_Source_Contributor-%23000000.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
-
-
 
 
 
