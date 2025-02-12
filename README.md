@@ -5,7 +5,7 @@
 </p>
  
 ## 💫 About Me
-<br> I am an AWS Cloud Engineer specializing in building scalable serverless architectures and automating cloud solutions to boost efficiency and reduce costs. With practical experience in AWS, Docker, Linux, Networking, Python, Bash, Terraform, and implementing DevOps practices. I am interested in cloud-native and open-source technologies to enhance cloud performance and reliability.</br>
+<br> I am an AWS Cloud Engineer interested in building scalable serverless architectures and automating cloud solutions to boost efficiency and reduce costs. With practical experience in AWS, Docker, Linux, Networking, Python, Bash, Terraform, and implementing DevOps practices. I am interested in cloud-native and open-source technologies to enhance cloud performance and reliability.</br>
 
 
 
@@ -28,11 +28,6 @@
 - [Explain set-upstream for stacks in forks](https://gitlab.com/gitlab-org/cli/-/merge_requests/1723)
 
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/mohammedfirdouss/serverless-notes-app/issues/5) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
-<!--END_SECTION:activity-->
 
 ## 💻 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
