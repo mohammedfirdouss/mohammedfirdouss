@@ -26,6 +26,11 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#5](https://github.com/mohammedfirdouss/serverless-notes-app/issues/5) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
+2. 🔒 Closed issue [#3](https://github.com/mohammedfirdouss/serverless-notes-app/issues/3) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
+3. 🎉 Merged PR [#4](https://github.com/mohammedfirdouss/serverless-notes-app/pull/4) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
+4. 💪 Opened PR [#4](https://github.com/mohammedfirdouss/serverless-notes-app/pull/4) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
+5. ❗ Opened issue [#3](https://github.com/mohammedfirdouss/serverless-notes-app/issues/3) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
 <!--END_SECTION:activity-->
 
 
