@@ -24,6 +24,11 @@
 - [Explain set-upstream for stacks in forks](https://gitlab.com/gitlab-org/cli/-/merge_requests/1723)
 
 
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 
 ## 💻 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
