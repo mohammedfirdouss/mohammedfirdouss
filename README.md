@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Firdous</h1>
-<h3 align="center"><br> I am an AWS Cloud Engineer interested in building scalable serverless architectures and automating cloud solutions to boost efficiency and reduce costs. With practical experience in AWS, Docker, Linux, Networking, Python, Bash, Terraform, and implementing DevOps practices. 
-  
-  I am interested in cloud-native and open-source technologies to enhance cloud performance and reliability.</br></h3>
+<h3 align="center"><br>Cloud Engineer with two years of hands-on experience in AWS, Docker, Linux, Networking, Python, CI/CD, and Terraform. Passionate about solving complex problems and building scalable serverless systems. I focus on automating workflows, reducing costs, and leveraging open‑source communities for continuous improvement.
+</br></h3>
 
 
 
