@@ -25,7 +25,7 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com/spcl/serverless-benchmarks/issues/237#issuecomment-2677243503) in [spcl/serverless-benchmarks](https://github.com/spcl/serverless-benchmarks)
+1. ❌ Closed PR [#4191](https://github.com/open-sauced/app/pull/4191) in [open-sauced/app](https://github.com/open-sauced/app)
 2. 🗣 Commented on [#237](https://github.com/spcl/serverless-benchmarks/issues/237#issuecomment-2677237308) in [spcl/serverless-benchmarks](https://github.com/spcl/serverless-benchmarks)
 3. ❗ Opened issue [#5](https://github.com/mohammedfirdouss/serverless-notes-app/issues/5) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
 4. 🔒 Closed issue [#3](https://github.com/mohammedfirdouss/serverless-notes-app/issues/3) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
