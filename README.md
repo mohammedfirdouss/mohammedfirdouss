@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammed Firdous</h1>
-<h3 align="center"><br>I'm a Cloud Engineer who enjoys solving problems and building systems using serverless technology. Right now, I'm focused on automating tasks, cutting down costs, and using open-source tools to get things done</br></h3>
+<h3 align="center">I'm a Cloud Engineer passionate about building scalable, cost-effective, and serverless solutions. I thrive on solving complex problems and leveraging open-source tools to make an impact.</h3>
 
-
+## 🚀 What I Do
+- **Cloud Engineering**: Designing and implementing serverless architectures on AWS.
+- **Automation**: Streamlining workflows and reducing manual effort using Python and shell scripting.
+- **Cost Optimization**: Identifying and implementing strategies to minimize cloud expenses.
+- **Open Source**: Actively contributing to projects that make technology accessible and efficient.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedfirdousaraoye) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohammedfirdousaraoye) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamfirdouss) 
-
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,7 +24,6 @@
 - [Support python 3.13](https://github.com/collective/icalendar/pull/729)
 - [Explain set-upstream for stacks in forks](https://gitlab.com/gitlab-org/cli/-/merge_requests/1723)
 
-
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#4191](https://github.com/open-sauced/app/pull/4191) in [open-sauced/app](https://github.com/open-sauced/app)
@@ -30,8 +32,6 @@
 4. 🔒 Closed issue [#3](https://github.com/mohammedfirdouss/serverless-notes-app/issues/3) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
 5. 🎉 Merged PR [#4](https://github.com/mohammedfirdouss/serverless-notes-app/pull/4) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
 <!--END_SECTION:activity-->
-
-
 
 ## 💻 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -46,17 +46,17 @@
 ![Open Source Contributor](https://img.shields.io/badge/Open_Source_Contributor-%23000000.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 
-
+## 🤝 Let's Collaborate!
+I'm always open to collaborating on cloud automation, serverless, or open-source projects. [Reach out on LinkedIn](https://www.linkedin.com/in/mohammedfirdousaraoye) or open an issue!
 
 ## 📊 GitHub Stats:
 
-[![](https://raw.githubusercontent.commohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=false)<br/>
-
 
 [![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
