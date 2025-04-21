@@ -6,6 +6,7 @@
 - **Automation**: Streamlining workflows and reducing manual effort using Python and shell scripting.
 - **Cost Optimization**: Identifying and implementing strategies to minimize cloud expenses.
 - **Open Source**: Actively contributing to projects that make technology accessible and efficient.
+- **Cloud-Native**: Using my time to learn more about cloud-native tools and technologies.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedfirdousaraoye) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohammedfirdousaraoye) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamfirdouss) 
