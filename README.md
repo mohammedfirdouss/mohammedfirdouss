@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Firdous</h1>
-<h3 align="center">I'm a Cloud Engineer passionate about building scalable, cost-effective, and serverless solutions. I thrive on solving complex problems and leveraging open-source tools to make an impact.</h3>
+<h3 align="center">I'm a Cloud Engineer interested in building scalable, cost-effective, and serverless solutions. I am also interested in solving complex problems and leveraging open-source tools to make an impact.</h3>
 
 ## 🚀 What I Do
 - **Cloud Engineering**: Designing and implementing serverless architectures on AWS.
