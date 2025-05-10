@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mohammed Firdous</h1>
-<h3 align="center">I’m a cloud engineer who builds scalable, cost-effective serverless solutions and tackles complex problems using open-source tools to drive real impact.</h3>
+### Hi, I'm Mohammed Firdous. 
+
+I am a cloud engineer who likes serverless, Python, Golang, Terraform and making things with open source tools. Well currently, I am learning more about AI/ML as well.
 
 ## 🚀 What I Do
+
 - **Cloud Engineering**: Designing and implementing serverless architectures on AWS.
 - **Automation**: Streamlining workflows and reducing manual effort using Python and shell scripting.
 - **Cost Optimization**: Identifying and implementing strategies to minimize cloud expenses.
 - **Open Source**: Actively contributing to projects that make technology accessible and efficient.
 - **Cloud-Native**: Using my time to learn more about cloud-native tools and technologies.
 
+A few of my favorite personal projects:
+- Cruddur, a micro blogging platform, [repo](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023)
+- Terra Towns, a community website, [repo](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023)
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedfirdousaraoye) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohammedfirdousaraoye) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamfirdouss) 
+
+
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,15 +33,6 @@
 - [Support python 3.13](https://github.com/collective/icalendar/pull/729)
 - [Explain set-upstream for stacks in forks](https://gitlab.com/gitlab-org/cli/-/merge_requests/1723)
 
-## ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#4191](https://github.com/open-sauced/app/pull/4191) in [open-sauced/app](https://github.com/open-sauced/app)
-2. 🗣 Commented on [#237](https://github.com/spcl/serverless-benchmarks/issues/237#issuecomment-2677237308) in [spcl/serverless-benchmarks](https://github.com/spcl/serverless-benchmarks)
-3. ❗ Opened issue [#5](https://github.com/mohammedfirdouss/serverless-notes-app/issues/5) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
-4. 🔒 Closed issue [#3](https://github.com/mohammedfirdouss/serverless-notes-app/issues/3) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
-5. 🎉 Merged PR [#4](https://github.com/mohammedfirdouss/serverless-notes-app/pull/4) in [mohammedfirdouss/serverless-notes-app](https://github.com/mohammedfirdouss/serverless-notes-app)
-<!--END_SECTION:activity-->
-
 ## 💻 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -43,7 +42,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Networking](https://img.shields.io/badge/Networking-%23000000.svg?style=for-the-badge&logo=networking&logoColor=white) 
 ![Open Source Contributor](https://img.shields.io/badge/Open_Source_Contributor-%23000000.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 
