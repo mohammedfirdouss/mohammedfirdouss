@@ -1,6 +1,6 @@
 ### Hi, I'm Mohammed Firdous. 
 
-I am a cloud engineer who likes serverless, Python, Golang, Terraform and making things with open source tools. Well currently, I am learning more about AI/ML as well.
+I am a Cloud Engineer who likes serverless, Python, Golang, Terraform and making things with open source tools. Well currently, I am learning more about AI/ML as well.
 
 ## 🚀 What I Do
 
