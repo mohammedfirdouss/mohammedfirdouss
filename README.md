@@ -27,6 +27,12 @@ A few of my favorite personal projects:
 - [Navigating AWS with Confidence: A Beginner’s Guide to Amazon CloudWatch and Amazon Route 53](https://medium.com/@mohammedfirdousaraoye/navigating-aws-with-confidence-a-beginners-guide-to-amazon-cloudwatch-and-amazon-route-53-38e1225cf0f0?source=rss-19706121782c------2)
 <!-- BLOG-POST-LIST:END -->
 
+
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ## 🚀 Open Source Contributions
 - [add json rpc relay](https://github.com/OpenElements/hedera-solo-action/pull/8)
 - [Implement document chunking](https://github.com/mlsanigeria/speak-to-docs/pull/31)
