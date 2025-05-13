@@ -31,7 +31,7 @@ A few of my favorite personal projects:
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/mohammedfirdouss/Blossom-Hub/issues/3) in [mohammedfirdouss/Blossom-Hub](https://github.com/mohammedfirdouss/Blossom-Hub)
+1. ❗ Opened issue [#1](https://github.com/mohammedfirdouss/Bloom-Hub/issues/1) in [mohammedfirdouss/Bloom-Hub](https://github.com/mohammedfirdouss/Bloom-Hub)
 <!--END_SECTION:activity-->
 
 
