@@ -31,7 +31,7 @@ A few of my favorite personal projects:
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4191](https://github.com/open-sauced/app/pull/4191) in [open-sauced/app](https://github.com/open-sauced/app)
+1. ❗ Opened issue [#1](https://github.com/mohammedfirdouss/Blossom-Hub/issues/1) in [mohammedfirdouss/Blossom-Hub](https://github.com/mohammedfirdouss/Blossom-Hub)
 <!--END_SECTION:activity-->
 
 
