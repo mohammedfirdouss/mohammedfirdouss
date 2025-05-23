@@ -60,6 +60,13 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 
 ---
 
+
+## 🏃‍♂️ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 ## 📊 GitHub Stats
 
 [![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
