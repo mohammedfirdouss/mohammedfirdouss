@@ -4,7 +4,7 @@ AI Cloud Engineer | Open Source Contributor
 
 ---
 
-I design serverless solutions, automate workflows, and contribute to open source. My toolkit includes AWS, Python, Golang, Terraform, and Docker. Lately, I’m learning more about AI/ML and cloud-native technologies.
+I design serverless solutions, automate workflows, and contribute to open source. My toolkit includes AWS, Python, Golang, Terraform, Docker, K8s etc. Lately, I’m learning more about AI/ML and cloud-native technologies.
 
 ---
 
