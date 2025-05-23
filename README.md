@@ -64,6 +64,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#21986](https://github.com/goharbor/harbor/issues/21986#issuecomment-2888803166) in [goharbor/harbor](https://github.com/goharbor/harbor)
 <!--END_SECTION:activity-->
 
 ---
