@@ -64,7 +64,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/mohammedfirdouss/Tranzor/pull/4) in [mohammedfirdouss/Tranzor](https://github.com/mohammedfirdouss/Tranzor)
+1. 🎉 Merged PR [#5](https://github.com/mohammedfirdouss/Tranzor/pull/5) in [mohammedfirdouss/Tranzor](https://github.com/mohammedfirdouss/Tranzor)
 <!--END_SECTION:activity-->
 
 ---
