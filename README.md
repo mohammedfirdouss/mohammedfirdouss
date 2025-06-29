@@ -64,7 +64,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/JasmondWorks/momo_the-dynamos_nithub/pull/12) in [JasmondWorks/momo_the-dynamos_nithub](https://github.com/JasmondWorks/momo_the-dynamos_nithub)
+1. 💪 Opened PR [#4](https://github.com/mohammedfirdouss/Tranzor/pull/4) in [mohammedfirdouss/Tranzor](https://github.com/mohammedfirdouss/Tranzor)
 <!--END_SECTION:activity-->
 
 ---
