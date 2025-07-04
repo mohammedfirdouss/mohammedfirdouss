@@ -64,7 +64,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/madebygps/timestamper-python/pull/2) in [madebygps/timestamper-python](https://github.com/madebygps/timestamper-python)
+1. 🗣 Commented on [#6005](https://github.com/pipe-cd/pipecd/issues/6005#issuecomment-3035717120) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
 <!--END_SECTION:activity-->
 
 ---
