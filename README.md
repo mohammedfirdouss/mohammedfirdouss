@@ -21,6 +21,7 @@ I design serverless solutions, automate workflows, and contribute to open source
 
 - [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023): Microblogging platform on AWS.
 - [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023): Community site built with Terraform.
+- [Tranzor](https://github.com/mohammedfirdouss/Tranzor): Tranzor is a serverless, real-time financial transaction processing system
 
 ---
 
