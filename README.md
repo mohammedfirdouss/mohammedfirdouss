@@ -1,6 +1,6 @@
 ### Hi, I'm Mohammed Firdous 👋
 
-AI Cloud Engineer | Open Source Contributor
+AI Cloud Engineer | Community Contributor @Gitlab
 
 ---
 
