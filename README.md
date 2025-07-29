@@ -57,7 +57,7 @@ I design serverless solutions, automate workflows, and contribute to open source
 
 ## 🤝 Open to Collaborate
 
-Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdoussaraoye) or open an issue.
+Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdoussaraoye).
 
 ---
 
