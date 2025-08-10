@@ -8,15 +8,6 @@ I design serverless solutions, automate workflows, and contribute to open source
 
 ---
 
-## 🚀 What I Do
-
-- **Cloud Engineering:** Building scalable, serverless systems on AWS.
-- **Automation:** Making life easier with Python and shell scripting.
-- **Cost Optimization:** Helping teams save on cloud bills.
-- **Open Source:** Contributing to projects that empower the tech community.
-
----
-
 ## 🌟 Featured Projects
 
 - [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023): Microblogging platform built on AWS.
