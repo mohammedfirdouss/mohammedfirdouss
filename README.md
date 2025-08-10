@@ -43,6 +43,13 @@ I design serverless solutions, automate workflows, and contribute to open source
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF5722?logo=gitlab&logoColor=white&style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-607D8B?logo=prometheus&logoColor=white&style=for-the-badge)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ---
 
