@@ -1,14 +1,20 @@
-### Hi, I'm Mohammed Firdous 👋
+### Mohammed Firdous — Cloud Engineer, AI, Open Source 👋
 
-Cloud Engineer | AI | Open Source Contributor
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=600&color=00E7FF&center=true&vCenter=true&width=800&lines=Serverless+%2B+Infra+as+Code;Reliable+automation+at+startup+speed;AI-augmented+builder)](https://github.com/DenverCoder1/readme-typing-svg)
 
-I build serverless apps, automate the boring stuff, and share what I make with the open-source community. I work a lot with AWS, Python, Golang, Terraform, Docker, and Kubernetes. Lately, I’ve been learning more about AI and ML to see how it can fit into the kind of systems I want to design.
+I design and automate resilient cloud systems. My tools: AWS, Python, Go, Terraform, Docker, Kubernetes. I share what I learn and build in public.
 
-## 🌟 Featured Projects
+— shipping small, learning fast, and keeping it simple.
 
-- [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023): Microblogging platform built on AWS.
-- [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023): Community site built with Terraform.
-- [Tranzor](https://github.com/mohammedfirdouss/Tranzor): Tranzor is a serverless, real-time financial transaction processing system
+## 🌟 Highlights
+
+<p align="center">
+  <a href="https://github.com/mohammedfirdouss/Tranzor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedfirdouss&repo=Tranzor&theme=react&border_radius=8" alt="Tranzor" /></a>
+  <a href="https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedfirdouss&repo=aws-bootcamp-cruddur-2023&theme=react&border_radius=8" alt="Cruddur" /></a>
+  <a href="https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedfirdouss&repo=terraform-beginner-bootcamp-2023&theme=react&border_radius=8" alt="Terra Towns" /></a>
+</p>
+
+— more on my profile and orgs.
 
 ---
 
@@ -16,7 +22,7 @@ I build serverless apps, automate the boring stuff, and share what I make with t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedfirdousaraoye)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohammedfirdousaraoye)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamfirdouss)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/iamfirdouss)
 
 ---
 
@@ -36,25 +42,28 @@ I build serverless apps, automate the boring stuff, and share what I make with t
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF5722?logo=gitlab&logoColor=white&style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/Monitoring-607D8B?logo=prometheus&logoColor=white&style=for-the-badge)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF5722?style=for-the-badge&logo=githubactions&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-607D8B?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
 
 ## 🤝 Open to Collaborate
 
-Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdoussaraoye).
+Let’s build something impactful. [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdousaraoye).
+
+## 🔭 Now
+
+- Shipping serverless event-driven backends
+- Improving IaC workflows (Terraform + policy as code)
+- Exploring practical AI patterns for ops/dev
 
 ---
-
 
 ## 🏃‍♂️ Recent Activity
 
@@ -63,10 +72,25 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 <!--END_SECTION:activity-->
 
 ---
-## 📊 GitHub Stats.
+## 📊 GitHub Metrics
+
+![](./metrics.svg)
 
 [![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=false)
 
+## 🗺️ Journey (Mermaid)
+
+```mermaid
+timeline
+    title From ops to AI-augmented cloud
+    2019 : Linux + Docker
+    2020 : AWS foundations • IaC (Terraform)
+    2021 : K8s • CI/CD
+    2022 : Serverless architectures • Observability
+    2023 : Open source • Community
+    2024 : AI/ML integrations • Intelligent automations
+    2025 : Reliable systems at startup speed
+```

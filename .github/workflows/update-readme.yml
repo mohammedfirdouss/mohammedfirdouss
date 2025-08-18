@@ -24,3 +24,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: "5"
+          TARGET_FILE: "README.md"
+          COMMIT_MSG: "chore(readme): update recent activity"
