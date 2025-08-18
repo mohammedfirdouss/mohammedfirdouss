@@ -1,0 +1,26 @@
+name: Bug report
+description: File a bug report
+labels: [bug]
+title: "[Bug]: "
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us what you expected to happen.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: How can we reproduce the issue?
+      placeholder: Steps to reproduce...
+  - type: input
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+    validations:
+      required: false
