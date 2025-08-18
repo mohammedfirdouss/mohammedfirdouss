@@ -6,6 +6,28 @@ I design and automate resilient cloud systems. My tools: AWS, Python, Go, Terraf
 
 — shipping small, learning fast, and keeping it simple.
 
+## 🧭 Table of Contents
+
+- [About Me](#about-me)
+- [Highlights](#-highlights)
+- [Featured Projects](#-featured-projects)
+- [Latest Blog Posts](#-latest-blog-posts)
+- [Tech Stack](#-tech-stack)
+- [Communities](#-communities)
+- [Recent Activity](#-recent-activity)
+- [GitHub Metrics](#-github-metrics)
+- [Connect](#-connect)
+- [Open to Collaborate](#-open-to-collaborate)
+
+## 👤 About Me
+
+- Serverless architectures on AWS
+- Infrastructure as Code with Terraform and Pulumi
+- Containers and orchestration with Docker and Kubernetes
+- Observability and reliability engineering
+- CI/CD and platform automation
+- AI-assisted developer workflows
+
 ## 🌟 Highlights
 
 <p align="center">
@@ -15,6 +37,14 @@ I design and automate resilient cloud systems. My tools: AWS, Python, Go, Terraf
 </p>
 
 — more on my profile and orgs.
+
+---
+
+## 📦 Featured Projects
+
+- [Tranzor](https://github.com/mohammedfirdouss/Tranzor) — Event-driven serverless system for real-time financial transaction processing with strong observability.
+- [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023) — Containerized microservices on AWS with end-to-end CI/CD and infrastructure as code.
+- [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023) — Reusable Terraform modules, environment separation, and automated provisioning workflows.
 
 ---
 
@@ -53,6 +83,16 @@ I design and automate resilient cloud systems. My tools: AWS, Python, Go, Terraf
 
 ---
 
+## 🎖️ Communities
+
+![AWS Community](https://img.shields.io/badge/AWS-Community-FF9900?logo=amazon-aws&logoColor=white)
+![CNCF](https://img.shields.io/badge/CNCF-Community-1F70C1?logo=cncf&logoColor=white)
+![HashiCorp User Group](https://img.shields.io/badge/HashiCorp-User%20Group-7C3AED?logo=hashicorp&logoColor=white)
+![Docker Community](https://img.shields.io/badge/Docker-Community-2496ED?logo=docker&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-181717?logo=github)
+
+---
+
 ## 🤝 Open to Collaborate
 
 Let’s build something impactful. [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdousaraoye).
@@ -66,6 +106,8 @@ Let’s build something impactful. [Connect on LinkedIn](https://www.linkedin.co
 ---
 
 ## 🏃‍♂️ Recent Activity
+
+Auto-updated every few hours via a GitHub Action.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6068](https://github.com/pipe-cd/pipecd/issues/6068#issuecomment-3194333196) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
