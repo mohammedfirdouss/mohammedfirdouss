@@ -59,7 +59,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6068](https://github.com/pipe-cd/pipecd/issues/6068#issuecomment-3194333196) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+1. 🗣 Commented on [#1817](https://github.com/cartography-cncf/cartography/pull/1817#issuecomment-3195996551) in [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography)
 <!--END_SECTION:activity-->
 
 ---
