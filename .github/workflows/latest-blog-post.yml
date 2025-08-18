@@ -2,13 +2,22 @@ name: Update Blog Posts
 
 on:
   schedule:
-        - cron: '0 0,12 * * *' # Runs twice daily at midnight and noon UTC
+        - cron: '15 */6 * * *' # every 6 hours at :15
   workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 10
+    concurrency:
+      group: latest-blog-post
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master

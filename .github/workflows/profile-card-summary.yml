@@ -1,9 +1,16 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "* * * * *"
+  schedule:
+    - cron: "0 1 * * *" # daily at 01:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -11,6 +18,7 @@ jobs:
     name: generate-github-profile-summary-cards
     permissions:
       contents: write
+    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v4
@@ -19,3 +27,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 0
+          BRANCH: main

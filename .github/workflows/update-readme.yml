@@ -2,14 +2,21 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */3 * * *' # every 3 hours
   workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    timeout-minutes: 10
+    concurrency:
+      group: update-readme
+      cancel-in-progress: true
 
     steps:
       - uses: actions/checkout@v4
