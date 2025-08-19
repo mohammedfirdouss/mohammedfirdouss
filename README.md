@@ -59,7 +59,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1817](https://github.com/cartography-cncf/cartography/pull/1817#issuecomment-3195996551) in [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography)
+1. 🎉 Merged PR [#1](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/1) in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
 <!--END_SECTION:activity-->
 
 ---
