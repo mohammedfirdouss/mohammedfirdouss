@@ -59,7 +59,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/1) in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+1. 🗣 Commented on [#6129](https://github.com/pipe-cd/pipecd/pull/6129#issuecomment-3208053894) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
 <!--END_SECTION:activity-->
 
 ---
