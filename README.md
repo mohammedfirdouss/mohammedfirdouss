@@ -9,6 +9,7 @@ I build serverless apps, automate the boring stuff, and share what I make with t
 - [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023): Microblogging platform built on AWS.
 - [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023): Community site built with Terraform.
 - [Tranzor](https://github.com/mohammedfirdouss/Tranzor): Tranzor is a serverless, real-time financial transaction processing system
+- [Bloom Refresh](https://github.com/mohammedfirdouss/Bloom-Refresh): An event driven application designed to connect volunteers and organizers for local cleanup events built on AWS.
 
 ---
 
