@@ -61,7 +61,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6068](https://github.com/pipe-cd/pipecd/issues/6068#issuecomment-3220147174) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+1. 🗣 Commented on [#6068](https://github.com/pipe-cd/pipecd/issues/6068#issuecomment-3220431053) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
 <!--END_SECTION:activity-->
 
 ---
