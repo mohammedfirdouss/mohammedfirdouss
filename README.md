@@ -61,7 +61,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2326](https://github.com/meshery/meshery.io/pull/2326#issuecomment-3241415378) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+1. ❌ Closed PR [#1817](https://github.com/cartography-cncf/cartography/pull/1817) in [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography)
 <!--END_SECTION:activity-->
 
 ---
