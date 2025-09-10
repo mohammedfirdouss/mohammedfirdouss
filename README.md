@@ -52,6 +52,12 @@ I build serverless applications, automate the boring stuff, and share what I mak
 
 ---
 
+## 🏅 Certificates
+
+- [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/3bf4d5f8-2010-4de3-9d89-503c7dad658e/public_url)
+
+---
+
 ## 🤝 Open to Collaborate
 
 Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdousaraoye).
