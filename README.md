@@ -1,8 +1,9 @@
 ### Hi, I am Mohammed Firdous 👋
 
-Cloud Engineer | AI | Open Source Contributor
+| Cloud Engineer | AI | Open Source Contributor |
+|----------------|---------------|--------------------------|
 
-I build serverless applications, automate the boring stuff, and share what I make with the open-source community. I work a lot with AWS, Python, Golang, Terraform, Docker, and Kubernetes. Lately, I’ve been learning more about AI and ML to see how it can fit into the kind of systems I want to design.
+I build serverless applications, automate the boring stuff, and share what I make with the open-source community. I work a lot with AWS, Python, Golang, Terraform, Docker, and Kubernetes. Lately, I’ve been learning more about AI and ML.
 
 
 ## 🌟 Featured Projects
