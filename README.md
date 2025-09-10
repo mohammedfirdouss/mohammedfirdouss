@@ -50,6 +50,11 @@ I build serverless applications, automate the boring stuff, and share what I mak
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 
+## 🏅 Certificates
+
+- [Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/3bf4d5f8-2010-4de3-9d89-503c7dad658e/public_url)
+
+
 ---
 
 ## 🤝 Open to Collaborate
