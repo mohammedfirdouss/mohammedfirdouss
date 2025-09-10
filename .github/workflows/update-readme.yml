@@ -20,10 +20,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: "mohammedfirdouss"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_LINES: "5"
-          TARGET_FILE: "README.md"
-          COMMIT_MSG: "chore(readme): update recent activity"
+          EVENT_LIMIT: "5"
+          OUTPUT_STYLE: "MARKDOWN"
+          README_PATH: "README.md"
+          COMMIT_MESSAGE: "chore(readme): update recent activity"
