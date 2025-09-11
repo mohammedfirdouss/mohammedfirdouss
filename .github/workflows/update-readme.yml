@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - name: Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
+        uses: TheDanniCraft/activity-log@v0.0.9
         with:
           GITHUB_USERNAME: "mohammedfirdouss"
           GITHUB_TOKEN: ${{ secrets.ACTIVITY_PAT }}
