@@ -24,7 +24,7 @@ jobs:
         uses: TheDanniCraft/activity-log@v1
         with:
           GITHUB_USERNAME: "mohammedfirdouss"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACTIVITY_PAT }}
           EVENT_LIMIT: "5"
           OUTPUT_STYLE: "MARKDOWN"
           README_PATH: "README.md"
