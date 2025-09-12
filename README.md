@@ -64,7 +64,6 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 
 ---
 
-
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
