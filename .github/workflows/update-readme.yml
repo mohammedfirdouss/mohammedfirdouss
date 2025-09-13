@@ -5,6 +5,7 @@ on:
     - cron: '0 */3 * * *' # every 3 hours
   workflow_dispatch:
 
+
 permissions:
   contents: read
 
