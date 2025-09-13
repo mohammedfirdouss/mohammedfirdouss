@@ -30,3 +30,4 @@ jobs:
           README_PATH: "README.md"
           COMMIT_MESSAGE: "chore(readme): update recent activity"
           HIDE_DETAILS_ON_PRIVATE_REPOS: "true"
+          IGNORE_EVENTS: "PushEvent"
