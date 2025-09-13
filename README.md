@@ -66,7 +66,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1817](https://github.com/cartography-cncf/cartography/pull/1817) in [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography)
+1. 🗑️ Deleted a branch in a private repo
+2. ❌ Closed an issue in a private repo
+3. 🔀 Merged a PR in a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. 🆕 Opened an issue in a private repo
 <!--END_SECTION:activity-->
 
 ---
