@@ -5,7 +5,6 @@
 
 I build serverless applications, automate the boring stuff, and share what I make with the open-source community. I work a lot with AWS, Python, Golang, Terraform, Docker, and Kubernetes. Lately, I’ve been learning more about AI and ML.
 
-
 ## 🌟 Featured Projects
 
 - [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023): Microblogging platform built on AWS.
