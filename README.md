@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repo
-2. ❌ Closed an issue in a private repo
-3. 🔀 Merged a PR in a private repo
-4. 🔎 Reviewed a PR in a private repo
-5. 🆕 Opened an issue in a private repo
+1. 🆕 Opened an issue in a private repo
+2. 🆕 Opened an issue in a private repo
+3. 🆕 Opened an issue in a private repo
+4. 🆕 Opened an issue in a private repo
+5. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ---
