@@ -12,7 +12,6 @@ I build serverless applications, automate the boring stuff, and share what I mak
 - [Tranzor](https://github.com/mohammedfirdouss/Tranzor): Tranzor is a serverless, real-time financial transaction processing system
 - [Bloom Refresh](https://github.com/mohammedfirdouss/Bloom-Refresh): An event driven application designed to connect volunteers and organizers for local cleanup events built on AWS.
 
-
 ---
 
 ## 📬 Connect
@@ -53,7 +52,6 @@ I build serverless applications, automate the boring stuff, and share what I mak
 ## 🏅 Certificates
 
 - [Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/3bf4d5f8-2010-4de3-9d89-503c7dad658e/public_url)
-
 
 ---
 
