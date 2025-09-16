@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repo
-2. ❌ Closed an issue in a private repo
-3. 🔀 Merged a PR in a private repo
-4. 🗑️ Deleted a branch in a private repo
-5. ❌ Closed an issue in a private repo
+1. ⭐ Starred [LorenzoLaCorte/european-tech-internships-2025](https://github.com/LorenzoLaCorte/european-tech-internships-2025)
+2. 🗑️ Deleted a branch in a private repo
+3. ❌ Closed an issue in a private repo
+4. 🔀 Merged a PR in a private repo
+5. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ---
