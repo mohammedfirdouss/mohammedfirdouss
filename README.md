@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new repository [mohammedfirdouss/devops-assistant](https://github.com/mohammedfirdouss/devops-assistant)
-2. ➕ Created a new branch [`main`](https://github.com/mohammedfirdouss/devops-assistant/tree/main) in [mohammedfirdouss/devops-assistant](https://github.com/mohammedfirdouss/devops-assistant)
-3. ⭐ Starred [LorenzoLaCorte/european-tech-internships-2025](https://github.com/LorenzoLaCorte/european-tech-internships-2025)
-4. 🗑️ Deleted a branch in a private repo
-5. ❌ Closed an issue in a private repo
+1. ⭐ Starred [andmoredev/promptatron-3000](https://github.com/andmoredev/promptatron-3000)
+2. 🎉 Created a new repository [mohammedfirdouss/devops-assistant](https://github.com/mohammedfirdouss/devops-assistant)
+3. ➕ Created a new branch [`main`](https://github.com/mohammedfirdouss/devops-assistant/tree/main) in [mohammedfirdouss/devops-assistant](https://github.com/mohammedfirdouss/devops-assistant)
+4. ⭐ Starred [LorenzoLaCorte/european-tech-internships-2025](https://github.com/LorenzoLaCorte/european-tech-internships-2025)
+5. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ---
