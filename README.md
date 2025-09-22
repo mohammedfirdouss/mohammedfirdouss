@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `backend` in [mohammedfirdouss/Konnect](https://github.com/mohammedfirdouss/Konnect)
-2. ⭐ Starred [serverless/examples](https://github.com/serverless/examples)
-3. 🔀 Merged [PR #24](https://github.com/mohammedfirdouss/Konnect/pull/24) in [mohammedfirdouss/Konnect](https://github.com/mohammedfirdouss/Konnect)
-4. ⭐ Starred [andmoredev/promptatron-3000](https://github.com/andmoredev/promptatron-3000)
-5. 🎉 Created a new repository [mohammedfirdouss/devops-assistant](https://github.com/mohammedfirdouss/devops-assistant)
+1. 📥 Opened a PR in a private repo
+2. ➕ Created a new branch in a private repo
+3. 🗑️ Deleted a branch `backend` in [mohammedfirdouss/Konnect](https://github.com/mohammedfirdouss/Konnect)
+4. ⭐ Starred [serverless/examples](https://github.com/serverless/examples)
+5. 🔀 Merged [PR #24](https://github.com/mohammedfirdouss/Konnect/pull/24) in [mohammedfirdouss/Konnect](https://github.com/mohammedfirdouss/Konnect)
 <!--END_SECTION:activity-->
 
 ---
