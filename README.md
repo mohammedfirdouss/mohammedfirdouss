@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [serverless/examples](https://github.com/serverless/examples)
-2. 🔀 Merged [PR #24](https://github.com/mohammedfirdouss/Konnect/pull/24) in [mohammedfirdouss/Konnect](https://github.com/mohammedfirdouss/Konnect)
-3. ⭐ Starred [andmoredev/promptatron-3000](https://github.com/andmoredev/promptatron-3000)
-4. 🎉 Created a new repository [mohammedfirdouss/devops-assistant](https://github.com/mohammedfirdouss/devops-assistant)
-5. ➕ Created a new branch [`main`](https://github.com/mohammedfirdouss/devops-assistant/tree/main) in [mohammedfirdouss/devops-assistant](https://github.com/mohammedfirdouss/devops-assistant)
+1. 🗑️ Deleted a branch `backend` in [mohammedfirdouss/Konnect](https://github.com/mohammedfirdouss/Konnect)
+2. ⭐ Starred [serverless/examples](https://github.com/serverless/examples)
+3. 🔀 Merged [PR #24](https://github.com/mohammedfirdouss/Konnect/pull/24) in [mohammedfirdouss/Konnect](https://github.com/mohammedfirdouss/Konnect)
+4. ⭐ Starred [andmoredev/promptatron-3000](https://github.com/andmoredev/promptatron-3000)
+5. 🎉 Created a new repository [mohammedfirdouss/devops-assistant](https://github.com/mohammedfirdouss/devops-assistant)
 <!--END_SECTION:activity-->
 
 ---
