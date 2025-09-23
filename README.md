@@ -64,10 +64,10 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue in a private repo
-2. ➕ Created a new branch in a private repo
-3. 🔔 Watching [lordemmag-devops/node-service](https://github.com/lordemmag-devops/node-service)
-4. 📥 Opened a PR in a private repo
+1. ❌ Closed an issue in a private repo
+2. 🔀 Merged a PR in a private repo
+3. 🆕 Opened an issue in a private repo
+4. 🆕 Opened an issue in a private repo
 5. ➕ Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
