@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
-2. 🗑️ Deleted a branch in a private repo
-3. 🗑️ Deleted a branch in a private repo
-4. ❌ Closed an issue in a private repo
-5. 🔀 Merged a PR in a private repo
+1. ⭐ Starred [vivekkalyanarangan30/llm_from_scratch](https://github.com/vivekkalyanarangan30/llm_from_scratch)
+2. ⭐ Starred [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
+3. 🎉 Created a new private repository
+4. ➕ Created a new branch in a private repo
+5. ⭐ Starred [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
 <!--END_SECTION:activity-->
 
 ---
