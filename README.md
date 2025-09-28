@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔔 Watching [vivekkalyanarangan30/llm_from_scratch](https://github.com/vivekkalyanarangan30/llm_from_scratch)
-2. ⭐ Starred [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
-3. 🎉 Created a new private repository
-4. ➕ Created a new branch in a private repo
-5. ⭐ Starred [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
+1. 🎉 Created a new repository [mohammedfirdouss/silver-octo-enigma](https://github.com/mohammedfirdouss/silver-octo-enigma)
+2. ➕ Created a new branch [`main`](https://github.com/mohammedfirdouss/silver-octo-enigma/tree/main) in [mohammedfirdouss/silver-octo-enigma](https://github.com/mohammedfirdouss/silver-octo-enigma)
+3. ➕ Created a new branch [`master`](https://github.com/mohammedfirdouss/temp-repo/tree/master) in [mohammedfirdouss/temp-repo](https://github.com/mohammedfirdouss/temp-repo)
+4. 🎉 Created a new repository [mohammedfirdouss/temp-repo](https://github.com/mohammedfirdouss/temp-repo)
+5. ➕ Created a new branch [`main`](https://github.com/mohammedfirdouss/temp-repo/tree/main) in [mohammedfirdouss/temp-repo](https://github.com/mohammedfirdouss/temp-repo)
 <!--END_SECTION:activity-->
 
 ---
