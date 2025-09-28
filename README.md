@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new repository [mohammedfirdouss/silver-octo-enigma](https://github.com/mohammedfirdouss/silver-octo-enigma)
-2. ➕ Created a new branch [`main`](https://github.com/mohammedfirdouss/silver-octo-enigma/tree/main) in [mohammedfirdouss/silver-octo-enigma](https://github.com/mohammedfirdouss/silver-octo-enigma)
-3. ➕ Created a new branch [`master`](https://github.com/mohammedfirdouss/temp-repo/tree/master) in [mohammedfirdouss/temp-repo](https://github.com/mohammedfirdouss/temp-repo)
-4. 🎉 Created a new repository [mohammedfirdouss/temp-repo](https://github.com/mohammedfirdouss/temp-repo)
-5. ➕ Created a new branch [`main`](https://github.com/mohammedfirdouss/temp-repo/tree/main) in [mohammedfirdouss/temp-repo](https://github.com/mohammedfirdouss/temp-repo)
+1. 🗑️ Deleted a branch `cursor/convert-serverless-ai-stack-to-aws-cdk-0c56` in [mohammedfirdouss/smart-doc-processor](https://github.com/mohammedfirdouss/smart-doc-processor)
+2. 🔀 Merged [PR #1](https://github.com/mohammedfirdouss/smart-doc-processor/pull/1) in [mohammedfirdouss/smart-doc-processor](https://github.com/mohammedfirdouss/smart-doc-processor)
+3. 📥 Opened [PR #1](https://github.com/mohammedfirdouss/smart-doc-processor/pull/1) in [mohammedfirdouss/smart-doc-processor](https://github.com/mohammedfirdouss/smart-doc-processor)
+4. ➕ Created a new branch [`main`](https://github.com/mohammedfirdouss/smart-doc-processor/tree/main) in [mohammedfirdouss/smart-doc-processor](https://github.com/mohammedfirdouss/smart-doc-processor)
+5. 🎉 Created a new repository [mohammedfirdouss/smart-doc-processor](https://github.com/mohammedfirdouss/smart-doc-processor)
 <!--END_SECTION:activity-->
 
 ---
