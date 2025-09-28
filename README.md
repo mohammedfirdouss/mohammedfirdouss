@@ -64,7 +64,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [vivekkalyanarangan30/llm_from_scratch](https://github.com/vivekkalyanarangan30/llm_from_scratch)
+1. 🔔 Watching [vivekkalyanarangan30/llm_from_scratch](https://github.com/vivekkalyanarangan30/llm_from_scratch)
 2. ⭐ Starred [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
 3. 🎉 Created a new private repository
 4. ➕ Created a new branch in a private repo
