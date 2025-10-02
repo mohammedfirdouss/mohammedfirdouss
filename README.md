@@ -65,11 +65,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `cursor/implement-live-research-room-frontend-65cc` in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
-2. 🔀 Merged [PR #2](https://github.com/mohammedfirdouss/doc-hive/pull/2) in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
-3. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/doc-hive/pull/2) in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
-4. 🗑️ Deleted a branch `cursor/implement-live-research-room-backend-with-convex-5520` in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
-5. 🔀 Merged [PR #1](https://github.com/mohammedfirdouss/doc-hive/pull/1) in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
+1. 🆕 Opened an issue [#7](https://github.com/mohammedfirdouss/mohammedfirdouss/issues/7) in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+2. 🗑️ Deleted a branch `cursor/implement-live-research-room-frontend-65cc` in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
+3. 🔀 Merged [PR #2](https://github.com/mohammedfirdouss/doc-hive/pull/2) in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
+4. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/doc-hive/pull/2) in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
+5. 🗑️ Deleted a branch `cursor/implement-live-research-room-backend-with-convex-5520` in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
 <!--END_SECTION:activity-->
 
 ---
