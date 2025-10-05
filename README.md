@@ -65,11 +65,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repo
-2. 🎉 Created a new private repository
-3. 🆕 Opened an issue [#7](https://github.com/mohammedfirdouss/mohammedfirdouss/issues/7) in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-4. 🗑️ Deleted a branch `cursor/implement-live-research-room-frontend-65cc` in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
-5. 🔀 Merged [PR #2](https://github.com/mohammedfirdouss/doc-hive/pull/2) in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
+1. ⭐ Starred [GavinLonDigital/MagicStream](https://github.com/GavinLonDigital/MagicStream)
+2. 🎉 Created a new branch in a private repo
+3. 🎉 Created a new private repository
+4. 🆕 Opened an issue [#7](https://github.com/mohammedfirdouss/mohammedfirdouss/issues/7) in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+5. 🗑️ Deleted a branch `cursor/implement-live-research-room-frontend-65cc` in [mohammedfirdouss/doc-hive](https://github.com/mohammedfirdouss/doc-hive)
 <!--END_SECTION:activity-->
 
 ---
