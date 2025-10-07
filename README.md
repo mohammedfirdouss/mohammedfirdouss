@@ -65,11 +65,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `cursor/adapt-ai-chat-api-for-personalized-recipe-generation-757b` in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
-2. 🔀 Merged [PR #2](https://github.com/mohammedfirdouss/serverless-algospoon-ai/pull/2) in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
-3. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/serverless-algospoon-ai/pull/2) in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
-4. 🗑️ Deleted a branch `cursor/setup-user-profile-and-recipe-data-7213` in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
-5. 🔀 Merged [PR #1](https://github.com/mohammedfirdouss/serverless-algospoon-ai/pull/1) in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
+1. ⭐ Starred [deepanshu1422/List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
+2. 🗑️ Deleted a branch `cursor/adapt-ai-chat-api-for-personalized-recipe-generation-757b` in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
+3. 🔀 Merged [PR #2](https://github.com/mohammedfirdouss/serverless-algospoon-ai/pull/2) in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
+4. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/serverless-algospoon-ai/pull/2) in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
+5. 🗑️ Deleted a branch `cursor/setup-user-profile-and-recipe-data-7213` in [mohammedfirdouss/serverless-algospoon-ai](https://github.com/mohammedfirdouss/serverless-algospoon-ai)
 <!--END_SECTION:activity-->
 
 ---
