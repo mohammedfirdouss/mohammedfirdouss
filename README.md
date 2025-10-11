@@ -67,7 +67,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 <!--START_SECTION:activity-->
 1. 🎉 Created a new branch in a private repo
 2. undefined
-3. ⭐ Starred [heyOnuoha/golang-boilerplate-beginner](https://github.com/heyOnuoha/golang-boilerplate-beginner)
+3. 🔔 Watching [heyOnuoha/golang-boilerplate-beginner](https://github.com/heyOnuoha/golang-boilerplate-beginner)
 4. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 5. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
