@@ -65,11 +65,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repo
-2. undefined
-3. 🔔 Watching [heyOnuoha/golang-boilerplate-beginner](https://github.com/heyOnuoha/golang-boilerplate-beginner)
-4. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
-5. 📥 Opened a PR in a private repo
+1. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+2. 🎉 Created a new branch in a private repo
+3. undefined
+4. 🔔 Watching [heyOnuoha/golang-boilerplate-beginner](https://github.com/heyOnuoha/golang-boilerplate-beginner)
+5. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 <!--END_SECTION:activity-->
 
 ---
