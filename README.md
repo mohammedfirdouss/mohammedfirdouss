@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
-2. 🎉 Created a new branch in a private repo
-3. undefined
-4. 🔔 Watching [heyOnuoha/golang-boilerplate-beginner](https://github.com/heyOnuoha/golang-boilerplate-beginner)
-5. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/veritree-hashgraph/tree/main) in [mohammedfirdouss/veritree-hashgraph](https://github.com/mohammedfirdouss/veritree-hashgraph)
+2. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+3. 🎉 Created a new branch in a private repo
+4. undefined
+5. 🔔 Watching [heyOnuoha/golang-boilerplate-beginner](https://github.com/heyOnuoha/golang-boilerplate-beginner)
 <!--END_SECTION:activity-->
 
 ---
