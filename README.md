@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [debnsuma/fcc-ai-engineering-aws](https://github.com/debnsuma/fcc-ai-engineering-aws)
-2. ⭐ Starred [Cerebras/Cerebras-Inference-Cookbook](https://github.com/Cerebras/Cerebras-Inference-Cookbook)
-3. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/veritree-hashgraph/tree/main) in [mohammedfirdouss/veritree-hashgraph](https://github.com/mohammedfirdouss/veritree-hashgraph)
-4. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
-5. 🎉 Created a new branch in a private repo
+1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/cf_ai_code_reviewer/tree/main) in [mohammedfirdouss/cf_ai_code_reviewer](https://github.com/mohammedfirdouss/cf_ai_code_reviewer)
+2. ⭐ Starred [debnsuma/fcc-ai-engineering-aws](https://github.com/debnsuma/fcc-ai-engineering-aws)
+3. ⭐ Starred [Cerebras/Cerebras-Inference-Cookbook](https://github.com/Cerebras/Cerebras-Inference-Cookbook)
+4. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/veritree-hashgraph/tree/main) in [mohammedfirdouss/veritree-hashgraph](https://github.com/mohammedfirdouss/veritree-hashgraph)
+5. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
 <!--END_SECTION:activity-->
 
 ---
