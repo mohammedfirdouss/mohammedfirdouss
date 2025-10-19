@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `update_worker_name_to_ai-code-reviewer-frontend` in [mohammedfirdouss/cf_ai_code_reviewer](https://github.com/mohammedfirdouss/cf_ai_code_reviewer)
-2. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/cf_ai_code_reviewer/tree/main) in [mohammedfirdouss/cf_ai_code_reviewer](https://github.com/mohammedfirdouss/cf_ai_code_reviewer)
-3. ⭐ Starred [debnsuma/fcc-ai-engineering-aws](https://github.com/debnsuma/fcc-ai-engineering-aws)
-4. ⭐ Starred [Cerebras/Cerebras-Inference-Cookbook](https://github.com/Cerebras/Cerebras-Inference-Cookbook)
-5. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/veritree-hashgraph/tree/main) in [mohammedfirdouss/veritree-hashgraph](https://github.com/mohammedfirdouss/veritree-hashgraph)
+1. ⭐ Starred [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
+2. 🗑️ Deleted a branch `update_worker_name_to_ai-code-reviewer-frontend` in [mohammedfirdouss/cf_ai_code_reviewer](https://github.com/mohammedfirdouss/cf_ai_code_reviewer)
+3. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/cf_ai_code_reviewer/tree/main) in [mohammedfirdouss/cf_ai_code_reviewer](https://github.com/mohammedfirdouss/cf_ai_code_reviewer)
+4. ⭐ Starred [debnsuma/fcc-ai-engineering-aws](https://github.com/debnsuma/fcc-ai-engineering-aws)
+5. ⭐ Starred [Cerebras/Cerebras-Inference-Cookbook](https://github.com/Cerebras/Cerebras-Inference-Cookbook)
 <!--END_SECTION:activity-->
 
 ---
