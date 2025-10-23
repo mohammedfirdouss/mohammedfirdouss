@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Ifihan/ai-readme-generator-be](https://github.com/Ifihan/ai-readme-generator-be)
-2. ⭐ Starred [Ifihan/ai-readme-generator-fe](https://github.com/Ifihan/ai-readme-generator-fe)
-3. ⭐ Starred [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
-4. 🗑️ Deleted a branch `update_worker_name_to_ai-code-reviewer-frontend` in [mohammedfirdouss/ai_code_reviewer](https://github.com/mohammedfirdouss/ai_code_reviewer)
-5. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/ai_code_reviewer/tree/main) in [mohammedfirdouss/ai_code_reviewer](https://github.com/mohammedfirdouss/ai_code_reviewer)
+1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/konnect-colosseum/tree/main) in [mohammedfirdouss/konnect-colosseum](https://github.com/mohammedfirdouss/konnect-colosseum)
+2. ⭐ Starred [Ifihan/ai-readme-generator-be](https://github.com/Ifihan/ai-readme-generator-be)
+3. ⭐ Starred [Ifihan/ai-readme-generator-fe](https://github.com/Ifihan/ai-readme-generator-fe)
+4. ⭐ Starred [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
+5. 🗑️ Deleted a branch `update_worker_name_to_ai-code-reviewer-frontend` in [mohammedfirdouss/ai_code_reviewer](https://github.com/mohammedfirdouss/ai_code_reviewer)
 <!--END_SECTION:activity-->
 
 ---
