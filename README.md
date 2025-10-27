@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔔 Watching [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
-2. ⭐ Starred [aws-samples/sample-on-demand-workflow-orchestrator](https://github.com/aws-samples/sample-on-demand-workflow-orchestrator)
-3. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/konnect-colosseum/tree/main) in [mohammedfirdouss/konnect-colosseum](https://github.com/mohammedfirdouss/konnect-colosseum)
-4. 🔔 Watching [Ifihan/ai-readme-generator-be](https://github.com/Ifihan/ai-readme-generator-be)
-5. 🔔 Watching [Ifihan/ai-readme-generator-fe](https://github.com/Ifihan/ai-readme-generator-fe)
+1. ⭐ Starred [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research)
+2. 🔔 Watching [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
+3. ⭐ Starred [aws-samples/sample-on-demand-workflow-orchestrator](https://github.com/aws-samples/sample-on-demand-workflow-orchestrator)
+4. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/konnect-colosseum/tree/main) in [mohammedfirdouss/konnect-colosseum](https://github.com/mohammedfirdouss/konnect-colosseum)
+5. 🔔 Watching [Ifihan/ai-readme-generator-be](https://github.com/Ifihan/ai-readme-generator-be)
 <!--END_SECTION:activity-->
 
 ---
