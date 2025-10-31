@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/InfraAlert/tree/main) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. 📥 Opened a PR in a private repo
-3. 🗣 Commented on issue [#781](https://github.com/hiero-ledger/hiero-docs/issues/781) in [hiero-ledger/hiero-docs](https://github.com/hiero-ledger/hiero-docs): [View Comment](https://github.com/hiero-ledger/hiero-docs/issues/781#issuecomment-3466503500)
-4. ⭐ Starred [GoogleCloudPlatform/devrel-demos](https://github.com/GoogleCloudPlatform/devrel-demos)
-5. ⭐ Starred [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research)
+1. ⭐ Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
+2. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/InfraAlert/tree/main) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+3. 📥 Opened a PR in a private repo
+4. 🗣 Commented on issue [#781](https://github.com/hiero-ledger/hiero-docs/issues/781) in [hiero-ledger/hiero-docs](https://github.com/hiero-ledger/hiero-docs): [View Comment](https://github.com/hiero-ledger/hiero-docs/issues/781#issuecomment-3466503500)
+5. ⭐ Starred [GoogleCloudPlatform/devrel-demos](https://github.com/GoogleCloudPlatform/devrel-demos)
 <!--END_SECTION:activity-->
 
 ---
