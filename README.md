@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)
-2. ⭐ Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
-3. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/InfraAlert/tree/main) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. 📥 Opened a PR in a private repo
-5. 🗣 Commented on issue [#781](https://github.com/hiero-ledger/hiero-docs/issues/781) in [hiero-ledger/hiero-docs](https://github.com/hiero-ledger/hiero-docs): [View Comment](https://github.com/hiero-ledger/hiero-docs/issues/781#issuecomment-3466503500)
+1. ⭐ Starred [Ifihan/ai-readme-generator-be](https://github.com/Ifihan/ai-readme-generator-be)
+2. ⭐ Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)
+3. ⭐ Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
+4. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/InfraAlert/tree/main) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 ---
