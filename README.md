@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
-2. 🗣 Commented on issue [#21986](https://github.com/goharbor/harbor/issues/21986) in [goharbor/harbor](https://github.com/goharbor/harbor): [View Comment](https://github.com/goharbor/harbor/issues/21986#issuecomment-3482441713)
-3. ⭐ Starred [Ifihan/ai-readme-generator-be](https://github.com/Ifihan/ai-readme-generator-be)
-4. ⭐ Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)
-5. ⭐ Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
+1. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+2. ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
+3. 🗣 Commented on issue [#21986](https://github.com/goharbor/harbor/issues/21986) in [goharbor/harbor](https://github.com/goharbor/harbor): [View Comment](https://github.com/goharbor/harbor/issues/21986#issuecomment-3482441713)
+4. ⭐ Starred [Ifihan/ai-readme-generator-be](https://github.com/Ifihan/ai-readme-generator-be)
+5. ⭐ Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)
 <!--END_SECTION:activity-->
 
 ---
