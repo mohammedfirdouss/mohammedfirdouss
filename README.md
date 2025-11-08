@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch [`orchestrator-setup`](https://github.com/mohammedfirdouss/InfraAlert/tree/orchestrator-setup) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. ⭐ Starred [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-3. ⭐ Starred [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
-4. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
-5. 🔔 Watching [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
+1. ⭐ Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+2. 🎉 Created a new branch [`orchestrator-setup`](https://github.com/mohammedfirdouss/InfraAlert/tree/orchestrator-setup) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+3. ⭐ Starred [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+4. ⭐ Starred [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+5. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
 <!--END_SECTION:activity-->
 
 ---
