@@ -65,11 +65,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [benx421/backend-engineer-path](https://github.com/benx421/backend-engineer-path)
-2. ⭐ Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
-3. 🎉 Created a new branch [`orchestrator-setup`](https://github.com/mohammedfirdouss/InfraAlert/tree/orchestrator-setup) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. ⭐ Starred [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-5. ⭐ Starred [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+1. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+2. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+3. 📥 Opened [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+4. ⭐ Starred [benx421/backend-engineer-path](https://github.com/benx421/backend-engineer-path)
+5. ⭐ Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 <!--END_SECTION:activity-->
 
 ---
