@@ -65,11 +65,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+1. 👤 Assigned [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
 2. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-3. 📥 Opened [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. ⭐ Starred [benx421/backend-engineer-path](https://github.com/benx421/backend-engineer-path)
-5. ⭐ Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+3. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+4. 📥 Opened [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. ⭐ Starred [benx421/backend-engineer-path](https://github.com/benx421/backend-engineer-path)
 <!--END_SECTION:activity-->
 
 ---
