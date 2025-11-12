@@ -3,8 +3,7 @@
 | Cloud Engineer | AI | Open Source Contributor |
 |----------------|---------------|--------------------------|
 
-I work on **Cloud Infrastructure** and **AI** and I want to build systems that are fast, reliable, and easy to manage using tools like **Terraform**, **Kubernetes**, **Docker**, **Python**, **AWS** and **GCP**.  
-I enjoy automating things and learning how systems really work.
+I work on **Cloud Infrastructure** and **AI** and I want to build systems that are fast, reliable, and easy to manage using tools like **Terraform**, **Kubernetes**, **Docker**, **Python**, **AWS** and **GCP**. I enjoy automating things and learning how systems really work.
 
 
 ## 🌟 Featured Projects
