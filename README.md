@@ -3,7 +3,9 @@
 | Cloud Engineer | AI | Open Source Contributor |
 |----------------|---------------|--------------------------|
 
-I build serverless applications, automate the boring stuff, and share what I make with the open-source community. I work a lot with AWS, Python, Golang, Terraform, Docker, and Kubernetes. Lately, I’ve been learning more about AI and ML.
+I work on **Cloud Infrastructure** and **AI** and I want to build systems that are fast, reliable, and easy to manage using tools like **Terraform**, **Kubernetes**, **Docker**, **Python**, **AWS** and **GCP**.  
+I enjoy automating things and learning how systems really work.
+
 
 ## 🌟 Featured Projects
 
@@ -38,15 +40,14 @@ I build serverless applications, automate the boring stuff, and share what I mak
 ## 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF5722?logo=gitlab&logoColor=white&style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/Monitoring-607D8B?logo=prometheus&logoColor=white&style=for-the-badge)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 
