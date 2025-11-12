@@ -65,11 +65,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 👤 Assigned [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-3. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. 📥 Opened [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-5. ⭐ Starred [benx421/backend-engineer-path](https://github.com/benx421/backend-engineer-path)
+1. 👤 Assigned [PR #2](https://github.com/mohammedfirdouss/InfraAlert/pull/2) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+2. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/InfraAlert/pull/2) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+3. 🎉 Created a new branch [`webapp-and-webhook-dev`](https://github.com/mohammedfirdouss/InfraAlert/tree/webapp-and-webhook-dev) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+4. 👤 Assigned [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
 <!--END_SECTION:activity-->
 
 ---
