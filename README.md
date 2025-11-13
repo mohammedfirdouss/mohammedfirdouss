@@ -64,11 +64,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 👤 Assigned [PR #2](https://github.com/mohammedfirdouss/InfraAlert/pull/2) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/InfraAlert/pull/2) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-3. 🎉 Created a new branch [`webapp-and-webhook-dev`](https://github.com/mohammedfirdouss/InfraAlert/tree/webapp-and-webhook-dev) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. 👤 Assigned [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-5. 🏷️ Added a label to [PR #1](https://github.com/mohammedfirdouss/InfraAlert/pull/1) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+1. 🗑️ Deleted a branch `copilot/sub-pr-3` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+2. ❌ Closed [PR #4](https://github.com/mohammedfirdouss/InfraAlert/pull/4) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+3. 🔎 Reviewed [PR #3](https://github.com/mohammedfirdouss/InfraAlert/pull/3) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+4. 🗣 Commented on a review of [PR #3](https://github.com/mohammedfirdouss/InfraAlert/pull/3) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert): [View Comment](https://github.com/mohammedfirdouss/InfraAlert/pull/3#pullrequestreviewcomment-2522856756)
+5. 📥 Opened [PR #3](https://github.com/mohammedfirdouss/InfraAlert/pull/3) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
 <!--END_SECTION:activity-->
 
 ---
