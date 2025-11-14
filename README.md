@@ -7,8 +7,9 @@ I work on Cloud Infrastructure and AI, focusing on building systems that are fas
 
 ## 🌟 Featured Projects
 
-- [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023): Microblogging platform built on AWS.
 - [InfraAlert](https://github.com/mohammedfirdouss/InfraAlert): InfraAlert is an intelligent, multi-agent AI system designed to support infrastructure issue reporting and response coordination in Nigeria.
+- [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023): Microblogging platform built on AWS.
+
 - [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023): Community site built with Terraform.
 - [Bloom Refresh](https://github.com/mohammedfirdouss/Bloom-Refresh): An event driven application designed to connect volunteers and organizers for local cleanup events built on AWS.
 
