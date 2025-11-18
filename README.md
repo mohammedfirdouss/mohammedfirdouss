@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened [PR #7](https://github.com/mohammedfirdouss/InfraAlert/pull/7) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. 📥 Opened [PR #6](https://github.com/mohammedfirdouss/InfraAlert/pull/6) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-3. 🗑️ Deleted a branch `feat/adk-memory-session-improvements` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. 🎉 Created a new branch [`infra-setup`](https://github.com/mohammedfirdouss/InfraAlert/tree/infra-setup) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-5. ⭐ Starred [dashapetr/talks](https://github.com/dashapetr/talks)
+1. 🗑️ Deleted a branch `revert-7-infra-setup` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+2. 🎉 Created a new branch [`revert-7-infra-setup`](https://github.com/mohammedfirdouss/InfraAlert/tree/revert-7-infra-setup) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+3. 🗑️ Deleted a branch `infra-setup` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+4. 📥 Opened [PR #7](https://github.com/mohammedfirdouss/InfraAlert/pull/7) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. 📥 Opened [PR #6](https://github.com/mohammedfirdouss/InfraAlert/pull/6) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
 <!--END_SECTION:activity-->
 
 ---
