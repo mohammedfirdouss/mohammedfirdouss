@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. undefined
-2. ⭐ Starred [nahidalam/maya](https://github.com/nahidalam/maya)
-3. 🗑️ Deleted a branch `revert-7-infra-setup` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. 🎉 Created a new branch [`revert-7-infra-setup`](https://github.com/mohammedfirdouss/InfraAlert/tree/revert-7-infra-setup) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-5. 🗑️ Deleted a branch `infra-setup` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+1. ⭐ Starred [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+2. undefined
+3. ⭐ Starred [nahidalam/maya](https://github.com/nahidalam/maya)
+4. 🗑️ Deleted a branch `revert-7-infra-setup` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. 🎉 Created a new branch [`revert-7-infra-setup`](https://github.com/mohammedfirdouss/InfraAlert/tree/revert-7-infra-setup) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
 <!--END_SECTION:activity-->
 
 ---
