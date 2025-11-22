@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch [`ux-elevation`](https://github.com/mohammedfirdouss/InfraAlert/tree/ux-elevation) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. undefined
-3. ⭐ Starred [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
-4. undefined
-5. ⭐ Starred [nahidalam/maya](https://github.com/nahidalam/maya)
+1. 🎉 Created a new branch [`refactor/agent-architecture-audit`](https://github.com/mohammedfirdouss/InfraAlert/tree/refactor/agent-architecture-audit) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+2. 🗑️ Deleted a branch `webapp-and-webhook-dev` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+3. 🎉 Created a new branch [`feat/arch-audit`](https://github.com/mohammedfirdouss/InfraAlert/tree/feat/arch-audit) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+4. 🎉 Created a new branch [`ux-elevation`](https://github.com/mohammedfirdouss/InfraAlert/tree/ux-elevation) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. undefined
 <!--END_SECTION:activity-->
 
 ---
