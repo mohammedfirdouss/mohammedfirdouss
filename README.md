@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. undefined
-2. ⭐ Starred [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
-3. undefined
-4. ⭐ Starred [nahidalam/maya](https://github.com/nahidalam/maya)
-5. 🗑️ Deleted a branch `revert-7-infra-setup` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+1. 🎉 Created a new branch [`ux-elevation`](https://github.com/mohammedfirdouss/InfraAlert/tree/ux-elevation) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+2. undefined
+3. ⭐ Starred [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+4. undefined
+5. ⭐ Starred [nahidalam/maya](https://github.com/nahidalam/maya)
 <!--END_SECTION:activity-->
 
 ---
