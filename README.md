@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch [`refactor/agent-architecture-audit`](https://github.com/mohammedfirdouss/InfraAlert/tree/refactor/agent-architecture-audit) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. 🗑️ Deleted a branch `webapp-and-webhook-dev` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-3. 🎉 Created a new branch [`feat/arch-audit`](https://github.com/mohammedfirdouss/InfraAlert/tree/feat/arch-audit) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. 🎉 Created a new branch [`ux-elevation`](https://github.com/mohammedfirdouss/InfraAlert/tree/ux-elevation) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-5. undefined
+1. 🗑️ Deleted a branch `refactor/agent-architecture-audit` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+2. 📥 Opened [PR #9](https://github.com/mohammedfirdouss/InfraAlert/pull/9) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+3. 🗑️ Deleted a branch `feat/arch-audit` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+4. 📥 Opened [PR #8](https://github.com/mohammedfirdouss/InfraAlert/pull/8) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. 🗑️ Deleted a branch `ux-elevation` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
 <!--END_SECTION:activity-->
 
 ---
