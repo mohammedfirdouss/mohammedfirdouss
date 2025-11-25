@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened [PR #6361](https://github.com/pipe-cd/pipecd/pull/6361) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-2. 🎉 Created a new branch [`update-docs`](https://github.com/mohammedfirdouss/pipecd/tree/update-docs) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
-3. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3575779811)
-4. 🎉 Created a new branch in a private repo
-5. ⭐ Starred [prismlabarizona/AIHDL-2026](https://github.com/prismlabarizona/AIHDL-2026)
+1. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3576238992)
+2. 📥 Opened [PR #6361](https://github.com/pipe-cd/pipecd/pull/6361) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+3. 🎉 Created a new branch [`update-docs`](https://github.com/mohammedfirdouss/pipecd/tree/update-docs) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+4. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3575779811)
+5. 🎉 Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 
