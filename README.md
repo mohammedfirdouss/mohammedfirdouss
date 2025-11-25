@@ -70,6 +70,7 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 5. 📥 Opened [PR #9](https://github.com/mohammedfirdouss/InfraAlert/pull/9) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
 <!--END_SECTION:activity-->
 
+
 ---
 ## 📊 GitHub Stats.
 
