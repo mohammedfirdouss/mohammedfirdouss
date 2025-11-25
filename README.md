@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `refactor/agent-architecture-audit` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. 📥 Opened [PR #9](https://github.com/mohammedfirdouss/InfraAlert/pull/9) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-3. 🗑️ Deleted a branch `feat/arch-audit` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. 📥 Opened [PR #8](https://github.com/mohammedfirdouss/InfraAlert/pull/8) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-5. 🗑️ Deleted a branch `ux-elevation` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+1. ⭐ Starred [prismlabarizona/AIHDL-2026](https://github.com/prismlabarizona/AIHDL-2026)
+2. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3574183401)
+3. ⭐ Starred [heilcheng/2025-GSoC-Proposal-Selected](https://github.com/heilcheng/2025-GSoC-Proposal-Selected)
+4. 🗑️ Deleted a branch `refactor/agent-architecture-audit` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. 📥 Opened [PR #9](https://github.com/mohammedfirdouss/InfraAlert/pull/9) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
 <!--END_SECTION:activity-->
 
 ---
