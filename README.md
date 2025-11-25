@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [prismlabarizona/AIHDL-2026](https://github.com/prismlabarizona/AIHDL-2026)
-2. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3574183401)
-3. ⭐ Starred [heilcheng/2025-GSoC-Proposal-Selected](https://github.com/heilcheng/2025-GSoC-Proposal-Selected)
-4. 🗑️ Deleted a branch `refactor/agent-architecture-audit` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-5. 📥 Opened [PR #9](https://github.com/mohammedfirdouss/InfraAlert/pull/9) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+1. 📥 Opened [PR #6361](https://github.com/pipe-cd/pipecd/pull/6361) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+2. 🎉 Created a new branch [`update-docs`](https://github.com/mohammedfirdouss/pipecd/tree/update-docs) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+3. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3575779811)
+4. 🎉 Created a new branch in a private repo
+5. ⭐ Starred [prismlabarizona/AIHDL-2026](https://github.com/prismlabarizona/AIHDL-2026)
 <!--END_SECTION:activity-->
 
 
