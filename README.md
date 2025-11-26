@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#6361](https://github.com/pipe-cd/pipecd/issues/6361) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6361#issuecomment-3580220993)
-2. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3576238992)
-3. 📥 Opened [PR #6361](https://github.com/pipe-cd/pipecd/pull/6361) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-4. 🎉 Created a new branch [`update-docs`](https://github.com/mohammedfirdouss/pipecd/tree/update-docs) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
-5. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3575779811)
+1. ⭐ Starred [quran/quran.com-api](https://github.com/quran/quran.com-api)
+2. ⭐ Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
+3. 🗣 Commented on issue [#6361](https://github.com/pipe-cd/pipecd/issues/6361) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6361#issuecomment-3580220993)
+4. 🗣 Commented on issue [#6357](https://github.com/pipe-cd/pipecd/issues/6357) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6357#issuecomment-3576238992)
+5. 📥 Opened [PR #6361](https://github.com/pipe-cd/pipecd/pull/6361) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
 <!--END_SECTION:activity-->
 
 
