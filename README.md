@@ -1,6 +1,6 @@
 ### Hi, I am Mohammed Firdous 👋
 
-| Cloud Engineer | AI | Open Source Contributor |
+| Cloud Engineer | AI | Open Source Contributor | 
 |----------------|---------------|--------------------------|
 
 I work on Cloud Infrastructure and AI focusing on building systems that are fast, reliable, and easy to manage. I use tools like Terraform, Kubernetes, Docker, Python, AWS, and GCP. I like automating tasks and understanding how systems work at a deeper level.
