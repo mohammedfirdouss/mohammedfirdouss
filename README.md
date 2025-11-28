@@ -64,10 +64,10 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 
 <!--START_SECTION:activity-->
 1. 🎉 Created a new branch in a private repo
-2. ⭐ Starred [Akintoyefelix/cancer_mutation](https://github.com/Akintoyefelix/cancer_mutation)
-3. undefined
-4. ⭐ Starred [quran/quran.com-api](https://github.com/quran/quran.com-api)
-5. ⭐ Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
+2. 🎉 Created a new branch in a private repo
+3. 🎉 Created a new branch in a private repo
+4. ⭐ Starred [Akintoyefelix/cancer_mutation](https://github.com/Akintoyefelix/cancer_mutation)
+5. undefined
 <!--END_SECTION:activity-->
 
 
