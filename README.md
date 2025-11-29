@@ -66,8 +66,8 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 1. 🎉 Created a new branch in a private repo
 2. 🎉 Created a new branch in a private repo
 3. 🎉 Created a new branch in a private repo
-4. ⭐ Starred [Akintoyefelix/cancer_mutation](https://github.com/Akintoyefelix/cancer_mutation)
-5. undefined
+4. ⭐ Starred [quran/quran.com-api](https://github.com/quran/quran.com-api)
+5. ⭐ Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
 <!--END_SECTION:activity-->
 
 
