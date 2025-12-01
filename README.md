@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repo
+1. ⭐ Starred [cloudshipai/station](https://github.com/cloudshipai/station)
 2. 🎉 Created a new branch in a private repo
 3. 🎉 Created a new branch in a private repo
-4. ⭐ Starred [quran/quran.com-api](https://github.com/quran/quran.com-api)
-5. ⭐ Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
+4. 🎉 Created a new branch in a private repo
+5. ⭐ Starred [quran/quran.com-api](https://github.com/quran/quran.com-api)
 <!--END_SECTION:activity-->
 
 
