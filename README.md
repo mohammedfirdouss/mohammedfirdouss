@@ -66,8 +66,8 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 1. ⭐ Starred [cloudshipai/station](https://github.com/cloudshipai/station)
 2. 🎉 Created a new branch in a private repo
 3. 🎉 Created a new branch in a private repo
-4. 🎉 Created a new branch in a private repo
-5. ⭐ Starred [quran/quran.com-api](https://github.com/quran/quran.com-api)
+4. 🔀 Merged [PR #6361](https://github.com/pipe-cd/pipecd/pull/6361) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. 🎉 Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 
