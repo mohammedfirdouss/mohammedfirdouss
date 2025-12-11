@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 📥 Opened a PR in a private repo
-3. 🔀 Merged a PR in a private repo
-4. 📥 Opened a PR in a private repo
-5. ⭐ Starred [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
+1. 🔀 Merged [PR #1](https://github.com/Akintoyefelix/Health/pull/1) in [Akintoyefelix/Health](https://github.com/Akintoyefelix/Health)
+2. 📥 Opened [PR #1](https://github.com/Akintoyefelix/Health/pull/1) in [Akintoyefelix/Health](https://github.com/Akintoyefelix/Health)
+3. 🍴 Forked [Akintoyefelix/Health](https://github.com/Akintoyefelix/Health)
+4. 🔀 Merged a PR in a private repo
+5. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 
