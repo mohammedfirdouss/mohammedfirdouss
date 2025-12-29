@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repo
-2. 🎉 Created a new branch in a private repo
-3. 🗑️ Deleted a branch `copilot/improve-readme-formatting` in [mohammedfirdouss/my-talks](https://github.com/mohammedfirdouss/my-talks)
-4. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/my-talks/tree/main) in [mohammedfirdouss/my-talks](https://github.com/mohammedfirdouss/my-talks)
-5. 🔀 Merged a PR in a private repo
+1. ⭐ Starred [zhuokaizhao/academia_cv_template](https://github.com/zhuokaizhao/academia_cv_template)
+2. 🗑️ Deleted a branch in a private repo
+3. 🎉 Created a new branch in a private repo
+4. 🗑️ Deleted a branch `copilot/improve-readme-formatting` in [mohammedfirdouss/my-talks](https://github.com/mohammedfirdouss/my-talks)
+5. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/my-talks/tree/main) in [mohammedfirdouss/my-talks](https://github.com/mohammedfirdouss/my-talks)
 <!--END_SECTION:activity-->
 
 
