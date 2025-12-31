@@ -56,7 +56,7 @@ I work on Cloud Infrastructure and AI focusing on building systems that are fast
 
 ## 🤝 Open to Collaborate
 
-Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdousaraoye).
+Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdousaraoye).
 
 ---
 
