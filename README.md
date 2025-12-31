@@ -63,11 +63,11 @@ Let’s build something impactful! [Connect on LinkedIn](https://www.linkedin.co
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔔 Watching [kubesimplify/devops-project](https://github.com/kubesimplify/devops-project)
-2. 🗑️ Deleted a branch `feature/webapp-react-restructure` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-3. ⭐ Starred [zhuokaizhao/academia_cv_template](https://github.com/zhuokaizhao/academia_cv_template)
-4. 🗑️ Deleted a branch in a private repo
-5. 🎉 Created a new branch in a private repo
+1. 📥 Opened a PR in a private repo
+2. 🎉 Created a new branch in a private repo
+3. 🗑️ Deleted a branch in a private repo
+4. 🔀 Merged a PR in a private repo
+5. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 
