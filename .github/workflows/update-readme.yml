@@ -20,7 +20,7 @@ jobs:
       cancel-in-progress: true
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Update GitHub Activity
         uses: TheDanniCraft/activity-log@v1
         with:
