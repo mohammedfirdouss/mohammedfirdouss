@@ -63,11 +63,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 📥 Opened a PR in a private repo
-3. 🗑️ Deleted a branch `dependabot/github_actions/actions/checkout-6` in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-4. 🔀 Merged a PR in a private repo
-5. 📥 Opened a PR in a private repo
+1. 🗣 Commented on issue [#6124](https://github.com/pipe-cd/pipecd/issues/6124) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6124#issuecomment-3703470839)
+2. 🗣 Commented on issue [#6124](https://github.com/pipe-cd/pipecd/issues/6124) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6124#issuecomment-3703468861)
+3. 🔀 Merged a PR in a private repo
+4. 📥 Opened a PR in a private repo
+5. 🗑️ Deleted a branch `dependabot/github_actions/actions/checkout-6` in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
 <!--END_SECTION:activity-->
 
 
