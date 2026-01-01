@@ -65,9 +65,9 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 <!--START_SECTION:activity-->
 1. 🔀 Merged a PR in a private repo
 2. 📥 Opened a PR in a private repo
-3. 🎉 Created a new branch in a private repo
-4. 🗑️ Deleted a branch in a private repo
-5. 🔀 Merged a PR in a private repo
+3. 🗑️ Deleted a branch `dependabot/github_actions/actions/checkout-6` in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+4. 🔀 Merged a PR in a private repo
+5. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 
