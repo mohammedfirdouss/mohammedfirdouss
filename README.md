@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3703677737)
-2. 🗣 Commented on issue [#6124](https://github.com/pipe-cd/pipecd/issues/6124) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6124#issuecomment-3703470839)
-3. 🗣 Commented on issue [#6124](https://github.com/pipe-cd/pipecd/issues/6124) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6124#issuecomment-3703468861)
-4. 🔀 Merged a PR in a private repo
-5. 📥 Opened a PR in a private repo
+1. ⭐ Starred [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard)
+2. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3703677737)
+3. 🗣 Commented on issue [#6124](https://github.com/pipe-cd/pipecd/issues/6124) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6124#issuecomment-3703470839)
+4. 🗣 Commented on issue [#6124](https://github.com/pipe-cd/pipecd/issues/6124) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6124#issuecomment-3703468861)
+5. 🔀 Merged a PR in a private repo
 <!--END_SECTION:activity-->
 
 
