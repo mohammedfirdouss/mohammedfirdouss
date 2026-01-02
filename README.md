@@ -10,6 +10,7 @@ I work on Cloud Infrastructure and AI focusing on building systems that are fast
 - [InfraAlert](https://github.com/mohammedfirdouss/InfraAlert): InfraAlert is an intelligent, multi-agent AI system designed to support infrastructure issue reporting and response coordination in Nigeria.
 - [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023): Microblogging platform built on AWS.
 - [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023): Community site built with Terraform.
+- [My Talks](https://github.com/mohammedfirdouss/my-talks): This repo has some or most of my talks given.
 
 ---
 
