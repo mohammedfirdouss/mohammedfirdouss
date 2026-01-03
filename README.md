@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repo
-2. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/Tranzor/tree/main) in [mohammedfirdouss/Tranzor](https://github.com/mohammedfirdouss/Tranzor)
-3. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3706305787)
-4. ⭐ Starred [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard)
-5. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3703677737)
+1. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3707081812)
+2. 📥 Opened [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+3. 🎉 Created a new branch [`docs/expand-contributing-pipecd`](https://github.com/mohammedfirdouss/pipecd/tree/docs/expand-contributing-pipecd) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+4. 📥 Opened [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. 🎉 Created a new branch [`docs/contribute-plugins-guide`](https://github.com/mohammedfirdouss/pipecd/tree/docs/contribute-plugins-guide) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
 <!--END_SECTION:activity-->
 
 
