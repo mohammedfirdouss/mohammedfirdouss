@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/Tranzor/tree/main) in [mohammedfirdouss/Tranzor](https://github.com/mohammedfirdouss/Tranzor)
-2. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3706305787)
-3. ⭐ Starred [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard)
-4. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3703677737)
-5. 🗣 Commented on issue [#6124](https://github.com/pipe-cd/pipecd/issues/6124) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6124#issuecomment-3703470839)
+1. 🗑️ Deleted a branch in a private repo
+2. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/Tranzor/tree/main) in [mohammedfirdouss/Tranzor](https://github.com/mohammedfirdouss/Tranzor)
+3. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3706305787)
+4. ⭐ Starred [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard)
+5. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3703677737)
 <!--END_SECTION:activity-->
 
 
