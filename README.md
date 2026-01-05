@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#6399](https://github.com/pipe-cd/pipecd/issues/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6399#issuecomment-3709498681)
-2. 🆕 Opened an issue [#2](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025/issues/2) in [mohammedfirdouss/free-genai-bootcamp-2025](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025)
-3. 🆕 Opened an issue [#1](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025/issues/1) in [mohammedfirdouss/free-genai-bootcamp-2025](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025)
-4. 🗣 Commented on issue [#6399](https://github.com/pipe-cd/pipecd/issues/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6399#issuecomment-3707865405)
-5. 🗣 Commented on issue [#6125](https://github.com/pipe-cd/pipecd/issues/6125) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6125#issuecomment-3707081812)
+1. 🗣 Commented on issue [#6396](https://github.com/pipe-cd/pipecd/issues/6396) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6396#issuecomment-3710517514)
+2. 🗣 Commented on issue [#6399](https://github.com/pipe-cd/pipecd/issues/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6399#issuecomment-3709498681)
+3. 🆕 Opened an issue [#2](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025/issues/2) in [mohammedfirdouss/free-genai-bootcamp-2025](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025)
+4. 🆕 Opened an issue [#1](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025/issues/1) in [mohammedfirdouss/free-genai-bootcamp-2025](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025)
+5. 🗣 Commented on issue [#6399](https://github.com/pipe-cd/pipecd/issues/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6399#issuecomment-3707865405)
 <!--END_SECTION:activity-->
 
 
