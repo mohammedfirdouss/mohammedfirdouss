@@ -2,7 +2,7 @@ name: Update Blog Posts
 
 on:
   schedule:
-        - cron: '15 */6 * * *' # every 6 hours at :15
+        - cron: '15 0 * * *' # daily at 00:15 UTC
   workflow_dispatch:
 
 permissions:
