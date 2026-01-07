@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#6396](https://github.com/pipe-cd/pipecd/issues/6396) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6396#issuecomment-3714604690)
-2. 🗣 Commented on issue [#6396](https://github.com/pipe-cd/pipecd/issues/6396) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6396#issuecomment-3710517514)
-3. 🗣 Commented on issue [#6399](https://github.com/pipe-cd/pipecd/issues/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6399#issuecomment-3709498681)
-4. 🆕 Opened an issue [#2](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025/issues/2) in [mohammedfirdouss/free-genai-bootcamp-2025](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025)
-5. 🆕 Opened an issue [#1](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025/issues/1) in [mohammedfirdouss/free-genai-bootcamp-2025](https://github.com/mohammedfirdouss/free-genai-bootcamp-2025)
+1. 🔎 Reviewed [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+2. 🗣 Commented on a review of [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/pull/6399#pullrequestreviewcomment-2667784344)
+3. 🔎 Reviewed [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+4. 🗣 Commented on a review of [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/pull/6399#pullrequestreviewcomment-2667778711)
+5. 🗣 Commented on issue [#6398](https://github.com/pipe-cd/pipecd/issues/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6398#issuecomment-3717828598)
 <!--END_SECTION:activity-->
 
 
