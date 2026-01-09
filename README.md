@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-2. 🗣 Commented on a review of [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/pull/6399#pullrequestreviewcomment-2671505056)
-3. 🔎 Reviewed [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-4. 🗣 Commented on a review of [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/pull/6398#pullrequestreviewcomment-2671476848)
-5. 🔎 Reviewed [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+1. 🔀 Merged [PR #6396](https://github.com/pipe-cd/pipecd/pull/6396) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+2. 🔎 Reviewed [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+3. 🗣 Commented on a review of [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/pull/6398#pullrequestreviewcomment-2675544385)
+4. 🔎 Reviewed [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. 🗣 Commented on a review of [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/pull/6398#pullrequestreviewcomment-2675522760)
 <!--END_SECTION:activity-->
 
 
