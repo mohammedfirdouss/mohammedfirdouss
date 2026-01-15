@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [towardsthecloud/aws-cdk-starter-kit](https://github.com/towardsthecloud/aws-cdk-starter-kit)
-2. 🗣 Commented on issue [#6399](https://github.com/pipe-cd/pipecd/issues/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6399#issuecomment-3747033319)
-3. 🗣 Commented on issue [#6398](https://github.com/pipe-cd/pipecd/issues/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6398#issuecomment-3738153829)
-4. 🔎 Reviewed [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-5. 🗣 Commented on a review of [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/pull/6399#pullrequestreviewcomment-2681871201)
+1. 🔎 Reviewed [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+2. 🗣 Commented on a review of [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/pull/6398#pullrequestreviewcomment-2694015582)
+3. ⭐ Starred [towardsthecloud/aws-cdk-starter-kit](https://github.com/towardsthecloud/aws-cdk-starter-kit)
+4. 🗣 Commented on issue [#6399](https://github.com/pipe-cd/pipecd/issues/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6399#issuecomment-3747033319)
+5. 🗣 Commented on issue [#6398](https://github.com/pipe-cd/pipecd/issues/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6398#issuecomment-3738153829)
 <!--END_SECTION:activity-->
 
 
