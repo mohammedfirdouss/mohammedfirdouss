@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#6398](https://github.com/pipe-cd/pipecd/issues/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6398#issuecomment-3762962853)
-2. 🔀 Merged [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-3. 📥 Opened [PR #6435](https://github.com/pipe-cd/pipecd/pull/6435) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-4. 🎉 Created a new branch [`feat/add-dependabot-govulncheck`](https://github.com/mohammedfirdouss/pipecd/tree/feat/add-dependabot-govulncheck) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
-5. 🗣 Commented on issue [#6409](https://github.com/pipe-cd/pipecd/issues/6409) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6409#issuecomment-3755123532)
+1. ⭐ Starred [awslabs/fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore)
+2. ⭐ Starred [speedyapply/2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs)
+3. ⭐ Starred [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs)
+4. 🗣 Commented on issue [#6398](https://github.com/pipe-cd/pipecd/issues/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6398#issuecomment-3762962853)
+5. 🔀 Merged [PR #6398](https://github.com/pipe-cd/pipecd/pull/6398) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
 <!--END_SECTION:activity-->
 
 
