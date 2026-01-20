@@ -71,7 +71,6 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 5. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
 <!--END_SECTION:activity-->
 
-
 ---
 ## 📊 GitHub Stats.
 
