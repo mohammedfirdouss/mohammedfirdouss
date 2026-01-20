@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#6435](https://github.com/pipe-cd/pipecd/issues/6435) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6435#issuecomment-3767815860)
-2. ⭐ Starred [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
-3. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)
-4. ⭐ Starred [fastai/fastbook](https://github.com/fastai/fastbook)
-5. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
+1. 🗣 Commented on issue [#6443](https://github.com/pipe-cd/pipecd/issues/6443) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6443#issuecomment-3772065745)
+2. 🗣 Commented on issue [#6446](https://github.com/pipe-cd/pipecd/issues/6446) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6446#issuecomment-3772042674)
+3. 🏷️ Added a label to an issue [#6446](https://github.com/pipe-cd/pipecd/issues/6446) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+4. 🆕 Opened an issue [#6446](https://github.com/pipe-cd/pipecd/issues/6446) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. ❌ Closed an issue [#6442](https://github.com/pipe-cd/pipecd/issues/6442) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
 <!--END_SECTION:activity-->
 
 ---
