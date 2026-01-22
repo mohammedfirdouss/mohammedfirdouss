@@ -5,8 +5,6 @@
 
 I work on Cloud Infrastructure and AI focusing on building systems that are fast, reliable, and easy to manage. I use tools like Terraform, Kubernetes, Docker, Python, AWS, and GCP. I like automating tasks and understanding how systems work at a deeper level. 
 
-
-
 ## 🌟 Featured Projects
 
 - [InfraAlert](https://github.com/mohammedfirdouss/InfraAlert): InfraAlert is an intelligent, multi-agent AI system designed to support infrastructure issue reporting and response coordination in Nigeria.
