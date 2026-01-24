@@ -64,11 +64,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)
-2. ⭐ Starred [deepanshu1422/List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
-3. 🎉 Created a new branch in a private repo
-4. undefined
-5. 🗣 Commented on issue [#6446](https://github.com/pipe-cd/pipecd/issues/6446) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6446#issuecomment-3783652955)
+1. ⭐ Starred [deepanshu1422/List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
+2. 🗣 Commented on issue [#6446](https://github.com/pipe-cd/pipecd/issues/6446) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6446#issuecomment-3794463231)
+3. 🗣 Commented on issue [#6446](https://github.com/pipe-cd/pipecd/issues/6446) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6446#issuecomment-3794420458)
+4. ⭐ Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)
+5. 🎉 Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ---
