@@ -1,4 +1,4 @@
-### Hi, I am Mohammed Firdous 👋
+### Hi, I am Mohammed Firdous
 
 | Cloud Engineer | AI | Open Source Contributor | 
 |----------------|---------------|--------------------------|
