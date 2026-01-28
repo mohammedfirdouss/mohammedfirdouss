@@ -65,11 +65,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [deeheber/strands-agent-template](https://github.com/deeheber/strands-agent-template)
-2. 🗣 Commented on issue [#6461](https://github.com/pipe-cd/pipecd/issues/6461) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6461#issuecomment-3796214711)
-3. 📥 Opened [PR #6461](https://github.com/pipe-cd/pipecd/pull/6461) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-4. 🎉 Created a new branch [`fix/codegen-hardening-6429`](https://github.com/mohammedfirdouss/pipecd/tree/fix/codegen-hardening-6429) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
-5. 🗑️ Deleted a branch `security/codegen-image-hardening` in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+1. 🔔 Watching [speedyapply/2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs)
+2. ⭐ Starred [deeheber/strands-agent-template](https://github.com/deeheber/strands-agent-template)
+3. 🗣 Commented on issue [#6461](https://github.com/pipe-cd/pipecd/issues/6461) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6461#issuecomment-3796214711)
+4. 📥 Opened [PR #6461](https://github.com/pipe-cd/pipecd/pull/6461) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. 🎉 Created a new branch [`fix/codegen-hardening-6429`](https://github.com/mohammedfirdouss/pipecd/tree/fix/codegen-hardening-6429) in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
 <!--END_SECTION:activity-->
 
 ---
