@@ -65,11 +65,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)
-2. ⭐ Starred [snarktank/compound-product](https://github.com/snarktank/compound-product)
-3. ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
-4. 🎉 Created a new branch in a private repo
-5. 🎉 Created a new branch in a private repo
+1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/ai_grocery_app/tree/main) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
+2. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/strands-rag-pipeline/tree/main) in [mohammedfirdouss/strands-rag-pipeline](https://github.com/mohammedfirdouss/strands-rag-pipeline)
+3. ⭐ Starred [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)
+4. ⭐ Starred [stsirtsis/research-project-template](https://github.com/stsirtsis/research-project-template)
+5. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ---
