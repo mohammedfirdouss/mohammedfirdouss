@@ -65,11 +65,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/ai_grocery_app/tree/main) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
-2. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/strands-rag-pipeline/tree/main) in [mohammedfirdouss/strands-rag-pipeline](https://github.com/mohammedfirdouss/strands-rag-pipeline)
-3. ⭐ Starred [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)
-4. ⭐ Starred [stsirtsis/research-project-template](https://github.com/stsirtsis/research-project-template)
-5. 🗑️ Deleted a branch in a private repo
+1. 🔀 Merged [PR #3](https://github.com/mohammedfirdouss/ai_grocery_app/pull/3) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
+2. 📥 Opened [PR #3](https://github.com/mohammedfirdouss/ai_grocery_app/pull/3) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
+3. 🔀 Merged [PR #2](https://github.com/mohammedfirdouss/ai_grocery_app/pull/2) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
+4. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/ai_grocery_app/pull/2) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
+5. 🔀 Merged [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
 <!--END_SECTION:activity-->
 
 ---
