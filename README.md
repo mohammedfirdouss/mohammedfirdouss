@@ -65,11 +65,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #3](https://github.com/mohammedfirdouss/ai_grocery_app/pull/3) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
-2. 📥 Opened [PR #3](https://github.com/mohammedfirdouss/ai_grocery_app/pull/3) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
-3. 🔀 Merged [PR #2](https://github.com/mohammedfirdouss/ai_grocery_app/pull/2) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
-4. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/ai_grocery_app/pull/2) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
-5. 🔀 Merged [PR #6399](https://github.com/pipe-cd/pipecd/pull/6399) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+1. 🔎 Reviewed a PR in a private repo
+2. 🗣 Commented on a review of a PR in a private repo
+3. 🔎 Reviewed a PR in a private repo
+4. 🗣 Commented on a review of a PR in a private repo
+5. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ---
