@@ -4,7 +4,7 @@
 |----------------|---------------|--------------------------|
 
 
-I work on cloud infrastructure and AI focusing on building systems that are fast, reliable, and easy to manage. I use popular tools like Terraform, Kubernetes, Docker, Python, AWS, and GCP. I like understanding how systems work at a deeper level. 
+I work on cloud infrastructure and AI focusing on building systems that are fast, reliable, and easy to manage. I use popular tools like Terraform, Kubernetes, Docker, Python, AWS, and GCP. I like understanding how systems work at a deeper level.  
 
 ## 🌟 Featured Projects
 
