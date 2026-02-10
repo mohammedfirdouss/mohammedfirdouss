@@ -65,11 +65,11 @@ Let’s build! [Connect on LinkedIn](https://www.linkedin.com/in/mohammedfirdous
 ## 🏃‍♂️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/ecommerce-k8s/tree/main) in [mohammedfirdouss/ecommerce-k8s](https://github.com/mohammedfirdouss/ecommerce-k8s)
-2. 🎉 Created a new branch in a private repo
-3. 🗑️ Deleted a branch in a private repo
+1. 🔎 Reviewed [PR #11](https://github.com/mohammedfirdouss/InfraAlert/pull/11) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+2. ⭐ Starred [deeheber/job-search-agent](https://github.com/deeheber/job-search-agent)
+3. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/ecommerce-k8s/tree/main) in [mohammedfirdouss/ecommerce-k8s](https://github.com/mohammedfirdouss/ecommerce-k8s)
 4. 🎉 Created a new branch in a private repo
-5. 🔀 Merged a PR in a private repo
+5. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ---
