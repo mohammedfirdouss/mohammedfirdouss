@@ -79,7 +79,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 <div align="center">
 
-[![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_and_Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/3bf4d5f8-2010-4de3-9d89-503c7dad658e/public_url)
+[![KCNA](https://img.shields.io/badge/KCNA-Kubernetes%20and%20Cloud%20Native%20Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/3bf4d5f8-2010-4de3-9d89-503c7dad658e/public_url)
 
 </div>
 
@@ -113,7 +113,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedfirdouss&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedfirdouss&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -152,7 +152,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
   </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
