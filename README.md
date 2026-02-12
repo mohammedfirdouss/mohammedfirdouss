@@ -112,7 +112,7 @@ Let's build together.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedfirdouss&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=mohammedfirdouss&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
