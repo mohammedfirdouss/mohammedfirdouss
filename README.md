@@ -1,8 +1,8 @@
 <div align="center">
   
-# Hi there, I'm Mohammed Firdous 👋
+# Hi, I'm Mohammed Firdous
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+Engineer;AI+Enthusiast;Open+Source+Contributor;Building+Scalable+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+Engineer;AI;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammedfirdouss&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -10,29 +10,28 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I work on cloud infrastructure and AI, focusing on building systems that are fast, reliable, and easy to manage. I use tools like **Terraform**, **Kubernetes**, **Docker**, **Python**, **AWS**, and **GCP**. I enjoy understanding how systems work at a deeper level.
+I work on cloud infrastructure and AI, building systems that are fast, reliable, and easy to manage. I use Terraform, Kubernetes, Docker, Python, AWS, and GCP.
 
-- 🔭 Currently working on **AI-powered infrastructure solutions**
-- 🌱 Learning **Go**, **Pulumi**, and **Advanced Kubernetes patterns**
-- 💬 Ask me about **Cloud Architecture**, **DevOps**, and **Infrastructure as Code**
-- ⚡ Fun fact: I believe in **automating everything** that can be automated!
+- Currently working on AI-powered infrastructure solutions
+- Learning Go, Pulumi, and Kubernetes patterns
+- Ask me about Cloud Architecture, DevOps, and Infrastructure as Code
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🚨 [**InfraAlert**](https://github.com/mohammedfirdouss/InfraAlert) | Intelligent multi-agent AI system for infrastructure issue reporting and response coordination in Nigeria | AI, Multi-Agent |
-| 💬 [**Cruddur**](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023) | Microblogging platform built on AWS | AWS, Microservices |
-| 🏘️ [**Terra Towns**](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023) | Community site built with Terraform | Terraform, IaC |
-| 🎤 [**My Talks**](https://github.com/mohammedfirdouss/my-talks) | Collection of talks and presentations | Speaking |
+| [InfraAlert](https://github.com/mohammedfirdouss/InfraAlert) | Multi-agent AI system for infrastructure issue reporting in Nigeria | AI, Multi-Agent |
+| [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023) | Microblogging platform built on AWS | AWS, Microservices |
+| [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023) | Community site built with Terraform | Terraform, IaC |
+| [My Talks](https://github.com/mohammedfirdouss/my-talks) | Collection of talks and presentations | Speaking |
 
 ---
 
-## 📬 Let's Connect
+## Connect
 
 <div align="center">
 
@@ -44,7 +43,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [MCPs and APIs](https://medium.com/@mohammedfirdousaraoye/mcps-and-apis-6d4d3559da63?source=rss-19706121782c------2)
@@ -56,7 +55,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -75,7 +74,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 ---
 
-## 🏅 Certificates
+## Certificates
 
 <div align="center">
 
@@ -85,11 +84,11 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 ---
 
-## 🤝 Open to Collaborate
+## Open to Collaborate
 
 <div align="center">
 
-**Let's build something amazing together!**
+Let's build together.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedfirdousaraoye)
 
@@ -97,7 +96,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 ---
 
-## 🏃‍♂️ Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗑️ Deleted a branch `copilot/workflow-agent-and-multi-agents` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
@@ -109,7 +108,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -119,7 +118,7 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -159,8 +158,6 @@ I work on cloud infrastructure and AI, focusing on building systems that are fas
 ---
 
 <div align="center">
-
-### 💡 *"Infrastructure is code, and code is art."*
 
 ![Snake animation](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/output/github-contribution-grid-snake-dark.svg)
 
