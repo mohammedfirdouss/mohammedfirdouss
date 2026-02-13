@@ -99,11 +99,11 @@ Let's build together.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `copilot/workflow-agent-and-multi-agents` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-2. ⭐ Starred [european-summer-of-code/esoc2026](https://github.com/european-summer-of-code/esoc2026)
-3. 🔎 Reviewed [PR #11](https://github.com/mohammedfirdouss/InfraAlert/pull/11) in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-4. ⭐ Starred [deeheber/job-search-agent](https://github.com/deeheber/job-search-agent)
-5. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/ecommerce-k8s/tree/main) in [mohammedfirdouss/ecommerce-k8s](https://github.com/mohammedfirdouss/ecommerce-k8s)
+1. 🗑️ Deleted a branch `codex/review-and-test-all-functionality` in [mohammedfirdouss/strands-rag-pipeline](https://github.com/mohammedfirdouss/strands-rag-pipeline)
+2. 🗑️ Deleted a branch `copilot/fix-snake-animation-and-trophies` in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+3. 🗑️ Deleted a branch in a private repo
+4. 🗑️ Deleted a branch `copilot/workflow-agent-and-multi-agents` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
+5. ⭐ Starred [european-summer-of-code/esoc2026](https://github.com/european-summer-of-code/esoc2026)
 <!--END_SECTION:activity-->
 
 ---
