@@ -112,7 +112,7 @@ Let's build together.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=mohammedfirdouss&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedfirdouss&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -159,6 +159,6 @@ Let's build together.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/output/github-contribution-grid-snake-dark.svg)
 
 </div>
