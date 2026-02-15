@@ -99,11 +99,11 @@ Let's build together.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `codex/review-and-test-all-functionality` in [mohammedfirdouss/strands-rag-pipeline](https://github.com/mohammedfirdouss/strands-rag-pipeline)
-2. 🗑️ Deleted a branch `copilot/fix-snake-animation-and-trophies` in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-3. 🗑️ Deleted a branch in a private repo
-4. 🗑️ Deleted a branch `copilot/workflow-agent-and-multi-agents` in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert)
-5. ⭐ Starred [european-summer-of-code/esoc2026](https://github.com/european-summer-of-code/esoc2026)
+1. 🗑️ Deleted a branch `copilot/remove-excess-emojis` in [mohammedfirdouss/strands-rag-pipeline](https://github.com/mohammedfirdouss/strands-rag-pipeline)
+2. 🔎 Reviewed [PR #3](https://github.com/mohammedfirdouss/strands-rag-pipeline/pull/3) in [mohammedfirdouss/strands-rag-pipeline](https://github.com/mohammedfirdouss/strands-rag-pipeline)
+3. ⭐ Starred [github/gh-aw](https://github.com/github/gh-aw)
+4. 🗑️ Deleted a branch `codex/review-and-test-all-functionality` in [mohammedfirdouss/strands-rag-pipeline](https://github.com/mohammedfirdouss/strands-rag-pipeline)
+5. 🗑️ Deleted a branch `copilot/fix-snake-animation-and-trophies` in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
 <!--END_SECTION:activity-->
 
 ---
