@@ -99,11 +99,11 @@ Let's build together.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #2](https://github.com/mohammedfirdouss/realtime-ai-agent-aws/pull/2) in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
-2. 📥 Opened [PR #2](https://github.com/mohammedfirdouss/realtime-ai-agent-aws/pull/2) in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
-3. 🔀 Merged [PR #1](https://github.com/mohammedfirdouss/realtime-ai-agent-aws/pull/1) in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
-4. 📥 Opened [PR #1](https://github.com/mohammedfirdouss/realtime-ai-agent-aws/pull/1) in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
-5. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/realtime-ai-agent-aws/tree/main) in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
+1. 🗑️ Deleted a branch `cursor/dynamodb-data-layer-7f32` in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
+2. 🗑️ Deleted a branch `cursor/project-infrastructure-foundation-adba` in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
+3. 🗑️ Deleted a branch `copilot/setup-caching-layer-implementation` in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
+4. 🗑️ Deleted a branch `copilot/implement-eventbridge-event-system` in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
+5. 🗑️ Deleted a branch `copilot/implement-authentication-authorization` in [mohammedfirdouss/realtime-ai-agent-aws](https://github.com/mohammedfirdouss/realtime-ai-agent-aws)
 <!--END_SECTION:activity-->
 
 ---
