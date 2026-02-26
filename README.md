@@ -126,18 +126,6 @@ Let's build together.
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/3-stats.svg" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/4-productive-time.svg" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
