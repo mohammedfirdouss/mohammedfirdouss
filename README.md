@@ -94,11 +94,11 @@ Let's build together.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #5](https://github.com/mohammedfirdouss/charity-connect/pull/5) in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
-2. 🏷️ Added a label to [PR #5](https://github.com/mohammedfirdouss/charity-connect/pull/5) in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
-3. 📥 Opened [PR #5](https://github.com/mohammedfirdouss/charity-connect/pull/5) in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
-4. 🎉 Created a new branch [`codex/fix-high-priority-bug-for-donation-amounts`](https://github.com/mohammedfirdouss/charity-connect/tree/codex/fix-high-priority-bug-for-donation-amounts) in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
-5. 🔀 Merged [PR #4](https://github.com/mohammedfirdouss/charity-connect/pull/4) in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
+1. 🔎 Reviewed [PR #6](https://github.com/mohammedfirdouss/charity-connect/pull/6) in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
+2. 🔎 Reviewed [PR #11](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/11) in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+3. ⭐ Starred [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+4. ⭐ Starred [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins)
+5. 🗑️ Deleted a branch `codex/create-charityconnect-prd` in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
 <!--END_SECTION:activity-->
 
 ---
