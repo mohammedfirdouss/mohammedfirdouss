@@ -12,11 +12,7 @@
 
 ## About Me
 
-I work on cloud infrastructure and AI, building systems that are fast, reliable, and easy to manage. I use Terraform, Kubernetes, Docker, Python, AWS, and GCP
-
-- Currently working on AI-powered infrastructure solutions
-- Learning Go and Kubernetes
-- Ask me about Cloud Architecture, DevOps, and Infrastructure as Code
+I work on cloud infrastructure and AI, building systems that are fast, reliable, and easy to manage.
 
 ---
 
