@@ -67,18 +67,6 @@ I work on cloud infrastructure and AI, building systems that are fast, reliable,
 
 ---
 
-## Open to Collaborate
-
-<div align="center">
-
-Let's build together.
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedfirdousaraoye)
-
-</div>
-
----
-
 ## Recent Activity
 
 <!--START_SECTION:activity-->
