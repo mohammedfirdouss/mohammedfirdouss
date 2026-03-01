@@ -70,11 +70,11 @@ I work on cloud infrastructure and AI, building systems that are fast, reliable,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed [PR #6](https://github.com/mohammedfirdouss/charity-connect/pull/6) in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
-2. 🔎 Reviewed [PR #11](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/11) in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-3. ⭐ Starred [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-4. ⭐ Starred [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins)
-5. 🗑️ Deleted a branch `codex/create-charityconnect-prd` in [mohammedfirdouss/charity-connect](https://github.com/mohammedfirdouss/charity-connect)
+1. 🗑️ Deleted a branch `claude/update-projects-page-portfolio` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+2. 🗑️ Deleted a branch `v0/mohammedfirdous-56629309` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+3. 🗑️ Deleted a branch `cursor/user-interface-polish-ba93` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+4. 🌍 Made repository [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio) public
+5. 🎉 Created a new branch [`v0/mohammedfirdous-0bb662c8`](https://github.com/mohammedfirdouss/ai_grocery_app/tree/v0/mohammedfirdous-0bb662c8) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
 <!--END_SECTION:activity-->
 
 ---
