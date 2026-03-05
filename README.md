@@ -71,11 +71,11 @@ I work on cloud infrastructure and AI, building systems that are fast, reliable,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `claude/update-projects-page-portfolio` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
-2. 🗑️ Deleted a branch `v0/mohammedfirdous-56629309` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
-3. 🗑️ Deleted a branch `cursor/user-interface-polish-ba93` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
-4. 🌍 Made repository [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio) public
-5. 🎉 Created a new branch [`v0/mohammedfirdous-0bb662c8`](https://github.com/mohammedfirdouss/ai_grocery_app/tree/v0/mohammedfirdous-0bb662c8) in [mohammedfirdouss/ai_grocery_app](https://github.com/mohammedfirdouss/ai_grocery_app)
+1. 🎉 Created a new branch in a private repo
+2. 🗑️ Deleted a branch `claude/update-projects-page-portfolio` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+3. 🗑️ Deleted a branch `v0/mohammedfirdous-56629309` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+4. 🗑️ Deleted a branch `cursor/user-interface-polish-ba93` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+5. 🌍 Made repository [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio) public
 <!--END_SECTION:activity-->
 
 ---
