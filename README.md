@@ -1,22 +1,3 @@
-<div align="center">
-  
-# Hi, I'm Mohammed Firdous
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+Engineer;AI;Open+Source+Contributor)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohammedfirdouss&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
-
----
-
-## About Me
-
-I work on cloud infrastructure and AI, building systems that are fast, reliable, and easy to manage.
-
----
-
 ## Featured Projects
 
 | Project | Description | Tech |
@@ -53,16 +34,6 @@ I work on cloud infrastructure and AI, building systems that are fast, reliable,
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
----
-
-## Certificates
-
-<div align="center">
-
-[![KCNA](https://img.shields.io/badge/KCNA-Kubernetes%20and%20Cloud%20Native%20Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/3bf4d5f8-2010-4de3-9d89-503c7dad658e/public_url)
 
 </div>
 
