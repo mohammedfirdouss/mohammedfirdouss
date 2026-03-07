@@ -31,10 +31,10 @@
 
 <!--START_SECTION:activity-->
 1. 🎉 Created a new branch in a private repo
-2. 🗑️ Deleted a branch `claude/update-projects-page-portfolio` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
-3. 🗑️ Deleted a branch `v0/mohammedfirdous-56629309` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
-4. 🗑️ Deleted a branch `cursor/user-interface-polish-ba93` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
-5. 🌍 Made repository [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio) public
+2. 🎉 Created a new branch in a private repo
+3. 🗑️ Deleted a branch `claude/update-projects-page-portfolio` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+4. 🗑️ Deleted a branch `v0/mohammedfirdous-56629309` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+5. 🗑️ Deleted a branch `cursor/user-interface-polish-ba93` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
 <!--END_SECTION:activity-->
 
 ---
