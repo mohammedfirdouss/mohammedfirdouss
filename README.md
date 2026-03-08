@@ -30,7 +30,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repo
+1. 🎉 Created a new branch [`main`](https://github.com/mohammedfirdouss/pipecd-tutorial/tree/main) in [mohammedfirdouss/pipecd-tutorial](https://github.com/mohammedfirdouss/pipecd-tutorial)
 2. 🎉 Created a new branch in a private repo
 3. 🗑️ Deleted a branch `claude/update-projects-page-portfolio` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
 4. 🗑️ Deleted a branch `v0/mohammedfirdous-56629309` in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
