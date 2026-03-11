@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🌍 Made repository [mohammedfirdouss/fatima-fellowship-technical-task](https://github.com/mohammedfirdouss/fatima-fellowship-technical-task) public
-2. ⭐ Starred [loft-sh/vind](https://github.com/loft-sh/vind)
-3. 🗣 Commented on issue [#6580](https://github.com/pipe-cd/pipecd/issues/6580) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd): [View Comment](https://github.com/pipe-cd/pipecd/issues/6580#issuecomment-4030305735)
-4. 🏷️ Added a label to an issue [#6580](https://github.com/pipe-cd/pipecd/issues/6580) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-5. 🆕 Opened an issue [#6580](https://github.com/pipe-cd/pipecd/issues/6580) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+1. 🎉 Created a new branch main in [mohammedfirdouss/event-booking-platform](https://github.com/mohammedfirdouss/event-booking-platform/tree/main)
+2. 🎉 Created a new branch main in [mohammedfirdouss/aws-ecs-fullstack](https://github.com/mohammedfirdouss/aws-ecs-fullstack/tree/main)
+3. ⭐ Starred [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
+4. 🗣 Commented on PR #6461 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6461#issuecomment-4037322069)
+5. 🔀 Merged PR #6461 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6461)
 <!--END_SECTION:activity-->
 
 ---
