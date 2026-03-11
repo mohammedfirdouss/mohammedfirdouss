@@ -67,7 +67,3 @@
 ---
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/output/github-contribution-grid-snake-dark.svg)
-
-</div>
