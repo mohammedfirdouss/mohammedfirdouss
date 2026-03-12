@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [mohammedfirdouss/event-booking-platform](https://github.com/mohammedfirdouss/event-booking-platform/tree/main)
-2. 🎉 Created a new branch main in [mohammedfirdouss/aws-ecs-fullstack](https://github.com/mohammedfirdouss/aws-ecs-fullstack/tree/main)
-3. ⭐ Starred [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
-4. 🗣 Commented on PR #6461 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6461#issuecomment-4037322069)
-5. 🔀 Merged PR #6461 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6461)
+1. 🗣 Commented on issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446#issuecomment-4042905347)
+2. 👤 Assigned issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
+3. 🗣 Commented on issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446#issuecomment-4042893863)
+4. 🎉 Created a new branch main in [mohammedfirdouss/event-booking-platform](https://github.com/mohammedfirdouss/event-booking-platform/tree/main)
+5. 🎉 Created a new branch main in [mohammedfirdouss/aws-ecs-fullstack](https://github.com/mohammedfirdouss/aws-ecs-fullstack/tree/main)
 <!--END_SECTION:activity-->
 
 ---
