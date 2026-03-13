@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446#issuecomment-4042905347)
-2. 👤 Assigned issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
-3. 🗣 Commented on issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446#issuecomment-4042893863)
-4. 🎉 Created a new branch main in [mohammedfirdouss/event-booking-platform](https://github.com/mohammedfirdouss/event-booking-platform/tree/main)
-5. 🎉 Created a new branch main in [mohammedfirdouss/aws-ecs-fullstack](https://github.com/mohammedfirdouss/aws-ecs-fullstack/tree/main)
+1. 🎉 Created a new branch feat/k8s-multi-canary-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-canary-clean)
+2. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+3. 🗣 Commented on PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6583#issuecomment-4047418226)
+4. 🏷️ Added a label to PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6583)
+5. 🏷️ Added a label to PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6583)
 <!--END_SECTION:activity-->
 
 ---
