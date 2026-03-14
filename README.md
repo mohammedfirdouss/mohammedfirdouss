@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch feat/k8s-multi-canary-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-canary-clean)
-2. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
-3. 🗣 Commented on PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6583#issuecomment-4047418226)
-4. 🏷️ Added a label to PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6583)
-5. 🏷️ Added a label to PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6583)
+1. 🗣 Commented on PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6589#issuecomment-4060129307)
+2. 🗣 Commented on PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6583#issuecomment-4060128380)
+3. 🔀 Merged PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6583)
+4. 📥 Opened PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6589)
+5. 🗣 Commented on PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6583#issuecomment-4060015874)
 <!--END_SECTION:activity-->
 
 ---
