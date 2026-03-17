@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6591)
-2. 🎉 Created a new branch feat/k8s-multi-primary-rollout in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-primary-rollout)
-3. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-4. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
-5. ⭐ Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+1. 🏷️ Added a label to PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6589)
+2. 🏷️ Added a label to PR #6599 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6599)
+3. 🏷️ Added a label to PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6591)
+4. 📥 Opened PR #6599 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6599)
+5. 🎉 Created a new branch feat/k8s-multi-primary-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-primary-clean)
 <!--END_SECTION:activity-->
 
 ---
