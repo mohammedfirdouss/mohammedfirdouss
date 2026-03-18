@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Added a label to PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6589)
-2. 🏷️ Added a label to PR #6599 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6599)
-3. 🏷️ Added a label to PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6591)
-4. 📥 Opened PR #6599 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6599)
-5. 🎉 Created a new branch feat/k8s-multi-primary-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-primary-clean)
+1. 🗣 Commented on PR #6435 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6435#issuecomment-4079102772)
+2. 🆕 Opened issue #6600 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6600)
+3. 🔎 Dismissed review for PR #6435 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6435#pullrequestreview-3783256849)
+4. 🏷️ Added a label to PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6589)
+5. 🏷️ Added a label to PR #6599 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6599)
 <!--END_SECTION:activity-->
 
 ---
