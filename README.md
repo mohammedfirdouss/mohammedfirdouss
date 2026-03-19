@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6435 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6435#issuecomment-4079102772)
-2. 🆕 Opened issue #6600 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6600)
-3. 🔎 Dismissed review for PR #6435 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6435#pullrequestreview-3783256849)
-4. 🏷️ Added a label to PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6589)
-5. 🏷️ Added a label to PR #6599 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6599)
+1. 🎉 Created a new branch master in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/tree/master)
+2. 🎉 Created a new branch test-stages in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/test-stages)
+3. 🗑️ Deleted a branch feat/k8s-multi-primary-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+4. ❌ Closed PR #6599 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6599)
+5. 🗣 Commented on PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6591#issuecomment-4086349767)
 <!--END_SECTION:activity-->
 
 ---
