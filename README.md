@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch master in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/tree/master)
-2. 🎉 Created a new branch test-stages in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/test-stages)
-3. 🗑️ Deleted a branch feat/k8s-multi-primary-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
-4. ❌ Closed PR #6599 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6599)
-5. 🗣 Commented on PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6591#issuecomment-4086349767)
+1. 🗣 Commented on PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6589#issuecomment-4097200919)
+2. 🗣 Commented on PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6583#issuecomment-4097145936)
+3. 🗣 Commented on PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6591#issuecomment-4096968656)
+4. 🔀 Merged PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6589)
+5. 🎉 Created a new branch master in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/tree/master)
 <!--END_SECTION:activity-->
 
 ---
