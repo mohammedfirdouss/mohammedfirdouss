@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6589#issuecomment-4097200919)
-2. 🗣 Commented on PR #6583 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6583#issuecomment-4097145936)
-3. 🗣 Commented on PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6591#issuecomment-4096968656)
-4. 🔀 Merged PR #6589 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6589)
-5. 🎉 Created a new branch master in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/tree/master)
+1. 🏷️ Added a label to PR #6606 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6606)
+2. 🏷️ Added a label to PR #6606 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6606)
+3. 📥 Opened PR #6606 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6606)
+4. 🎉 Created a new branch feat/k8s-multi-baseline-rollout in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-baseline-rollout)
+5. ⭐ Starred [CoderMehad/qivam-platform](https://github.com/CoderMehad/qivam-platform)
 <!--END_SECTION:activity-->
 
 ---
