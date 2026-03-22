@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Added a label to PR #6606 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6606)
-2. 🏷️ Added a label to PR #6606 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6606)
-3. 📥 Opened PR #6606 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6606)
-4. 🎉 Created a new branch feat/k8s-multi-baseline-rollout in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-baseline-rollout)
-5. ⭐ Starred [CoderMehad/qivam-platform](https://github.com/CoderMehad/qivam-platform)
+1. 🏷️ Added a label to PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6591)
+2. 🏷️ Removed a label from PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6591)
+3. 🏷️ Added a label to PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
+4. 🏷️ Added a label to PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
+5. 📥 Opened PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
 <!--END_SECTION:activity-->
 
 ---
