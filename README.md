@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Added a label to PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6591)
-2. 🏷️ Removed a label from PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6591)
-3. 🏷️ Added a label to PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
-4. 🏷️ Added a label to PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
-5. 📥 Opened PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
+1. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)
+2. 🔀 Merged PR #6609 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6609)
+3. 📥 Opened PR #6609 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6609)
+4. 🎉 Created a new branch fix/gofmt-canary-test in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix/gofmt-canary-test)
+5. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
 <!--END_SECTION:activity-->
 
 ---
