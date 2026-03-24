@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)
-2. 🔀 Merged PR #6609 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6609)
-3. 📥 Opened PR #6609 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6609)
-4. 🎉 Created a new branch fix/gofmt-canary-test in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix/gofmt-canary-test)
-5. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+1. ⭐ Starred [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server)
+2. ⭐ Starred [MaryleenAmaizu/ML-AI-Scholarships](https://github.com/MaryleenAmaizu/ML-AI-Scholarships)
+3. 🗣 Commented on PR #6591 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6591#issuecomment-4115855998)
+4. ⭐ Starred [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok)
+5. ⭐ Starred [kagenti/kagenti](https://github.com/kagenti/kagenti)
 <!--END_SECTION:activity-->
 
 ---
