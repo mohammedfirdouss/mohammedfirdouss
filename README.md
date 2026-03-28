@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repository
-2. ⭐ Starred [kubernetes/kops](https://github.com/kubernetes/kops)
-3. ⭐ Starred [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
-4. ⭐ Starred [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server)
-5. ⭐ Starred [MaryleenAmaizu/ML-AI-Scholarships](https://github.com/MaryleenAmaizu/ML-AI-Scholarships)
+1. 🔀 Merged PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
+2. 🔎 Created PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreview-4024620847)
+3. 🗣 Commented on a review of PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreviewcomment-3004028782)
+4. 🔎 Created PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreview-4024619939)
+5. 🗣 Commented on a review of PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreviewcomment-3004027728)
 <!--END_SECTION:activity-->
 
 ---
