@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
-2. 🔎 Created PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreview-4024620847)
-3. 🗣 Commented on a review of PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreviewcomment-3004028782)
-4. 🔎 Created PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreview-4024619939)
-5. 🗣 Commented on a review of PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreviewcomment-3004027728)
+1. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4149910849)
+2. 📥 Opened PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6629)
+3. 🎉 Created a new branch feat/k8s-multi-traffic-routing in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-traffic-routing)
+4. 🔀 Merged PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
+5. 🔎 Created PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreview-4024620847)
 <!--END_SECTION:activity-->
 
 ---
