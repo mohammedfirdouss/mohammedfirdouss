@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4149910849)
-2. 📥 Opened PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6629)
-3. 🎉 Created a new branch feat/k8s-multi-traffic-routing in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-traffic-routing)
-4. 🔀 Merged PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607)
-5. 🔎 Created PR #6607 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6607#pullrequestreview-4024620847)
+1. 🗣 Commented on issue #6580 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6580#issuecomment-4158603073)
+2. ⭐ Starred [nirmal84/kiro-for-cloud-engineering](https://github.com/nirmal84/kiro-for-cloud-engineering)
+3. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4149910849)
+4. 📥 Opened PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6629)
+5. 🎉 Created a new branch feat/k8s-multi-traffic-routing in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-traffic-routing)
 <!--END_SECTION:activity-->
 
 ---
