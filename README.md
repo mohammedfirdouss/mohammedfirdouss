@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue #6580 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6580#issuecomment-4158603073)
-2. ⭐ Starred [nirmal84/kiro-for-cloud-engineering](https://github.com/nirmal84/kiro-for-cloud-engineering)
-3. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4149910849)
-4. 📥 Opened PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6629)
-5. 🎉 Created a new branch feat/k8s-multi-traffic-routing in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/k8s-multi-traffic-routing)
+1. 📥 Opened PR #20 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/pull/20)
+2. ❌ Closed PR #1 in [Abhishek9639/sktime-mcp](https://github.com/Abhishek9639/sktime-mcp/pull/1)
+3. 📥 Opened PR #1 in [Abhishek9639/sktime-mcp](https://github.com/Abhishek9639/sktime-mcp/pull/1)
+4. 🎉 Created a new branch feature/ci-pipeline in [mohammedfirdouss/sktime-mcp](https://github.com/mohammedfirdouss/sktime-mcp/tree/feature/ci-pipeline)
+5. 🆕 Opened issue #19 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/issues/19)
 <!--END_SECTION:activity-->
 
 ---
