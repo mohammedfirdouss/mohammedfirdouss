@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #20 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/pull/20)
-2. ❌ Closed PR #1 in [Abhishek9639/sktime-mcp](https://github.com/Abhishek9639/sktime-mcp/pull/1)
-3. 📥 Opened PR #1 in [Abhishek9639/sktime-mcp](https://github.com/Abhishek9639/sktime-mcp/pull/1)
-4. 🎉 Created a new branch feature/ci-pipeline in [mohammedfirdouss/sktime-mcp](https://github.com/mohammedfirdouss/sktime-mcp/tree/feature/ci-pipeline)
-5. 🆕 Opened issue #19 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/issues/19)
+1. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4182835814)
+2. Added a private repository
+3. 📥 Opened PR #20 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/pull/20)
+4. ❌ Closed PR #1 in [Abhishek9639/sktime-mcp](https://github.com/Abhishek9639/sktime-mcp/pull/1)
+5. 📥 Opened PR #1 in [Abhishek9639/sktime-mcp](https://github.com/Abhishek9639/sktime-mcp/pull/1)
 <!--END_SECTION:activity-->
 
 ---
