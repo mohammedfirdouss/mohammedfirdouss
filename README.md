@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4182835814)
-2. Added a private repository
-3. 📥 Opened PR #20 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/pull/20)
-4. ❌ Closed PR #1 in [Abhishek9639/sktime-mcp](https://github.com/Abhishek9639/sktime-mcp/pull/1)
-5. 📥 Opened PR #1 in [Abhishek9639/sktime-mcp](https://github.com/Abhishek9639/sktime-mcp/pull/1)
+1. 🗣 Commented on issue #19 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/issues/19#issuecomment-4186773965)
+2. 🔀 Merged PR #20 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/pull/20)
+3. ⭐ Starred [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc)
+4. ⭐ Starred [crossplane/crossplane](https://github.com/crossplane/crossplane)
+5. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4182835814)
 <!--END_SECTION:activity-->
 
 ---
