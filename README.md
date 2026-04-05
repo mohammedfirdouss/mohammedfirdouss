@@ -2,7 +2,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [InfraAlert](https://github.com/mohammedfirdouss/InfraAlert) | Multi-agent AI system for infrastructure issue reporting in Nigeria | AI, Multi-Agent |
+| [InfraAlert](https://github.com/mohammedfirdouss/InfraAlert) | Multi-agent AI system for infrastructure issue reporting | AI, Multi-Agent |
 | [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023) | Microblogging platform built on AWS | AWS, Microservices |
 | [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023) | Community site built with Terraform | Terraform, IaC |
 | [My Talks](https://github.com/mohammedfirdouss/my-talks) | Collection of talks and presentations | Speaking |
