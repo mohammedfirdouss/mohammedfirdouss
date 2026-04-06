@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue #6600 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6600#issuecomment-4188677637)
-2. 🔀 Merged PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6629)
-3. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4188551875)
-4. 🗣 Commented on PR #6629 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6629#issuecomment-4188550816)
-5. 🗣 Commented on issue #19 in [sktime/sktime-mcp](https://github.com/sktime/sktime-mcp/issues/19#issuecomment-4186773965)
+1. 🔀 Merged PR #6648 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6648)
+2. 🗣 Commented on PR #6648 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6648#issuecomment-4189652973)
+3. 🗣 Commented on PR #6648 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6648#issuecomment-4189631755)
+4. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
+5. 🗣 Commented on PR #6648 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6648#issuecomment-4189001256)
 <!--END_SECTION:activity-->
 
 ---
