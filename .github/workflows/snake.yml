@@ -22,7 +22,7 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Push snake SVGs
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           add: output/
           message: "Update snake animation"
