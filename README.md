@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #6648 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6648)
-2. 🗣 Commented on PR #6648 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6648#issuecomment-4189652973)
-3. 🗣 Commented on PR #6648 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6648#issuecomment-4189631755)
-4. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
-5. 🗣 Commented on PR #6648 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6648#issuecomment-4189001256)
+1. 📥 Opened PR #6661 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6661)
+2. 🎉 Created a new branch feat/add-multicluster-blog-post in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/add-multicluster-blog-post)
+3. 🗣 Commented on PR #6660 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6660#issuecomment-4222205608)
+4. 📥 Opened PR #6660 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6660)
+5. 🎉 Created a new branch feat/fix-multi-rollback-variant-cleanup in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-multi-rollback-variant-cleanup)
 <!--END_SECTION:activity-->
 
 ---
