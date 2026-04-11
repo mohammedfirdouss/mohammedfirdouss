@@ -30,11 +30,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #6661 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6661)
-2. 🎉 Created a new branch feat/add-multicluster-blog-post in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/add-multicluster-blog-post)
-3. 🗣 Commented on PR #6660 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6660#issuecomment-4222205608)
-4. 📥 Opened PR #6660 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6660)
-5. 🎉 Created a new branch feat/fix-multi-rollback-variant-cleanup in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-multi-rollback-variant-cleanup)
+1. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
+2. 🔀 Merged PR #6661 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6661)
+3. ⭐ Starred [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+4. 📥 Opened PR #6661 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6661)
+5. 🎉 Created a new branch feat/add-multicluster-blog-post in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/add-multicluster-blog-post)
 <!--END_SECTION:activity-->
 
 ---
