@@ -2,29 +2,31 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 12 * * *' # daily at 12:00 UTC
+    - cron: '0 12 * * *' # daily: blog posts, then activity (one workflow)
   workflow_dispatch:
 
-
-permissions:
-  contents: read
+concurrency:
+  group: readme-automation
+  cancel-in-progress: true
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     timeout-minutes: 10
-    concurrency:
-      group: update-readme
-      cancel-in-progress: true
-
     steps:
       - uses: actions/checkout@v6
-      - name: Update GitHub Activity
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@1.9.4
+        with:
+          feed_list: "https://medium.com/feed/@mohammedfirdousaraoye"
+          readme_path: README.md
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update GitHub activity
         uses: TheDanniCraft/activity-log@v1
         with:
-          GITHUB_USERNAME: "mohammedfirdouss"
+          GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.ACTIVITY_PAT }}
           EVENT_LIMIT: "5"
           OUTPUT_STYLE: "MARKDOWN"

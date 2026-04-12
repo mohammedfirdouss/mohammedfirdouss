@@ -5,8 +5,9 @@ on:
     - cron: '0 0 * * 0' # weekly on Sunday at 00:00 UTC
   workflow_dispatch:
 
-permissions:
-  contents: read
+concurrency:
+  group: metrics
+  cancel-in-progress: true
 
 jobs:
   github-metrics:
@@ -18,10 +19,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Generate metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: mohammedfirdouss
+          user: ${{ github.repository_owner }}
           template: classic
           filename: metrics.svg
           base: header, activity, community, repositories, metadata

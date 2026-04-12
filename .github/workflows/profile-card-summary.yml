@@ -5,9 +5,6 @@ on:
     - cron: "0 1 * * *" # daily at 01:00 UTC
   workflow_dispatch:
 
-permissions:
-  contents: read
-
 concurrency:
   group: profile-summary-cards
   cancel-in-progress: true
@@ -22,7 +19,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
