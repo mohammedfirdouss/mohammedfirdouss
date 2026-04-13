@@ -42,11 +42,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
-2. 🔀 Merged PR #6661 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6661)
-3. ⭐ Starred [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-4. 📥 Opened PR #6661 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6661)
-5. 🎉 Created a new branch feat/add-multicluster-blog-post in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/add-multicluster-blog-post)
+1. 🗑️ Deleted a branch copilot/improve-readme-file in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+2. 🗑️ Deleted a branch copilot/fix-11d409df-e88e-4313-ab14-0dffcc6e2846 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+3. 🗑️ Deleted a branch copilot/update-lychee-installation in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+4. ⭐ Starred [kserve/kserve](https://github.com/kserve/kserve)
+5. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ---
