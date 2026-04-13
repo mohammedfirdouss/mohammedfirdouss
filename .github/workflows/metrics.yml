@@ -19,7 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Generate metrics
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
