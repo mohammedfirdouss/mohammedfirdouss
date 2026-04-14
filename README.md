@@ -42,11 +42,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch copilot/improve-readme-file in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-2. 🗑️ Deleted a branch copilot/fix-11d409df-e88e-4313-ab14-0dffcc6e2846 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-3. 🗑️ Deleted a branch copilot/update-lychee-installation in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-4. ⭐ Starred [kserve/kserve](https://github.com/kserve/kserve)
-5. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
+2. 🔀 Merged PR #6660 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6660)
+3. 🔔 Watching [loft-sh/vind](https://github.com/loft-sh/vind)
+4. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+5. ⭐ Starred [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
 <!--END_SECTION:activity-->
 
 ---
