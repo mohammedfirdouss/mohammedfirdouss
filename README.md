@@ -42,11 +42,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
-2. 🔀 Merged PR #6660 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6660)
-3. 🔔 Watching [loft-sh/vind](https://github.com/loft-sh/vind)
-4. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)
-5. ⭐ Starred [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
+1. 📥 Opened PR #6673 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6673)
+2. 🎉 Created a new branch feat/fix-livestate-drift-detection in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-livestate-drift-detection)
+3. 🏷️ Added a label to PR #6672 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6672)
+4. 📥 Opened PR #6672 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6672)
+5. 🎉 Created a new branch feat/fix-determine-strategy-multi-target in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-determine-strategy-multi-target)
 <!--END_SECTION:activity-->
 
 ---
