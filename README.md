@@ -42,11 +42,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #6673 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6673)
-2. 🎉 Created a new branch feat/fix-livestate-drift-detection in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-livestate-drift-detection)
-3. 🏷️ Added a label to PR #6672 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6672)
-4. 📥 Opened PR #6672 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6672)
-5. 🎉 Created a new branch feat/fix-determine-strategy-multi-target in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-determine-strategy-multi-target)
+1. 🗣 Commented on PR #6562 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6562#issuecomment-4259602374)
+2. 🎉 Created a new branch main in [mohammedfirdouss/k8s-health-ai](https://github.com/mohammedfirdouss/k8s-health-ai/tree/main)
+3. 🗣 Commented on PR #6672 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6672#issuecomment-4258592400)
+4. 🗣 Commented on PR #6673 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6673#issuecomment-4258591693)
+5. ⭐ Starred [cdklabs/cdk-contribution-skill](https://github.com/cdklabs/cdk-contribution-skill)
 <!--END_SECTION:activity-->
 
 ---
