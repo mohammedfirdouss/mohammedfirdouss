@@ -42,11 +42,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6562 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6562#issuecomment-4259602374)
-2. 🎉 Created a new branch main in [mohammedfirdouss/k8s-health-ai](https://github.com/mohammedfirdouss/k8s-health-ai/tree/main)
-3. 🗣 Commented on PR #6672 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6672#issuecomment-4258592400)
-4. 🗣 Commented on PR #6673 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6673#issuecomment-4258591693)
-5. ⭐ Starred [cdklabs/cdk-contribution-skill](https://github.com/cdklabs/cdk-contribution-skill)
+1. 📥 Opened PR #6685 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6685)
+2. 🎉 Created a new branch feat/plan-preview in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/plan-preview)
+3. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
+4. 🔀 Merged PR #6672 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6672)
+5. 🗣 Commented on PR #6562 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6562#issuecomment-4259602374)
 <!--END_SECTION:activity-->
 
 ---
