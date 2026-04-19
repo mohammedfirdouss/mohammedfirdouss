@@ -43,11 +43,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #6685 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6685)
-2. 🎉 Created a new branch feat/plan-preview in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/plan-preview)
-3. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
-4. 🔀 Merged PR #6672 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6672)
-5. 🗣 Commented on PR #6562 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6562#issuecomment-4259602374)
+1. 🌍 Made repository public [mohammedfirdouss/Bayan](https://github.com/mohammedfirdouss/Bayan)
+2. 🗑️ Deleted a branch copilot/fix-lowlighter-metrics-error in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+3. 📥 Opened PR #6685 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6685)
+4. 🎉 Created a new branch feat/plan-preview in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/plan-preview)
+5. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
 <!--END_SECTION:activity-->
 
 ---
