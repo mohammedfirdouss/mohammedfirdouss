@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Update blog posts
-        uses: gautamkrishnar/blog-post-workflow@1.9.4
+        uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
           feed_list: "https://medium.com/feed/@mohammedfirdousaraoye"
           readme_path: README.md
