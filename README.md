@@ -43,11 +43,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🌍 Made repository public [mohammedfirdouss/Bayan](https://github.com/mohammedfirdouss/Bayan)
-2. 🗑️ Deleted a branch copilot/fix-lowlighter-metrics-error in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-3. 📥 Opened PR #6685 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6685)
-4. 🎉 Created a new branch feat/plan-preview in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/plan-preview)
-5. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
+1. 🔀 Merged PR #4 in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/pull/4)
+2. 🗣 Commented on PR #6685 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6685#issuecomment-4279755416)
+3. 🗑️ Deleted a branch plan-preview-test in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app)
+4. 📥 Opened PR #4 in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/pull/4)
+5. 🎉 Created a new branch plan-preview-clean-test in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/tree/plan-preview-clean-test)
 <!--END_SECTION:activity-->
 
 ---
