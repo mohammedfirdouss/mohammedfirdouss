@@ -43,11 +43,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #4 in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/pull/4)
-2. 🗣 Commented on PR #6685 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6685#issuecomment-4279755416)
-3. 🗑️ Deleted a branch plan-preview-test in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app)
-4. 📥 Opened PR #4 in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/pull/4)
-5. 🎉 Created a new branch plan-preview-clean-test in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app/tree/plan-preview-clean-test)
+1. 🔎 Created PR #11 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/11#pullrequestreview-4146725219)
+2. 🔎 Created PR #11 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/11#pullrequestreview-4146722901)
+3. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
+4. 🔀 Merged PR #6673 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6673)
+5. 🔀 Merged PR #6697 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6697)
 <!--END_SECTION:activity-->
 
 ---
