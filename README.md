@@ -43,11 +43,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR #11 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/11#pullrequestreview-4146725219)
-2. 🔎 Created PR #11 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/11#pullrequestreview-4146722901)
-3. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
-4. 🔀 Merged PR #6673 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6673)
-5. 🔀 Merged PR #6697 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6697)
+1. 🎉 Created a new branch main in [mohammedfirdouss/systems-design](https://github.com/mohammedfirdouss/systems-design/tree/main)
+2. 🔎 Created PR #11 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/11#pullrequestreview-4146725219)
+3. 🔎 Created PR #11 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/11#pullrequestreview-4146722901)
+4. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
+5. 🔀 Merged PR #6673 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6673)
 <!--END_SECTION:activity-->
 
 ---
