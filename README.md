@@ -43,11 +43,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [mohammedfirdouss/systems-design](https://github.com/mohammedfirdouss/systems-design/tree/main)
-2. 🔎 Created PR #11 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/11#pullrequestreview-4146725219)
-3. 🔎 Created PR #11 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/11#pullrequestreview-4146722901)
-4. 🔄 Reopened issue #6446 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6446)
-5. 🔀 Merged PR #6673 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6673)
+1. 🎉 Created a new branch main in [mohammedfirdouss/sktime-agentic-forecaster](https://github.com/mohammedfirdouss/sktime-agentic-forecaster/tree/main)
+2. 🎉 Created a new branch main in [mohammedfirdouss/brimble-deploy](https://github.com/mohammedfirdouss/brimble-deploy/tree/main)
+3. ⭐ Starred [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss)
+4. ⭐ Starred [google/agents-cli](https://github.com/google/agents-cli)
+5. 📥 Opened PR #6708 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6708)
 <!--END_SECTION:activity-->
 
 ---
