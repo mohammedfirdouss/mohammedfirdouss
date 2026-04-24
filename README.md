@@ -43,11 +43,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [mohammedfirdouss/sktime-agentic-forecaster](https://github.com/mohammedfirdouss/sktime-agentic-forecaster/tree/main)
-2. 🎉 Created a new branch main in [mohammedfirdouss/brimble-deploy](https://github.com/mohammedfirdouss/brimble-deploy/tree/main)
-3. ⭐ Starred [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss)
-4. ⭐ Starred [google/agents-cli](https://github.com/google/agents-cli)
-5. 📥 Opened PR #6708 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6708)
+1. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+2. 🎉 Created a new branch main in [mohammedfirdouss/sktime-agentic-forecaster](https://github.com/mohammedfirdouss/sktime-agentic-forecaster/tree/main)
+3. 🎉 Created a new branch main in [mohammedfirdouss/brimble-deploy](https://github.com/mohammedfirdouss/brimble-deploy/tree/main)
+4. ⭐ Starred [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss)
+5. ⭐ Starred [google/agents-cli](https://github.com/google/agents-cli)
 <!--END_SECTION:activity-->
 
 ---
