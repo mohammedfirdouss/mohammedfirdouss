@@ -43,11 +43,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-2. 🎉 Created a new branch main in [mohammedfirdouss/sktime-agentic-forecaster](https://github.com/mohammedfirdouss/sktime-agentic-forecaster/tree/main)
-3. 🎉 Created a new branch main in [mohammedfirdouss/brimble-deploy](https://github.com/mohammedfirdouss/brimble-deploy/tree/main)
-4. ⭐ Starred [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss)
-5. ⭐ Starred [google/agents-cli](https://github.com/google/agents-cli)
+1. 🗑️ Deleted a branch copilot/fix-action-download-error in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+2. ⭐ Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+3. ⭐ Starred [hacktivist123/agent-session-resume](https://github.com/hacktivist123/agent-session-resume)
+4. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+5. 🎉 Created a new branch main in [mohammedfirdouss/sktime-agentic-forecaster](https://github.com/mohammedfirdouss/sktime-agentic-forecaster/tree/main)
 <!--END_SECTION:activity-->
 
 ---
