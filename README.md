@@ -43,11 +43,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch copilot/fix-action-download-error in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-2. ⭐ Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
-3. ⭐ Starred [hacktivist123/agent-session-resume](https://github.com/hacktivist123/agent-session-resume)
-4. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-5. 🎉 Created a new branch main in [mohammedfirdouss/sktime-agentic-forecaster](https://github.com/mohammedfirdouss/sktime-agentic-forecaster/tree/main)
+1. 🗣 Commented on PR #6713 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6713#issuecomment-4325758248)
+2. 🗣 Commented on PR #6717 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6717#issuecomment-4325527162)
+3. 📥 Opened PR #6718 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6718)
+4. 🎉 Created a new branch feat/multi-target-kustomize-dir in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multi-target-kustomize-dir)
+5. 🗑️ Deleted a branch plan-preview-clean-test in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app)
 <!--END_SECTION:activity-->
 
 ---
