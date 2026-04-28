@@ -1,15 +1,3 @@
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [InfraAlert](https://github.com/mohammedfirdouss/InfraAlert) | Multi-agent AI system for infrastructure issue reporting | AI, Multi-Agent |
-| [Cruddur](https://github.com/mohammedfirdouss/aws-bootcamp-cruddur-2023) | Microblogging platform built on AWS | AWS, Microservices |
-| [Terra Towns](https://github.com/mohammedfirdouss/terraform-beginner-bootcamp-2023) | Community site built with Terraform | Terraform, IaC |
-| [My Talks](https://github.com/mohammedfirdouss/my-talks) | Collection of talks and presentations | Speaking |
-
----
-
-
 ## Tech Stack
 
 <div align="center">
@@ -53,10 +41,6 @@
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-[![](https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <table>
   <tr>
