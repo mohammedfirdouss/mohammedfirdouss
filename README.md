@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6713 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6713#issuecomment-4325758248)
-2. 🗣 Commented on PR #6717 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6717#issuecomment-4325527162)
-3. 📥 Opened PR #6718 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6718)
-4. 🎉 Created a new branch feat/multi-target-kustomize-dir in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multi-target-kustomize-dir)
-5. 🗑️ Deleted a branch plan-preview-clean-test in [mohammedfirdouss/pipecd-test-app](https://github.com/mohammedfirdouss/pipecd-test-app)
+1. 🎉 Created a new branch main in [mohammedfirdouss/multi-ai-system](https://github.com/mohammedfirdouss/multi-ai-system/tree/main)
+2. Added a private repository
+3. 🗣 Commented on PR #26 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/issues/26#issuecomment-4331299057)
+4. 📥 Opened PR #6723 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6723)
+5. 🎉 Created a new branch feat/multicluster-initializer-hook in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-initializer-hook)
 <!--END_SECTION:activity-->
 
 ---
