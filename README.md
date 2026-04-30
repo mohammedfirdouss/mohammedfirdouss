@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [mohammedfirdouss/multi-ai-system](https://github.com/mohammedfirdouss/multi-ai-system/tree/main)
-2. Added a private repository
-3. 🗣 Commented on PR #26 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/issues/26#issuecomment-4331299057)
-4. 📥 Opened PR #6723 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6723)
-5. 🎉 Created a new branch feat/multicluster-initializer-hook in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-initializer-hook)
+1. 🗣 Commented on PR #6727 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6727#issuecomment-4352229249)
+2. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351697387)
+3. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351669984)
+4. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351655511)
+5. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351615413)
 <!--END_SECTION:activity-->
 
 ---
