@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6727 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6727#issuecomment-4352229249)
-2. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351697387)
-3. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351669984)
-4. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351655511)
-5. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351615413)
+1. 🗣 Commented on PR #6727 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6727#issuecomment-4358413165)
+2. ⭐ Starred [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+3. 🗣 Commented on PR #6727 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6727#issuecomment-4352229249)
+4. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351697387)
+5. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351669984)
 <!--END_SECTION:activity-->
 
 ---
