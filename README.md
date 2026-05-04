@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [tiangolo/library-skills](https://github.com/tiangolo/library-skills)
-2. 🗣 Commented on PR #6727 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6727#issuecomment-4358413165)
-3. ⭐ Starred [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
-4. 🗣 Commented on PR #6727 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6727#issuecomment-4352229249)
-5. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-4351697387)
+1. 🎉 Created a new branch main in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag/tree/main)
+2. 🎉 Created a new branch main in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert/tree/main)
+3. ⭐ Starred [tiangolo/library-skills](https://github.com/tiangolo/library-skills)
+4. 🗣 Commented on PR #6727 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6727#issuecomment-4358413165)
+5. ⭐ Starred [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 <!--END_SECTION:activity-->
 
 ---
