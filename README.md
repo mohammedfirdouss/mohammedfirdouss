@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [grafana/grafanacon2026-opentelemetry-instrumentation](https://github.com/grafana/grafanacon2026-opentelemetry-instrumentation)
-2. 🎉 Created a new branch main in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag/tree/main)
-3. 🎉 Created a new branch main in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert/tree/main)
-4. ⭐ Starred [tiangolo/library-skills](https://github.com/tiangolo/library-skills)
-5. 🗣 Commented on PR #6727 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6727#issuecomment-4358413165)
+1. ⭐ Starred [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
+2. ⭐ Starred [grafana/grafanacon2026-opentelemetry-instrumentation](https://github.com/grafana/grafanacon2026-opentelemetry-instrumentation)
+3. 🎉 Created a new branch main in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag/tree/main)
+4. 🎉 Created a new branch main in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert/tree/main)
+5. ⭐ Starred [tiangolo/library-skills](https://github.com/tiangolo/library-skills)
 <!--END_SECTION:activity-->
 
 ---
