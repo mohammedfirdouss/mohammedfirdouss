@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6724 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6724#issuecomment-4396475256)
-2. ⭐ Starred [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
-3. ⭐ Starred [grafana/grafanacon2026-opentelemetry-instrumentation](https://github.com/grafana/grafanacon2026-opentelemetry-instrumentation)
-4. 🎉 Created a new branch main in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag/tree/main)
-5. 🎉 Created a new branch main in [mohammedfirdouss/InfraAlert](https://github.com/mohammedfirdouss/InfraAlert/tree/main)
+1. 📥 Opened PR #6749 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6749)
+2. 🎉 Created a new branch feat/multicluster-per-target-kustomize-overrides in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-per-target-kustomize-overrides)
+3. 📥 Opened PR #6748 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6748)
+4. 🎉 Created a new branch feat/multicluster-rollback-pruning in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-rollback-pruning)
+5. 📥 Opened PR #6747 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6747)
 <!--END_SECTION:activity-->
 
 ---
