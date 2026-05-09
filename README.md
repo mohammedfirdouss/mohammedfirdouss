@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #6749 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6749)
-2. 🎉 Created a new branch feat/multicluster-per-target-kustomize-overrides in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-per-target-kustomize-overrides)
-3. 📥 Opened PR #6748 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6748)
-4. 🎉 Created a new branch feat/multicluster-rollback-pruning in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-rollback-pruning)
-5. 📥 Opened PR #6747 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6747)
+1. 🔀 Merged PR #6718 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6718)
+2. 📥 Opened PR #6749 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6749)
+3. 🎉 Created a new branch feat/multicluster-per-target-kustomize-overrides in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-per-target-kustomize-overrides)
+4. 📥 Opened PR #6748 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6748)
+5. 🎉 Created a new branch feat/multicluster-rollback-pruning in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-rollback-pruning)
 <!--END_SECTION:activity-->
 
 ---
