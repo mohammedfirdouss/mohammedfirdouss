@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [mohammedfirdouss/open-source-contributions](https://github.com/mohammedfirdouss/open-source-contributions/tree/main)
-2. 📥 Opened PR #6757 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6757)
-3. 🎉 Created a new branch feat/multicluster-per-stage-multitarget-filtering in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-per-stage-multitarget-filtering)
-4. 🔎 Created PR #6723 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6723#pullrequestreview-4258556858)
-5. 🗣 Commented on a review of PR #6723 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6723#pullrequestreviewcomment-3213957059)
+1. ⭐ Starred [mcpchecker/mcpchecker](https://github.com/mcpchecker/mcpchecker)
+2. 🎉 Created a new branch main in [mohammedfirdouss/open-source-contributions](https://github.com/mohammedfirdouss/open-source-contributions/tree/main)
+3. 📥 Opened PR #6757 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6757)
+4. 🎉 Created a new branch feat/multicluster-per-stage-multitarget-filtering in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-per-stage-multitarget-filtering)
+5. 🔎 Created PR #6723 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6723#pullrequestreview-4258556858)
 <!--END_SECTION:activity-->
 
 ---
