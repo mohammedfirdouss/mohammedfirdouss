@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [mcpchecker/mcpchecker](https://github.com/mcpchecker/mcpchecker)
-2. 🎉 Created a new branch main in [mohammedfirdouss/open-source-contributions](https://github.com/mohammedfirdouss/open-source-contributions/tree/main)
-3. 📥 Opened PR #6757 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6757)
-4. 🎉 Created a new branch feat/multicluster-per-stage-multitarget-filtering in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-per-stage-multitarget-filtering)
-5. 🔎 Created PR #6723 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6723#pullrequestreview-4258556858)
+1. 🎉 Created a new branch main in [mohammedfirdouss/adk-gke](https://github.com/mohammedfirdouss/adk-gke/tree/main)
+2. 🔀 Merged PR #6 in [mohammedfirdouss/kubernetes-multicluster-samples](https://github.com/mohammedfirdouss/kubernetes-multicluster-samples/pull/6)
+3. ⭐ Starred [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
+4. ⭐ Starred [mcpchecker/mcpchecker](https://github.com/mcpchecker/mcpchecker)
+5. 🎉 Created a new branch main in [mohammedfirdouss/open-source-contributions](https://github.com/mohammedfirdouss/open-source-contributions/tree/main)
 <!--END_SECTION:activity-->
 
 ---
