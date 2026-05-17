@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [ministackorg/ministack](https://github.com/ministackorg/ministack)
-2. 🎉 Created a new branch main in [mohammedfirdouss/adk-gke](https://github.com/mohammedfirdouss/adk-gke/tree/main)
-3. 🔀 Merged PR #6 in [mohammedfirdouss/kubernetes-multicluster-samples](https://github.com/mohammedfirdouss/kubernetes-multicluster-samples/pull/6)
-4. ⭐ Starred [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
-5. ⭐ Starred [mcpchecker/mcpchecker](https://github.com/mcpchecker/mcpchecker)
+1. 📥 Opened PR #6784 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6784)
+2. 🗑️ Deleted a branch feat/fix-api-group-checks in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+3. 🎉 Created a new branch feat/fix-api-group-checks-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-api-group-checks-clean)
+4. 🎉 Created a new branch feat/fix-api-group-checks in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-api-group-checks)
+5. 📥 Opened PR #6783 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6783)
 <!--END_SECTION:activity-->
 
 ---
