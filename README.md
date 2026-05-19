@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
-2. 🎉 Created a new branch main in [mohammedfirdouss/qas-unilag](https://github.com/mohammedfirdouss/qas-unilag/tree/main)
-3. 📥 Opened PR #6784 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6784)
-4. 🎉 Created a new branch feat/fix-api-group-checks-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-api-group-checks-clean)
-5. 🗑️ Deleted a branch feat/fix-api-group-checks in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+1. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
+2. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+3. 🎉 Created a new branch main in [mohammedfirdouss/qas-unilag](https://github.com/mohammedfirdouss/qas-unilag/tree/main)
+4. 📥 Opened PR #6784 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6784)
+5. 🎉 Created a new branch feat/fix-api-group-checks-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-api-group-checks-clean)
 <!--END_SECTION:activity-->
 
 ---
