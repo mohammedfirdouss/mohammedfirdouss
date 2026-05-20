@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
-2. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
-3. 🎉 Created a new branch main in [mohammedfirdouss/qas-unilag](https://github.com/mohammedfirdouss/qas-unilag/tree/main)
-4. 📥 Opened PR #6784 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6784)
-5. 🎉 Created a new branch feat/fix-api-group-checks-clean in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/fix-api-group-checks-clean)
+1. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4497937284)
+2. ⭐ Starred [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
+3. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4497826878)
+4. 🗣 Commented on PR #6794 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6794#issuecomment-4492602601)
+5. 🗣 Commented on PR #6766 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6766#issuecomment-4492627065)
 <!--END_SECTION:activity-->
 
 ---
