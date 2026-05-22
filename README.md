@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [nutcas3/the-engine](https://github.com/nutcas3/the-engine)
-2. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4497937284)
-3. ⭐ Starred [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
-4. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4497826878)
-5. 🗣 Commented on PR #6794 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6794#issuecomment-4492602601)
+1. 🗣 Commented on PR #6 in [pipe-cd/piped-plugin-sdk-go](https://github.com/pipe-cd/piped-plugin-sdk-go/issues/6#issuecomment-4517599102)
+2. 🔄 Reopened PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6812)
+3. ❌ Closed PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6812)
+4. 🗣 Commented on PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6812#issuecomment-4517582627)
+5. 📥 Opened PR #6 in [pipe-cd/piped-plugin-sdk-go](https://github.com/pipe-cd/piped-plugin-sdk-go/pull/6)
 <!--END_SECTION:activity-->
 
 ---
