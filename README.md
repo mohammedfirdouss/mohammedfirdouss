@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6 in [pipe-cd/piped-plugin-sdk-go](https://github.com/pipe-cd/piped-plugin-sdk-go/issues/6#issuecomment-4517599102)
-2. 🔄 Reopened PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6812)
-3. ❌ Closed PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6812)
-4. 🗣 Commented on PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6812#issuecomment-4517582627)
-5. 📥 Opened PR #6 in [pipe-cd/piped-plugin-sdk-go](https://github.com/pipe-cd/piped-plugin-sdk-go/pull/6)
+1. 🔀 Merged PR #6 in [pipe-cd/piped-plugin-sdk-go](https://github.com/pipe-cd/piped-plugin-sdk-go/pull/6)
+2. 🗣 Commented on PR #6 in [pipe-cd/piped-plugin-sdk-go](https://github.com/pipe-cd/piped-plugin-sdk-go/issues/6#issuecomment-4517599102)
+3. 🔄 Reopened PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6812)
+4. ❌ Closed PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6812)
+5. 🗣 Commented on PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6812#issuecomment-4517582627)
 <!--END_SECTION:activity-->
 
 ---
