@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #6 in [pipe-cd/piped-plugin-sdk-go](https://github.com/pipe-cd/piped-plugin-sdk-go/pull/6)
-2. 🗣 Commented on PR #6 in [pipe-cd/piped-plugin-sdk-go](https://github.com/pipe-cd/piped-plugin-sdk-go/issues/6#issuecomment-4517599102)
-3. 🔄 Reopened PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6812)
-4. ❌ Closed PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6812)
-5. 🗣 Commented on PR #6812 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6812#issuecomment-4517582627)
+1. 🔎 Created PR #6809 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6809#pullrequestreview-4352115929)
+2. 🗣 Commented on a review of PR #6809 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6809#pullrequestreviewcomment-3294227996)
+3. 🔎 Created PR #6809 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6809#pullrequestreview-4352113560)
+4. 🗣 Commented on a review of PR #6809 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6809#pullrequestreviewcomment-3294225035)
+5. 🔎 Dismissed review for PR #6757 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6757#pullrequestreview-4351505368)
 <!--END_SECTION:activity-->
 
 ---
