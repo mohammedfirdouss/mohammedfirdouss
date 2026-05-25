@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR #6809 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6809#pullrequestreview-4352115929)
-2. 🗣 Commented on a review of PR #6809 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6809#pullrequestreviewcomment-3294227996)
-3. 🔎 Created PR #6809 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6809#pullrequestreview-4352113560)
-4. 🗣 Commented on a review of PR #6809 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6809#pullrequestreviewcomment-3294225035)
-5. 🔎 Dismissed review for PR #6757 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6757#pullrequestreview-4351505368)
+1. 📥 Opened PR in a private repository
+2. 🎉 Created a new branch in a private repository
+3. 📥 Opened PR in a private repository
+4. 🎉 Created a new branch in a private repository
+5. 📥 Opened PR in a private repository
 <!--END_SECTION:activity-->
 
 ---
