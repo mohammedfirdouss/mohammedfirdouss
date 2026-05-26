@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR in a private repository
-2. 🎉 Created a new branch in a private repository
-3. 📥 Opened PR in a private repository
-4. 🎉 Created a new branch in a private repository
-5. 📥 Opened PR in a private repository
+1. 🗣 Commented on PR #6685 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6685#issuecomment-4544148326)
+2. 🗣 Commented on PR #6748 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6748#issuecomment-4544145602)
+3. 📥 Opened PR #6861 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6861)
+4. 🎉 Created a new branch feat/sdk-deploy-target-status in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/sdk-deploy-target-status)
+5. 🔎 Dismissed review for PR #6748 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6748#pullrequestreview-4352597157)
 <!--END_SECTION:activity-->
 
 ---
