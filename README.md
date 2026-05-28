@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR in a private repository
-2. ❌ Closed PR in a private repository
-3. 📥 Opened PR in a private repository
-4. 📥 Opened PR in a private repository
-5. 🎉 Created a new branch in a private repository
+1. 📥 Opened PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6878)
+2. ❌ Closed PR #6877 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6877)
+3. 🗣 Commented on PR #6877 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6877#issuecomment-4563270407)
+4. 🎉 Created a new branch feat/multicluster-plugin-docs-v2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-plugin-docs-v2)
+5. 📥 Opened PR #6877 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6877)
 <!--END_SECTION:activity-->
 
 ---
