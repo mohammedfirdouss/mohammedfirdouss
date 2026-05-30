@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6878)
-2. ❌ Closed PR #6877 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6877)
-3. 🗣 Commented on PR #6877 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6877#issuecomment-4563270407)
-4. 🎉 Created a new branch feat/multicluster-plugin-docs-v2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-plugin-docs-v2)
-5. 📥 Opened PR #6877 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6877)
+1. 🎉 Created a new branch main in [mohammedfirdouss/c-projects](https://github.com/mohammedfirdouss/c-projects/tree/main)
+2. 🔀 Merged PR #6880 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6880)
+3. 🗣 Commented on PR #6880 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6880#issuecomment-4580622662)
+4. 📥 Opened PR #6880 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6880)
+5. 🎉 Created a new branch feat/multicluster-stage-rename in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-stage-rename)
 <!--END_SECTION:activity-->
 
 ---
