@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [mohammedfirdouss/c-projects](https://github.com/mohammedfirdouss/c-projects/tree/main)
-2. 🔀 Merged PR #6880 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6880)
-3. 🗣 Commented on PR #6880 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6880#issuecomment-4580622662)
-4. 📥 Opened PR #6880 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6880)
-5. 🎉 Created a new branch feat/multicluster-stage-rename in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-stage-rename)
+1. 🗣 Commented on PR #6879 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6879#issuecomment-4586574063)
+2. 🎉 Created a new branch comparisonblog in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/comparisonblog)
+3. 🔎 Created PR #6879 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6879#pullrequestreview-4396772064)
+4. 🗣 Commented on a review of PR #6879 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6879#pullrequestreviewcomment-3330120262)
+5. 🎉 Created a new branch main in [mohammedfirdouss/c-projects](https://github.com/mohammedfirdouss/c-projects/tree/main)
 <!--END_SECTION:activity-->
 
 ---
