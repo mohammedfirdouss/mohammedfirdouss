@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -26,8 +24,6 @@
 - [Navigating AWS with Confidence: A Beginner’s Guide to Amazon CloudWatch and Amazon Route 53](https://medium.com/@mohammedfirdousaraoye/navigating-aws-with-confidence-a-beginners-guide-to-amazon-cloudwatch-and-amazon-route-53-38e1225cf0f0?source=rss-19706121782c------2)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 ## Recent Activity
 
 <!--START_SECTION:activity-->
@@ -37,8 +33,6 @@
 4. 🗣 Commented on a review of PR #6879 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6879#pullrequestreviewcomment-3330120262)
 5. 🎉 Created a new branch main in [mohammedfirdouss/c-projects](https://github.com/mohammedfirdouss/c-projects/tree/main)
 <!--END_SECTION:activity-->
-
----
 
 ## GitHub Stats
 
@@ -60,7 +54,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
-
----
 
 <div align="center">
