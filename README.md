@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6879 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6879#issuecomment-4586574063)
-2. 🎉 Created a new branch comparisonblog in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/comparisonblog)
-3. 🔎 Created PR #6879 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6879#pullrequestreview-4396772064)
-4. 🗣 Commented on a review of PR #6879 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6879#pullrequestreviewcomment-3330120262)
-5. 🎉 Created a new branch main in [mohammedfirdouss/c-projects](https://github.com/mohammedfirdouss/c-projects/tree/main)
+1. 🗣 Commented on PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6888#issuecomment-4610928575)
+2. 🔎 Created PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreview-4416779107)
+3. 🗣 Commented on a review of PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreviewcomment-3347001294)
+4. 🔎 Created PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreview-4416775837)
+5. 🗣 Commented on a review of PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreviewcomment-3346998735)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
