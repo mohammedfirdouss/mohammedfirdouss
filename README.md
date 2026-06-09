@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6895 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6895#issuecomment-4646885400)
-2. 🗣 Commented on PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6888#issuecomment-4610928575)
-3. 🔎 Created PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreview-4416779107)
-4. 🗣 Commented on a review of PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreviewcomment-3347001294)
-5. 🔎 Created PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreview-4416775837)
+1. 🗣 Commented on PR #6756 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6756#issuecomment-4659502211)
+2. 🗣 Commented on PR #6756 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6756#issuecomment-4659176122)
+3. 🗣 Commented on PR #6895 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6895#issuecomment-4646885400)
+4. 🗣 Commented on PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6888#issuecomment-4610928575)
+5. 🔎 Created PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreview-4416779107)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
