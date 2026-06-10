@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6756 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6756#issuecomment-4659502211)
-2. 🗣 Commented on PR #6756 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6756#issuecomment-4659176122)
-3. 🗣 Commented on PR #6895 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6895#issuecomment-4646885400)
-4. 🗣 Commented on PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6888#issuecomment-4610928575)
-5. 🔎 Created PR #6888 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6888#pullrequestreview-4416779107)
+1. 🔀 Merged PR #40 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/40)
+2. ❌ Closed issue #20 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/20)
+3. ❌ Closed issue #18 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/18)
+4. 🔀 Merged PR #39 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/39)
+5. 📥 Opened PR #40 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/40)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
