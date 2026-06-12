@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #40 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/40)
-2. ❌ Closed issue #20 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/20)
-3. ❌ Closed issue #18 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/18)
-4. 🔀 Merged PR #39 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/39)
-5. 📥 Opened PR #40 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/40)
+1. ❌ Closed issue #24 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/24)
+2. 🔀 Merged PR #42 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/42)
+3. 📥 Opened PR #42 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/42)
+4. 🎉 Created a new branch backend/feat/24-edge-functions in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/tree/backend/feat/24-edge-functions)
+5. ❌ Closed issue #22 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/22)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
