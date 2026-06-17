@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR #6882 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6882#pullrequestreview-4492503739)
-2. 🗣 Commented on a review of PR #6882 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6882#pullrequestreviewcomment-3409113115)
-3. 🗣 Commented on PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6878#issuecomment-4698568361)
-4. 🗑️ Deleted a branch fix/requests-realtime-replica-identity in [ayobami11/smartkey](https://github.com/ayobami11/smartkey)
-5. 🔀 Merged PR #44 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/44)
+1. ⭐ Starred [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+2. 🗑️ Deleted a branch backend/feat/21-gemini-reports in [ayobami11/smartkey](https://github.com/ayobami11/smartkey)
+3. 🔀 Merged PR #45 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/45)
+4. ❌ Closed issue #21 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/21)
+5. 📥 Opened PR #45 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/45)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
