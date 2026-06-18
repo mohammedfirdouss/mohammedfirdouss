@@ -27,7 +27,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+1. 🔔 Watching [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 2. 🗑️ Deleted a branch backend/feat/21-gemini-reports in [ayobami11/smartkey](https://github.com/ayobami11/smartkey)
 3. 🔀 Merged PR #45 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/45)
 4. ❌ Closed issue #21 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/21)
