@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6894 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6894#issuecomment-4787497119)
-2. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4761533868)
-3. 🔀 Merged PR #50 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/50)
-4. 🗑️ Deleted a branch feat/hod-api-routes in [ayobami11/smartkey](https://github.com/ayobami11/smartkey)
-5. 🎉 Created a new branch feat/hod-api-routes in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/tree/feat/hod-api-routes)
+1. 📥 Opened PR #50 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/50)
+2. 📥 Opened PR #49 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/49)
+3. 📥 Opened PR #48 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/48)
+4. 📥 Opened PR #47 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/47)
+5. 📥 Opened PR #46 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/46)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
