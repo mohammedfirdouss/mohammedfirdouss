@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
-2. 📥 Opened PR #50 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/50)
-3. 📥 Opened PR #49 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/49)
-4. 📥 Opened PR #48 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/48)
-5. 📥 Opened PR #47 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/47)
+1. 🗣 Commented on PR #6930 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6930#issuecomment-4830034537)
+2. 🗣 Commented on PR #6930 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6930#issuecomment-4826247989)
+3. ⭐ Starred [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+4. 📥 Opened PR #50 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/50)
+5. 📥 Opened PR #49 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/pull/49)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
