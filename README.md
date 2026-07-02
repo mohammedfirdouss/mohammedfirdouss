@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6878#issuecomment-4852901636)
-2. 🔎 Dismissed review for PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6878#pullrequestreview-4560208116)
-3. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4851722151)
-4. 🗣 Commented on PR #6930 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6930#issuecomment-4830034537)
-5. 🗣 Commented on PR #6930 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6930#issuecomment-4826247989)
+1. ❌ Closed issue #51 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/51)
+2. ⭐ Starred [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)
+3. 🗣 Commented on PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6878#issuecomment-4852901636)
+4. 🔎 Dismissed review for PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6878#pullrequestreview-4560208116)
+5. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4851722151)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
