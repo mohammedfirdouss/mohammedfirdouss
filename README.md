@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed issue #51 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/51)
-2. ⭐ Starred [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)
-3. 🗣 Commented on PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6878#issuecomment-4852901636)
-4. 🔎 Dismissed review for PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6878#pullrequestreview-4560208116)
-5. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4851722151)
+1. 🗣 Commented on PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6977#issuecomment-4872323467)
+2. 📥 Opened PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977)
+3. 🎉 Created a new branch feat/multicluster-plugin-readme-update in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-plugin-readme-update)
+4. 🗣 Commented on PR #6976 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6976#issuecomment-4871853171)
+5. ❌ Closed issue #51 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/51)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
