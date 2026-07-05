@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6977#issuecomment-4872323467)
-2. 📥 Opened PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977)
-3. 🎉 Created a new branch feat/multicluster-plugin-readme-update in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/feat/multicluster-plugin-readme-update)
-4. 🗣 Commented on PR #6976 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6976#issuecomment-4871853171)
-5. ❌ Closed issue #51 in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/issues/51)
+1. 🔎 Created PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977#pullrequestreview-4629655146)
+2. 🗣 Commented on a review of PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977#pullrequestreviewcomment-3523258499)
+3. 🔎 Created PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977#pullrequestreview-4629652415)
+4. 🗣 Commented on a review of PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977#pullrequestreviewcomment-3523255830)
+5. 🗣 Commented on PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6977#issuecomment-4882135731)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
