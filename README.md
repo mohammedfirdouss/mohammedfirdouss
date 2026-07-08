@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977)
-2. 🎉 Created a new branch main in [mohammedfirdouss/omni-resolve](https://github.com/mohammedfirdouss/omni-resolve/tree/main)
-3. 🔎 Created PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977#pullrequestreview-4629655146)
-4. 🗣 Commented on a review of PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977#pullrequestreviewcomment-3523258499)
-5. 🔎 Created PR #6977 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6977#pullrequestreview-4629652415)
+1. 🗣 Commented on PR #6967 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6967#issuecomment-4912638293)
+2. 🗣 Commented on PR #6698 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6698#issuecomment-4912532094)
+3. 🗣 Commented on PR #6984 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6984#issuecomment-4912505557)
+4. 🔎 Created PR #6984 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6984#pullrequestreview-4651942990)
+5. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4912345797)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
