@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6967 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6967#issuecomment-4912638293)
-2. 🗣 Commented on PR #6698 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6698#issuecomment-4912532094)
-3. 🗣 Commented on PR #6984 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6984#issuecomment-4912505557)
-4. 🔎 Created PR #6984 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6984#pullrequestreview-4651942990)
-5. 🗣 Commented on PR #6791 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6791#issuecomment-4912345797)
+1. 🔎 Dismissed review for PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6878#pullrequestreview-4608545926)
+2. 🔎 Created PR #6982 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6982#pullrequestreview-4661659823)
+3. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/ecs/golang.org/x/net-0.55.0 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+4. 🗣 Commented on PR #6967 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6967#issuecomment-4912638293)
+5. 🗣 Commented on PR #6698 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6698#issuecomment-4912532094)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
