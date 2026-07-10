@@ -27,11 +27,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Dismissed review for PR #6878 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6878#pullrequestreview-4608545926)
-2. 🔎 Created PR #6982 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6982#pullrequestreview-4661659823)
-3. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/ecs/golang.org/x/net-0.55.0 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-4. 🗣 Commented on PR #6967 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6967#issuecomment-4912638293)
-5. 🗣 Commented on PR #6698 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6698#issuecomment-4912532094)
+1. 🎉 Created a new branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/sigs.k8s.io/controller-runtime-0.24.1 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/sigs.k8s.io/controller-runtime-0.24.1)
+2. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/golang.org/x/net-0.55.0 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+3. 🔎 Created PR #6969 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6969#pullrequestreview-4670720880)
+4. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/wait/golang.org/x/net-0.55.0 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. 🔎 Created PR #6966 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6966#pullrequestreview-4670712669)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
