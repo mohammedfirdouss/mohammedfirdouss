@@ -1,9 +1,13 @@
+# Mohammed Firdouss
+
+Cloud, DevOps, and platform engineering focused profile.
+
 ## Tech Stack
 
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -36,6 +40,8 @@
 
 ## GitHub Stats
 
+<div align="center">
+
 <table>
   <tr>
     <td>
@@ -54,6 +60,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
-
-<div align="center">
-
