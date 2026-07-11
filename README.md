@@ -1,7 +1,7 @@
 
-Hi there 👋 im Mohammed Firdous
+Hi there 👋 im Mohammed Firdous. I'm a software engineer interested in cloud infrastructure and AI. I primarly code in Golang as well.
 
-Im currently working on anything that piques my interest. Feel free to look at my projects and have a great day!
+I'm currently working on anything that piques my interest. Feel free to look at my projects and have a great day!
 
 ## Recent Activity
 
