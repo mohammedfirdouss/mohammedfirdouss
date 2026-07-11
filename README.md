@@ -2,6 +2,8 @@
 
 Focused on Cloud Infrastructure, AI, and Kubernetes, with Golang as my primary language.
 
+Email me: mohammedfirdous[at]gmail dot com
+
 ## Tech Stack
 
 <div align="center">
