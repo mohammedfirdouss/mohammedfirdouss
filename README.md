@@ -1,6 +1,5 @@
-Hi there 👋
 
-Hi there 👋 im Mohammed Firdouss
+Hi there 👋 im Mohammed Firdous
 
 Im currently working on anything that piques my interest. Feel free to look at my projects and have a great day!
 
