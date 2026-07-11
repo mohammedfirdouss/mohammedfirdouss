@@ -1,6 +1,6 @@
 # Mohammed Firdouss
 
-Cloud, DevOps, and platform engineering focused profile.
+Focused on Cloud Infrastructure, AI, and Kubernetes, with Golang as my primary language.
 
 ## Tech Stack
 
