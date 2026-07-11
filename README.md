@@ -33,11 +33,11 @@ Email me: mohammedfirdous[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/sigs.k8s.io/controller-runtime-0.24.1 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/sigs.k8s.io/controller-runtime-0.24.1)
-2. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/golang.org/x/net-0.55.0 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-3. 🔎 Created PR #6969 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6969#pullrequestreview-4670720880)
-4. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/wait/golang.org/x/net-0.55.0 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-5. 🔎 Created PR #6966 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6966#pullrequestreview-4670712669)
+1. ⭐ Starred [AhmedNassar7/Software-Engineering](https://github.com/AhmedNassar7/Software-Engineering)
+2. 🗑️ Deleted a branch copilot/fix-images-not-visible in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+3. 🗑️ Deleted a branch copilot/ensure-github-stats-are-recent in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
+4. 🔀 Merged PR #25 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/25)
+5. 📥 Opened PR #25 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/25)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
