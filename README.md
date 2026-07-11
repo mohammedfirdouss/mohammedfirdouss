@@ -47,18 +47,14 @@ Email me: mohammedfirdous[at]gmail dot com
 <table>
   <tr>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/1-repos-per-language.svg" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammedfirdouss&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
     </td>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/mohammedfirdouss/mohammedfirdouss/main/profile-summary-card-output/dark/2-most-commit-language.svg" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedfirdouss&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" />
     </td>
   </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
