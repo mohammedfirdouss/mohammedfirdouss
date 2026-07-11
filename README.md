@@ -1,6 +1,6 @@
 # Me
 
-My name is Mohammed Firdous and I am focused on Cloud Infrastructure, AI, and Kubernetes, with Golang as my primary language.
+My name is Mohammed Firdous and I am focused on Cloud Infrastructure, AI, and Kubernetes, with Golang and Python as my primary language.
 
 Email me: mohammedfirdous[at]gmail dot com
 
@@ -47,10 +47,10 @@ Email me: mohammedfirdous[at]gmail dot com
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mohammedfirdouss&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+      <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedfirdouss&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" />
+      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
     </td>
   </tr>
 </table>
