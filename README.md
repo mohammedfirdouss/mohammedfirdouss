@@ -1,6 +1,6 @@
-# Mohammed Firdouss
+# Me
 
-Focused on Cloud Infrastructure, AI, and Kubernetes, with Golang as my primary language.
+My name is Mohammed Firdous and I am focused on Cloud Infrastructure, AI, and Kubernetes, with Golang as my primary language.
 
 Email me: mohammedfirdous[at]gmail dot com
 
