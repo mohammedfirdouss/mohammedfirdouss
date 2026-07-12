@@ -2,7 +2,7 @@
 
 My name is Mohammed Firdous and I am focused on Cloud Infrastructure, AI, and Kubernetes, with Golang and Python as my primary language.
 
-Email me: mohammedfirdous[at]gmail dot com
+Email me: mohammedfirdous682[at]gmail dot com
 
 ## Tech Stack
 
