@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [AhmedNassar7/Software-Engineering](https://github.com/AhmedNassar7/Software-Engineering)
-2. 🗑️ Deleted a branch copilot/fix-images-not-visible in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-3. 🗑️ Deleted a branch copilot/ensure-github-stats-are-recent in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss)
-4. 🔀 Merged PR #25 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/25)
-5. 📥 Opened PR #25 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/25)
+1. 🔎 Created PR #6981 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6981#pullrequestreview-4679950331)
+2. ⭐ Starred [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems)
+3. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+4. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+5. 🗣 Commented on PR #6815 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6815#issuecomment-4950499113)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
