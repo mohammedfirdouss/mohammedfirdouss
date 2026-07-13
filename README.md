@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR #6981 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6981#pullrequestreview-4679950331)
-2. ⭐ Starred [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems)
-3. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
-4. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
-5. 🗣 Commented on PR #6815 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6815#issuecomment-4950499113)
+1. 🗣 Commented on PR #6940 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6940#issuecomment-4952689027)
+2. 🔎 Created PR #6981 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6981#pullrequestreview-4679950331)
+3. ⭐ Starred [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems)
+4. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+5. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
