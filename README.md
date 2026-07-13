@@ -4,6 +4,7 @@ My name is Mohammed Firdous and I am focused on Cloud Infrastructure, AI, and Ku
 
 Email me: mohammedfirdous682[at]gmail dot com
 
+
 ## Tech Stack
 
 <div align="center">
