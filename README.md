@@ -34,11 +34,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR #6940 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6940#issuecomment-4952689027)
-2. 🔎 Created PR #6981 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6981#pullrequestreview-4679950331)
-3. ⭐ Starred [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems)
-4. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
-5. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+1. 🗣 Commented on PR #7032 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/7032#issuecomment-4978235005)
+2. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/golang.org/x/mod-0.38.0 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+3. 🔎 Created PR #7036 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7036#pullrequestreview-4702008648)
+4. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/github.com/pipe-cd/pipecd-0.57.0 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. 🔎 Created PR #7037 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7037#pullrequestreview-4699613384)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
