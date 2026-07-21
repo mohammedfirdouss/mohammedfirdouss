@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes_multicluster/k8s.io/apimachinery-0.36.1 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-2. 🔎 Created PR #6894 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6894#pullrequestreview-4735484889)
-3. 🔎 Created PR #6988 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6988#pullrequestreview-4735483270)
-4. ❌ Closed issue #6813 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6813)
-5. 🗣 Commented on PR #6894 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6894#issuecomment-5021483124)
+1. 🗣 Commented on PR #7000 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/7000#issuecomment-5033094986)
+2. 🗣 Commented on PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6644#issuecomment-5033043512)
+3. ❌ Closed issue #6542 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6542)
+4. 🔎 Created PR #6644 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6644#pullrequestreview-4743746477)
+5. ❌ Closed issue #7044 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/7044)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
