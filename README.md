@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes/google.golang.org/grpc-1.82.1 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-2. 🔎 Created PR #7066 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7066#pullrequestreview-4753364903)
-3. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/analysis/google.golang.org/grpc-1.82.1 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-4. 🔎 Created PR #7072 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7072#pullrequestreview-4753252372)
-5. 🔎 Created PR #7015 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7015#pullrequestreview-4753235258)
+1. 🗣 Commented on PR #6882 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6882#issuecomment-5055431139)
+2. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes/google.golang.org/grpc-1.82.1 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+3. 🔎 Created PR #7066 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7066#pullrequestreview-4753364903)
+4. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/analysis/google.golang.org/grpc-1.82.1 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. 🔎 Created PR #7072 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7072#pullrequestreview-4753252372)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
