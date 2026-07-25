@@ -47,7 +47,7 @@ Email me: mohammedfirdous682[at]gmail dot com
 <table>
   <tr>
     <td>
-      <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
     </td>
     <td>
       <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
@@ -58,4 +58,3 @@ Email me: mohammedfirdous682[at]gmail dot com
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
-
