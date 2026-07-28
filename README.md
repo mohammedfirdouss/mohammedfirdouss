@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch copilot/vscode-ms02ipex-c0yb in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag)
-2. 🎉 Created a new branch copilot/vscode-ms02ipex-c0yb in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag/tree/copilot/vscode-ms02ipex-c0yb)
-3. 🗣 Commented on PR #6882 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6882#issuecomment-5055431139)
-4. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes/google.golang.org/grpc-1.82.1 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-5. 🔎 Created PR #7066 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7066#pullrequestreview-4753364903)
+1. 🗣 Commented on issue #1983 in [cncf/mentoring](https://github.com/cncf/mentoring/issues/1983#issuecomment-5093584586)
+2. 🗑️ Deleted a branch copilot/vscode-ms02ipex-c0yb in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag)
+3. 🎉 Created a new branch copilot/vscode-ms02ipex-c0yb in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag/tree/copilot/vscode-ms02ipex-c0yb)
+4. 🗣 Commented on PR #6882 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6882#issuecomment-5055431139)
+5. 🗑️ Deleted a branch dependabot/go_modules/pkg/app/pipedv1/plugin/kubernetes/google.golang.org/grpc-1.82.1 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
