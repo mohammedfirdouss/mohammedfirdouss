@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [RedHatOfficial/free-red-hat-learning](https://github.com/RedHatOfficial/free-red-hat-learning)
-2. 🗣 Commented on issue #1983 in [cncf/mentoring](https://github.com/cncf/mentoring/issues/1983#issuecomment-5109632686)
-3. 🗣 Commented on issue #1983 in [cncf/mentoring](https://github.com/cncf/mentoring/issues/1983#issuecomment-5093584586)
-4. 🗑️ Deleted a branch copilot/vscode-ms02ipex-c0yb in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag)
-5. 🎉 Created a new branch copilot/vscode-ms02ipex-c0yb in [mohammedfirdouss/api-rag](https://github.com/mohammedfirdouss/api-rag/tree/copilot/vscode-ms02ipex-c0yb)
+1. 🔎 Updated PR #7079 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7079#pullrequestreview-4827949899)
+2. 🔎 Created PR #7079 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7079#pullrequestreview-4827949899)
+3. 🗣 Commented on issue #1983 in [cncf/mentoring](https://github.com/cncf/mentoring/issues/1983#issuecomment-5141624123)
+4. 🔎 Created PR #7081 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7081#pullrequestreview-4827410194)
+5. ⭐ Starred [RedHatOfficial/free-red-hat-learning](https://github.com/RedHatOfficial/free-red-hat-learning)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
