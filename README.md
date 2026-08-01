@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Updated PR #7079 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7079#pullrequestreview-4827949899)
-2. 🔎 Created PR #7079 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7079#pullrequestreview-4827949899)
-3. 🗣 Commented on issue #1983 in [cncf/mentoring](https://github.com/cncf/mentoring/issues/1983#issuecomment-5141624123)
-4. 🔎 Created PR #7081 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7081#pullrequestreview-4827410194)
-5. ⭐ Starred [RedHatOfficial/free-red-hat-learning](https://github.com/RedHatOfficial/free-red-hat-learning)
+1. 🔎 Created PR #7102 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7102#pullrequestreview-4834294218)
+2. ⭐ Starred [ankithreddypati/interview-prep-notes](https://github.com/ankithreddypati/interview-prep-notes)
+3. 🔎 Updated PR #7079 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7079#pullrequestreview-4827949899)
+4. 🔎 Created PR #7079 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7079#pullrequestreview-4827949899)
+5. 🗣 Commented on issue #1983 in [cncf/mentoring](https://github.com/cncf/mentoring/issues/1983#issuecomment-5141624123)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
