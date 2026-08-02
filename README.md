@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR #7102 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7102#pullrequestreview-4834294218)
-2. ⭐ Starred [ankithreddypati/interview-prep-notes](https://github.com/ankithreddypati/interview-prep-notes)
-3. 🔎 Updated PR #7079 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7079#pullrequestreview-4827949899)
-4. 🔎 Created PR #7079 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7079#pullrequestreview-4827949899)
-5. 🗣 Commented on issue #1983 in [cncf/mentoring](https://github.com/cncf/mentoring/issues/1983#issuecomment-5141624123)
+1. 🔎 Created PR #7018 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7018#pullrequestreview-4838503802)
+2. 🔎 Created PR #6882 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6882#pullrequestreview-4838180762)
+3. 🗣 Commented on PR #6729 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6729#issuecomment-5157281543)
+4. 🗑️ Deleted a branch dependabot/npm_and_yarn/docs/autoprefixer-10.5.4 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+5. 🔎 Created PR #7104 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7104#pullrequestreview-4838000819)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
