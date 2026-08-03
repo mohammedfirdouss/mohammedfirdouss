@@ -33,11 +33,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR #7018 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7018#pullrequestreview-4838503802)
-2. 🔎 Created PR #6882 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/6882#pullrequestreview-4838180762)
-3. 🗣 Commented on PR #6729 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/issues/6729#issuecomment-5157281543)
-4. 🗑️ Deleted a branch dependabot/npm_and_yarn/docs/autoprefixer-10.5.4 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
-5. 🔎 Created PR #7104 in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd/pull/7104#pullrequestreview-4838000819)
+1. 🎉 Created a new branch main in [mohammedfirdouss/cinema-ticket-booking](https://github.com/mohammedfirdouss/cinema-ticket-booking/tree/main)
+2. ⭐ Starred [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+3. ⭐ Starred [deeheber/job-search-agent](https://github.com/deeheber/job-search-agent)
+4. ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+5. ⭐ Starred [ankithreddypati/interview-prep-notes](https://github.com/ankithreddypati/interview-prep-notes)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
