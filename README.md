@@ -1,7 +1,7 @@
 # Me
+I work on cloud infrastructure and Kubernetes tooling, and build with Go and Python. I built the kubernetes_multicluster plugin for PipeCD during a CNCF LFX Mentorship — six pipeline stages (canary, baseline, primary rollout, traffic routing, canary/baseline.
 
-My name is Mohammed Firdous and I am focused on Cloud Infrastructure, AI and Kubernetes with Golang and Python as my primary language.
-
+Site: mohammedfirdous.me
 Email me: mohammedfirdous682[at]gmail dot com
 
 ## Tech Stack
