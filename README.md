@@ -1,7 +1,6 @@
 # Me
 I work on cloud infrastructure and Kubernetes tooling, and build with Go and Python. I built the kubernetes_multicluster plugin for PipeCD during a CNCF LFX Mentorship including six pipeline stages (canary, baseline, primary rollout, traffic routing, canary/baseline.
 
-Site: mohammedfirdous.me
 Email me: mohammedfirdous682[at]gmail dot com
 
 ## Tech Stack
