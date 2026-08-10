@@ -1,5 +1,5 @@
 # Me
-I work on cloud infrastructure and Kubernetes tooling, and build with Go and Python.
+I work on cloud infrastructure, Kubernetes tooling and build with Go and Python.
 
 Email me: mohammedfirdous682[at]gmail dot com
 
