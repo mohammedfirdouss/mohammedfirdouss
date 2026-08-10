@@ -32,11 +32,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR #28 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/28#pullrequestreview-4888753577)
-2. ⭐ Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
-3. ⭐ Starred [callummcdougall/ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0)
-4. 🎉 Created a new branch backend/chore/review-actions-migration-recovery in [ayobami11/smartkey](https://github.com/ayobami11/smartkey/tree/backend/chore/review-actions-migration-recovery)
-5. ⭐ Starred [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+1. ⭐ Starred [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs)
+2. 🎉 Created a new branch in a private repository
+3. 🍴 Forked [santifer/career-ops](https://github.com/santifer/career-ops)
+4. 🔎 Created PR #28 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/28#pullrequestreview-4888753577)
+5. ⭐ Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
