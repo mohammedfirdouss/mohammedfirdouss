@@ -35,11 +35,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs)
-2. 🎉 Created a new branch in a private repository
-3. 🍴 Forked [santifer/career-ops](https://github.com/santifer/career-ops)
-4. 🔎 Created PR #28 in [mohammedfirdouss/mohammedfirdouss](https://github.com/mohammedfirdouss/mohammedfirdouss/pull/28#pullrequestreview-4888753577)
-5. ⭐ Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+1. 🗑️ Deleted a branch copilot/add-under-construction-page in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+2. 🔎 Created PR #15 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/15#pullrequestreview-4932321281)
+3. ⭐ Starred [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs)
+4. 🎉 Created a new branch in a private repository
+5. 🍴 Forked [santifer/career-ops](https://github.com/santifer/career-ops)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
