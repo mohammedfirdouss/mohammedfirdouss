@@ -1,8 +1,6 @@
 # Me
 
-I love working on software that people use. I’m happiest working on hard problems and I like to own my systems end-to-end: implementation, debugging, and operating in production.
-
-I work on cloud infrastructure and K8s with AI and build with Go and Python.
+I love working on software that people use. I’m happiest working on hard problems and I like to own my systems end-to-end: implementation, debugging, and operating in production and work on cloud infrastructure and K8s with AI and build with Go,Python.
 
 Email me: mohammedfirdous682[at]gmail dot com
 
