@@ -1,6 +1,6 @@
 # Me
 
-I love building software that real people use every day. I’m at my best when tackling hard, complex problems and taking full ownership of my systems end-to-end—whether that means writing clean code, debugging or managing production reliability.
+I love building software that real people use every day. I’m at my best when tackling hard, complex problems and taking full ownership of my systems whether that means writing clean code, debugging or managing production reliability.
 
 Currently, I focus on cloud-native infrastructure, Kubernetes, and AI driven platforms, primary building with Go and Python.
 
