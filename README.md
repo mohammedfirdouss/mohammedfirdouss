@@ -35,11 +35,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [danluu/post-mortems](https://github.com/danluu/post-mortems)
-2. 🗑️ Deleted a branch copilot/add-under-construction-page in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
-3. 🔎 Created PR #15 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/15#pullrequestreview-4932321281)
-4. ⭐ Starred [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs)
-5. 🎉 Created a new branch in a private repository
+1. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+2. ⭐ Starred [spf13/go-skills](https://github.com/spf13/go-skills)
+3. ⭐ Starred [danluu/post-mortems](https://github.com/danluu/post-mortems)
+4. 🗑️ Deleted a branch copilot/add-under-construction-page in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
+5. 🔎 Created PR #15 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/15#pullrequestreview-4932321281)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
