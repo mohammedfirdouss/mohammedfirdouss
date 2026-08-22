@@ -35,11 +35,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-2. ⭐ Starred [spf13/go-skills](https://github.com/spf13/go-skills)
-3. ⭐ Starred [danluu/post-mortems](https://github.com/danluu/post-mortems)
-4. 🗑️ Deleted a branch copilot/add-under-construction-page in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio)
-5. 🔎 Created PR #15 in [mohammedfirdouss/portfolio](https://github.com/mohammedfirdouss/portfolio/pull/15#pullrequestreview-4932321281)
+1. 🗑️ Deleted a branch fix-goyaml-1.19.2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+2. 🎉 Created a new branch fix-goyaml-1.19.2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix-goyaml-1.19.2)
+3. 🗑️ Deleted a branch fix-datadog-api-client-1.16.0 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+4. 🎉 Created a new branch fix-datadog-api-client-1.16.0 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix-datadog-api-client-1.16.0)
+5. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
