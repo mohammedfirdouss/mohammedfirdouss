@@ -35,11 +35,11 @@ Email me: mohammedfirdous682[at]gmail dot com
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch fix-goyaml-1.19.2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
-2. 🎉 Created a new branch fix-goyaml-1.19.2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix-goyaml-1.19.2)
-3. 🗑️ Deleted a branch fix-datadog-api-client-1.16.0 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
-4. 🎉 Created a new branch fix-datadog-api-client-1.16.0 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix-datadog-api-client-1.16.0)
-5. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+1. ⭐ Starred [michaelshimeles/skills](https://github.com/michaelshimeles/skills)
+2. 🗑️ Deleted a branch fix-goyaml-1.19.2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+3. 🎉 Created a new branch fix-goyaml-1.19.2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix-goyaml-1.19.2)
+4. 🗑️ Deleted a branch fix-datadog-api-client-1.16.0 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
+5. 🎉 Created a new branch fix-datadog-api-client-1.16.0 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix-datadog-api-client-1.16.0)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
