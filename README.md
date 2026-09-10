@@ -38,8 +38,6 @@ Email me: mohammedfirdous682[at]gmail dot com
 1. 🎉 Created a new branch main in [mohammedfirdouss/MindfulVerse](https://github.com/mohammedfirdouss/MindfulVerse/tree/main)
 2. 🌍 Made repository public [mohammedfirdouss/MindfulVerse](https://github.com/mohammedfirdouss/MindfulVerse)
 3. ⭐ Starred [michaelshimeles/skills](https://github.com/michaelshimeles/skills)
-4. 🗑️ Deleted a branch fix-goyaml-1.19.2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd)
-5. 🎉 Created a new branch fix-goyaml-1.19.2 in [mohammedfirdouss/pipecd](https://github.com/mohammedfirdouss/pipecd/tree/fix-goyaml-1.19.2)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
