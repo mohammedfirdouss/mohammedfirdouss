@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 12 * * *' # daily: blog posts, then activity (one workflow)
+    - cron: '0 12 * * *' # daily: blog posts
   workflow_dispatch:
 
 concurrency:
@@ -23,14 +23,3 @@ jobs:
           feed_list: "https://medium.com/feed/@mohammedfirdousaraoye"
           readme_path: README.md
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Update GitHub activity
-        uses: TheDanniCraft/activity-log@v1
-        with:
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.ACTIVITY_PAT }}
-          EVENT_LIMIT: "5"
-          OUTPUT_STYLE: "MARKDOWN"
-          README_PATH: "README.md"
-          COMMIT_MESSAGE: "chore(readme): update recent activity"
-          HIDE_DETAILS_ON_PRIVATE_REPOS: "true"
-          IGNORE_EVENTS: "PushEvent"
