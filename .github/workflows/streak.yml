@@ -1,0 +1,28 @@
+name: Streak
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # daily at 02:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: streak
+  cancel-in-progress: true
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: lowlighter/metrics@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: streak.svg
+          base: ""
+          config_timezone: UTC
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

@@ -27,8 +27,7 @@ Software engineer working on cloud-native infrastructure, Kubernetes and AI plat
 <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
 <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="./streak.svg" />
 
 </div>
