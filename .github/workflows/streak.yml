@@ -17,7 +17,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v7
-      - uses: lowlighter/metrics@v4
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
