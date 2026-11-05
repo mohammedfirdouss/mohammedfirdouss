@@ -17,3 +17,14 @@ Software engineer working on cloud-native infrastructure, Kubernetes and AI plat
 - [3 Tier Architecture using AWS CloudFormation](https://medium.com/@mohammedfirdousaraoye/3-tier-architecture-using-aws-cloudformation-419044db9587?source=rss-19706121782c------2)
 - [Navigating AWS with Confidence: A Beginner’s Guide to Amazon CloudWatch and Amazon Route 53](https://medium.com/@mohammedfirdousaraoye/navigating-aws-with-confidence-a-beginners-guide-to-amazon-cloudwatch-and-amazon-route-53-38e1225cf0f0?source=rss-19706121782c------2)
 <!-- BLOG-POST-LIST:END -->
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammedfirdouss&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
