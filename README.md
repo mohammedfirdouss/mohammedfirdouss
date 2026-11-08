@@ -1,6 +1,6 @@
 # Mohammed Firdous
 
-Software engineer working on cloud-native infrastructure, Kubernetes and AI platforms, mostly in Go and Python.
+Software Engineer working on cloud-native infrastructure, Kubernetes and AI platforms, mostly in Go and Python.
 
 - Maintainer of [PipeCD](https://github.com/pipe-cd/pipecd) (CNCF Sandbox) and LFX mentor
 - Portfolio: [mohammedfirdous.fyi](https://mohammedfirdous.fyi)
