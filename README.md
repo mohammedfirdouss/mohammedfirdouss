@@ -3,6 +3,7 @@
 Software Engineer working on cloud-native infrastructure, Kubernetes and AI platforms, mostly in Go and Python.
 
 - Maintainer of [PipeCD](https://github.com/pipe-cd/pipecd) (CNCF Sandbox) and LFX mentor
+- 2x AWS Community Builder for Serverless Category
 - Portfolio: [mohammedfirdous.fyi](https://mohammedfirdous.fyi)
 - Email: mohammedfirdous682[at]gmail dot com
 
