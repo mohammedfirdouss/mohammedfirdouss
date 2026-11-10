@@ -7,6 +7,8 @@ Software Engineer working on cloud-native infrastructure, Kubernetes and AI plat
 - Portfolio: [mohammedfirdous.fyi](https://mohammedfirdous.fyi)
 - Email: mohammedfirdous682[at]gmail dot com
 
+I watch football and basketball occasionally when i have free time. A Man Utd fan :)
+
 **Stack:** Go · Python · Kubernetes · Terraform · Docker · AWS · GCP · Linux
 
 ## Latest writing
